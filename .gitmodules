@@ -1,0 +1,15 @@
+[submodule "hcsn-viz"]
+	path = hcsn-viz
+	url = https://github.com/hcsn-theory/hcsn-viz.git
+[submodule "hcsn-theory"]
+	path = hcsn-theory
+	url = https://github.com/hcsn-theory/hcsn-theory.git
+[submodule "hcsn-sim"]
+	path = hcsn-sim
+	url = https://github.com/hcsn-theory/hcsn-sim.git
+[submodule "hcsn-rust"]
+	path = hcsn-rust
+	url = https://github.com/hcsn-theory/hcsn-rust.git
+[submodule "hcsn-gantry"]
+	path = hcsn-gantry
+	url = https://github.com/hcsn-theory/hcsn-gantry.git

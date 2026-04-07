@@ -1,0 +1,126 @@
+{
+  "project": "HCSN (Hierarchical Causal Structure Networks)",
+  "last_updated": "2026-03-29",
+  "author": {
+    "name": "Saif Mukhtar",
+    "orcid": "https://orcid.org/0009-0004-1698-5729",
+    "github": "https://github.com/hcsn-theory"
+  },
+
+  "publications": [
+    {
+      "title": "HCSN: A Hierarchical Causal Structure Network Framework for Emergent Physics",
+      "doi": "10.55277/researchhub.fvahxvpt.1",
+      "url": "https://doi.org/10.55277/researchhub.fvahxvpt.1",
+      "pdf": "https://storage.prod.researchhub.com/uploads/papers/users/191310/08729f52-b390-48cd-a0bc-60921a135bfd/hcsn.pdf",
+      "platform": "ResearchHub",
+      "license": "CC-BY 4.0",
+      "topics": [
+        "computational-physics",
+        "causal-structure",
+        "theoretical-physics",
+        "quantum-gravity"
+      ],
+      "published_date": "2026"
+    }
+  ],
+
+  "repositories": [
+    {
+      "name": "test-hcsn-sim",
+      "description": "Simulation engine and experiments for HCSN universes",
+      "url": "https://github.com/hcsn-theory/hcsn-sim",
+      "language": "Python",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "test-hcsn-theory",
+      "description": "Canonical theoretical documents for the HCSN framework",
+      "url": "https://github.com/hcsn-theory/HCSN-core-Theory",
+      "license": "Custom",
+      "status": "Refactored February 2026"
+    }
+  ],
+
+  "media": [
+    {
+      "type": "youtube_video",
+      "title": "HCSN Theory — Video Overview",
+      "url": "https://youtu.be/A0oh6Rlx03Y"
+    }
+  ],
+
+  "theory_summary": {
+    "full_name": "Hierarchical Causal Structure Networks",
+    "tagline": "A causal theory of emergent physics from discrete hypergraph rewrites",
+    "core_claim": "The universe is made only of causal relations locally rewritten by simple rules. All spacetime, particles, mass, quantum behavior, and relativity emerge from this substrate — nothing is assumed.",
+    "what_is_not_assumed": [
+      "Background spacetime or manifold",
+      "Hilbert spaces or wavefunctions",
+      "Lorentz invariance",
+      "Quantum collapse postulates",
+      "Conservation laws (statistical only)",
+      "Mass, energy, or momentum as primitives"
+    ],
+    "what_emerges": [
+      "Time (rewrite depth)",
+      "Spacetime geometry (large-scale causal regularity)",
+      "Particles (stable topological defects)",
+      "Mass (defect inertia = inverse momentum variance)",
+      "Lorentz invariance (attractor, not postulate)",
+      "Quantum behavior (causal ambiguity + finite info resolution)"
+    ]
+  },
+
+  "current_architecture": {
+    "substrate": "Hypergraph — vertices (events) + hyperedges (causal relations)",
+    "evolution": "Local probabilistic rewrite rules on finite subgraphs",
+    "order_parameter": "Ω (Hierarchical Closure) — multi-scale causal consistency",
+    "transport_variable": "ξ — propagation activity (diagnostic scalar, not a field)",
+    "phase_structure": {
+      "subcritical": "Ω < 1.0 — transient defects, no transport",
+      "critical": "Ω ≈ 1.08–1.18 — phase transition, marginal stability",
+      "supercritical": "Ω > 1.2 — persistent worldlines, stable ξ transport"
+    },
+    "particle_definition": {
+      "persistence": "Lifetime >> local rewrite autocorrelation time",
+      "identity": "Overlap continuity, not vertex identity",
+      "mass": "m ~ 1 / Var(p) where p = rewrite imbalance persistence",
+      "interaction": "Rewrite competition for Ω-modulated rewrite pool"
+    },
+    "canonical_documents": [
+      "docs/01_axioms_and_methodology.md",
+      "docs/02_defects_worldlines_and_particles.md",
+      "docs/03_emergent_dynamics_momentum_and_interaction.md",
+      "docs/04_geometry_dimension_uncertainty_and_limits.md"
+    ],
+    "validated_results": [
+      "Zero causality violations across all simulation variants",
+      "Finite emergent signal speed (~0.086–0.123 normalized units)",
+      "Persistent defect worldlines above critical Ω",
+      "Uncertainty relation robust across 21+ parameter configurations",
+      "Multiverse universality confirmed across 5 rule variants"
+    ],
+    "open_problems": [
+      "Analytic mechanism for dimensional selection",
+      "Emergence of exact conservation laws",
+      "Classification of distinct defect species",
+      "Born rule derivation from causal ignorance",
+      "Connection to external large-scale physics frameworks"
+    ]
+  },
+
+  "grants": [
+    {
+      "id": "grant_001",
+      "title": "",
+      "funder": "",
+      "amount": "",
+      "currency": "",
+      "submitted_date": "",
+      "decision_date": "",
+      "status": "pending | accepted | rejected",
+      "notes": ""
+    }
+  ]
+}
