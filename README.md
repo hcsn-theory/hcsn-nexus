@@ -8,23 +8,28 @@
 
 **HCSN** is a computational framework designed to validate the theory of matter emergence within topological rewrite systems. Rather than utilizing ad-hoc particle injection, HCSN models a purely structural universe where "Topological Knots"—persistent, localized structural motifs—emerge spontaneously from background vacuum dynamics.
 
-This repository contains the core high-performance Rust engine, the theory documentation, and a high-fidelity cinematic observer (Visualizer).
+This workspace (Nexus) contains the formal theory, the high-performance core engine, the visualization pipeline, and telemetry observability.
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure (The Nexus)
 
-- **`hcsn-rust/`**: The core simulation engine. High-performance topological rewrite logic.
-- **`visualization/`**: The "Obsidian Observer." A GPU-accelerated 3D environment for real-time monitoring of matter emergence.
-- **`hcsn-theory/`**: Formal documentation and scientific underpinnings of the structural matter condensation theory.
+| Repository | Description | Status |
+|------------|-------------|--------|
+| **[hcsn-theory](hcsn-theory/)** | Formal Scientific Papers and Canon (Docs 01–05). | ✅ Stable |
+| **[hcsn-rust](hcsn-rust/)** | Core High-Performance Simulation Engine. | ✅ Phase 12 |
+| **[hcsn-viz](hcsn-viz/)** | **Visualization Layer** (The Obsidian Observer). | ✅ Active |
+| **[hcsn-website](hcsn-website/)** | Research Hub Landing Page & Docs Browser. | ✅ Production |
+| **[hcsn-gantry](hcsn-gantry/)** | Observability, Telemetry & Multi-Worker Pipeline. | ✅ Active |
+| **[hcsn-sim](hcsn-sim/)** | Legacy Python Implementation (Backport only). | ⚠️ Legacy |
 
 ---
 
-## 📡 The Obsidian Observer: A Crucial Distinction
+## 📡 The Obsidian Observer: HCSN Visualization
 
 > [!IMPORTANT]
 > **Engine Physics vs. Visual Artifice**
-> The `hcsn-rust` engine operates purely on topological graph transformations. To facilitate human observation, the `visualization` layer introduces several **Artificial Visual Constructs** that do not exist in the engine's physical laws:
+> The `hcsn-rust` engine operates purely on topological graph transformations. To facilitate human observation, the **[hcsn-viz](hcsn-viz/)** layer introduces several **Artificial Visual Constructs** that do not exist in the engine's physical laws:
 >
 > 1. **3D Spatial Embedding**: The engine is purely structural; the visualizer chooses 3D coordinates based on a custom layout algorithm.
 > 2. **Macro-Physics (Centroids, Repulsion)**: To prevent visual clutter and overlapping matter, the visualizer implements a 3D repulsion/attraction system for "Knots." This is an *observational aid* only.
@@ -36,12 +41,13 @@ This repository contains the core high-performance Rust engine, the theory docum
 
 ## 🚀 Getting Started
 
-1. **Engine**: Navigate to `/hcsn-rust` and run `cargo run --release`.
-2. **Visualizer**: Open `/visualization/index.html` in a modern browser (RTX recommended).
-3. **Data Stream**: The engine broadcasts state via the Obsidian WebSocket protocol (default `ws://localhost:8765`).
+1. **Engine**: Navigate to `hcsn-rust/` and run `cargo run --release`.
+2. **Visualizer**: Open `hcsn-viz/index.html` in a modern browser (RTX recommended).
+3. **Telemetry**: Monitor runs via `hcsn-gantry/` observer dashboard.
+4. **Data Stream**: The engine broadcasts state via the Obsidian WebSocket protocol (default `ws://localhost:8765`).
 
 ---
 
 ## 📜 License
 
-Distributed under the **MIT License**. See `LICENSE` for details.
+This entire Nexus workspace is distributed under the **MIT License**. See `LICENSE` for details.
