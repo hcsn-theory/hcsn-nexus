@@ -13,3 +13,6 @@
 [submodule "hcsn-gantry"]
 	path = hcsn-gantry
 	url = https://github.com/hcsn-theory/hcsn-gantry.git
+[submodule "hcsn-website"]
+	path = hcsn-website
+	url = https://github.com/hcsn-theory/hcsn-website.git
