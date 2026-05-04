@@ -1,0 +1,1226 @@
+{
+  "/home/saif/hcsn-nexus/hcsn-rust/src/main.rs": {
+    "mtime": 1777893110.4741552,
+    "hash": "b483cd23f5da19dd685a6be58da4efbf"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/lib.rs": {
+    "mtime": 1777893110.451155,
+    "hash": "66b8b2f6a704bdf2e8123db5a33053ec"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/hypergraph.rs": {
+    "mtime": 1777893110.451155,
+    "hash": "be49f8f9af7c4c456247d294f6ea2779"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/physics_params.rs": {
+    "mtime": 1777893110.455155,
+    "hash": "05e15c269da2ee6d99e31738283a37b4"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/rules.rs": {
+    "mtime": 1777893110.472155,
+    "hash": "c559cc6dbbd23def97f83a8da44976c6"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/observables.rs": {
+    "mtime": 1777893110.453155,
+    "hash": "2f62972cc9325c71d36b8faff282ba42"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/rewrite_engine.rs": {
+    "mtime": 1777893110.4711552,
+    "hash": "c345854c90050a83b93caccbbbadbeed"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/persistence.rs": {
+    "mtime": 1777893110.454155,
+    "hash": "c7dc6409bcef35c7338b7a48444db8e9"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/exp_critical_scan.rs": {
+    "mtime": 1777893110.4211545,
+    "hash": "59e124ed482d05a10778757a08572cc4"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/interaction_experiment.rs": {
+    "mtime": 1777893110.4341547,
+    "hash": "b534c39fa7b61ad4644b551c9a48f685"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/run_simulation.rs": {
+    "mtime": 1777894125.170916,
+    "hash": "01cb1f62fc2bd604da7483cad42d9f26"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/robustness_pipeline.rs": {
+    "mtime": 1777893110.4401548,
+    "hash": "b030941ad91de9b01264465677427dbd"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/pure_emergence_test.rs": {
+    "mtime": 1777893110.4371548,
+    "hash": "e3b2b27c0fbbaa7d3be48929021f9c23"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/phase_detection.rs": {
+    "mtime": 1777893110.4351547,
+    "hash": "15d2655b6955028c8f87ea34d46cd480"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/force_law_experiment.rs": {
+    "mtime": 1777893110.4311547,
+    "hash": "6ab6884223fcc9f947b71a9b203f8a96"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/force_law_fit.rs": {
+    "mtime": 1777893110.4331546,
+    "hash": "14c1502d6f8573d583a6c1211ae89e1b"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/force_law_analyzer.rs": {
+    "mtime": 1777893110.4291546,
+    "hash": "feb718c184af5fa0f7dfb491f5409e3a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/robustness_attack.rs": {
+    "mtime": 1777893110.4391549,
+    "hash": "b2b1c5b774828f2108be07fafd32c547"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/src/bin/force_law_aggregator.rs": {
+    "mtime": 1777893110.4261546,
+    "hash": "bf50f396b89b22e96271072dcc3eb688"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/audits/build_phase_diagram.py": {
+    "mtime": 1775086860.8674023,
+    "hash": "c95554fbe3958c502b6677db1678acde"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/audits/conservation_analyzer.py": {
+    "mtime": 1775090409.6652224,
+    "hash": "72adf9a64b52ea8258bf7c70da10802e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/audits/conservation_audit_v2.py": {
+    "mtime": 1775093759.9491646,
+    "hash": "d9cfc7cf3a41f011a544bc92c7b128a5"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/audits/emergence_audit_v4.py": {
+    "mtime": 1775328678.3790512,
+    "hash": "d0f5e2c7ede6a89c73ce873eecb9bc83"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/audits/emergence_audit_v5_1.py": {
+    "mtime": 1775334589.5331166,
+    "hash": "b33bf996092d0e4951b1831accc1825c"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/audits/emergence_audit_v5.py": {
+    "mtime": 1775332343.9589934,
+    "hash": "b5ff7e8912b2b13e0c8c29b36d81d32a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/audits/emergence_scaling_v5_2.py": {
+    "mtime": 1775432265.0141468,
+    "hash": "eb1370e079405cab85b69181ace3d831"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/audits/energy_audit_v3.py": {
+    "mtime": 1775099791.0680985,
+    "hash": "6c2209012b32bf383f773167f6702c78"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/exploratory/analyze_force_law.py": {
+    "mtime": 1774898627.4578972,
+    "hash": "50fb12125498ce02210fabdd477338cb"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/exploratory/analyze_lifetimes.py": {
+    "mtime": 1774994525.91148,
+    "hash": "40c80ed685014a4f562cd08e2a1698ed"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/exploratory/analyze_sweep_advanced.py": {
+    "mtime": 1774851998.7833014,
+    "hash": "fd68fd5e799a052b3cfabb174f75ecfd"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/exploratory/run_experiment_A.py": {
+    "mtime": 1774779713.0370638,
+    "hash": "e740faa3de99374b03fb65b8a7946668"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/exploratory/run_phase_2.py": {
+    "mtime": 1774749224.600327,
+    "hash": "cb92da9f4567583963bb53b94bfd9613"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/exploratory/run_production.py": {
+    "mtime": 1774896641.4128642,
+    "hash": "4db7a079761235a5f2ff23874550900c"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/exploratory/sweep_regimes.py": {
+    "mtime": 1774851846.3185391,
+    "hash": "1b4aed4c6b23deb25e0c0fba6996db0e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/legacy/exploratory/test_physics.rs": {
+    "mtime": 1775771473.378083,
+    "hash": "35dffb351b92d28f41b39d8347ed4606"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/pipeline/aggregate_verdict.py": {
+    "mtime": 1775905459.6569057,
+    "hash": "efac20236dafd3af376e9709171b0d73"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/pipeline/analyze_reproducibility.py": {
+    "mtime": 1775865676.087734,
+    "hash": "98b51592233f9defd08c8dae609c8bd9"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/pipeline/audit_quality.py": {
+    "mtime": 1775861060.12757,
+    "hash": "d66e6e65d3847e3d576174d091f0d6e1"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/pipeline/conditional_analyst_v4.py": {
+    "mtime": 1775915312.633039,
+    "hash": "9758fa5b8f3e3164b1ec094f83489c9c"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/pipeline/phase1_correlation.py": {
+    "mtime": 1777802363.9260125,
+    "hash": "a9ca749aec216e6afa622ac2f58d7e45"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/pipeline/phase2_map.py": {
+    "mtime": 1777732604.1231904,
+    "hash": "37779e0cea96ce3ef18face5c3512563"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/pipeline/phase3_criticality.py": {
+    "mtime": 1777732530.4942122,
+    "hash": "99362f7c2e3bc637acc8790c8ab6e4a3"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/pipeline/phase4_conservation.py": {
+    "mtime": 1777803013.3307903,
+    "hash": "9990ea5ac8bd0fe7bf5368d2f97df67b"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/pipeline/phase5_universality.py": {
+    "mtime": 1777803083.7315905,
+    "hash": "ba6ac0f09fab5864e8c04eb5b5a02e78"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/export_cinematic.py": {
+    "mtime": 1774120906.169001,
+    "hash": "7550994514c969edee5fcf160a386d73"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/blender_importer.py": {
+    "mtime": 1774120906.169001,
+    "hash": "cf3933fc5fce1308d3810a8007edddfa"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/visualizer_server.py": {
+    "mtime": 1774120906.169001,
+    "hash": "52a7b2bef93807744dcd3f84db56a401"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/export_csv.py": {
+    "mtime": 1774329453.0295358,
+    "hash": "1695611ee263982d7753e2fd3487d442"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/analysis/__init__.py": {
+    "mtime": 1774120906.1575947,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/analysis/defects.py": {
+    "mtime": 1774120906.1575947,
+    "hash": "6bbf638c1cf32b79dcddb31734512a69"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/analysis/interaction_experiment.py": {
+    "mtime": 1774991923.7080035,
+    "hash": "dd1e5e99f7a0be9e206fb7d1eabcf5a2"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/analysis/interactions.py": {
+    "mtime": 1774120906.1575947,
+    "hash": "ddd6c2b1d28e7fdf5d7b81110c98b3eb"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/analysis/mass.py": {
+    "mtime": 1774120906.1575947,
+    "hash": "a596397fd0b8eb8d72a25be3fc0fa7e9"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/analysis/update_particle_activity.py": {
+    "mtime": 1774120906.1575947,
+    "hash": "b613e5505b0889d6bcd35201bfa5681d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/engine/__init__.py": {
+    "mtime": 1774120906.1577823,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/engine/hypergraph.py": {
+    "mtime": 1774120906.1577823,
+    "hash": "993b618c3154bdf1f893cbdf0b1b5920"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/engine/observables.py": {
+    "mtime": 1774991663.29298,
+    "hash": "5c301ed7ff1e4dd7f20ac6255c34b853"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/engine/physics_params.py": {
+    "mtime": 1774991604.567565,
+    "hash": "df68311960ec7ceeaee1e53afed5d4d1"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/engine/rewrite_engine.py": {
+    "mtime": 1774991848.851719,
+    "hash": "aaac4c825695d1603549548750ffe3ba"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/engine/rules.py": {
+    "mtime": 1774991689.4388795,
+    "hash": "04a41fcb15c626a442ed4de2e844e81e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/__init__.py": {
+    "mtime": 1774120906.167001,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/exp_coordination_flow.py": {
+    "mtime": 1774120906.167001,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/exp_critical_scan.py": {
+    "mtime": 1774991927.361017,
+    "hash": "3cc75e041939df2e9c082431dc3ba322"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/exp_dimension_flow.py": {
+    "mtime": 1774120906.167001,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/exp_long_critical_run.py": {
+    "mtime": 1774120906.167001,
+    "hash": "20ed8d2f595cafbfc57e7057680da550"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/exp_lorentz_test.py": {
+    "mtime": 1774120906.167001,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/exp_phase_diagram.py": {
+    "mtime": 1774120906.167001,
+    "hash": "f9698514db7e60847314703add6bdd87"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/exp_worldline_interactions.py": {
+    "mtime": 1774120906.167001,
+    "hash": "d8b34977bf7329fa7fe62086ac42aef1"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/run_simulation.py": {
+    "mtime": 1774991893.4958904,
+    "hash": "15e140947682867591772e73c38bf358"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/scattering_experiment.py": {
+    "mtime": 1774120906.167001,
+    "hash": "d4ef3211593a2cd4443db8bb9aa11221"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/build_local_omega_channels.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "3a247b1c7fc0a994c93e8a5aa12361df"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/classify_defect_species.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "33fa9f3eb3761edd66523ba70f386701"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/classify_particle_species.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "50615ec6334345cd0828c4fc907c200b"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/compute_defect_momentum_timeseries.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "c64a374c8de85da5f88f483350fa8641"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/compute_momentum.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "fc9f86640d303237d1ce012f3f70f71e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/correlate_mass_omega.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "dd1dc02658c37efea4f316eae1088276"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/detect_proto_particles.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "81db9d0150440d95696e2ea8cc84a201"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/export_effective_eom.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "1aadbedd4bc1be78bf3aa0007949cc11"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/export_lorentz_cone.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "e2237fa66a6687018e01e6a406ddce5a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/export_particle_stats.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "dac86f973b3bcbf64ef516a267fe5bab"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/extract_lifetimes.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "8cca8781420e22b1d488895e43020e7f"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/extract_omega_c_per_variant.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "aabb2e1414a69f971d85a45c180f69ef"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/extract_omega_timeseries.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "d41e3297ac98f4f4fe36057ad86c5a43"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/interaction_strength.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "07b994b0a72a79a05d6465dcb5f51484"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/runs_forced_probe.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "ff314d82e7504ab26cacd4e58b5a2a18"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/scan_omega_phase.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "3449bfc68c4c6ac1e768c67068b1bebc"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/single_particle_control.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "31c3802279ff69764e791e043b4a0244"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/sweep_uncertainty_exponent.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "877adc542129f47042a7964a3c76d50e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/track_particles.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "1b95c04257c0ef01db0fa97414407b60"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/compute-export/validate_momentum_conservation.py": {
+    "mtime": 1774120906.1587682,
+    "hash": "ee09d6e09727125eea089a13fce295ff"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_action_reaction.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "306838aaf5e5db09bb06ced220d8bede"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_bound_state.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "4d243d692d6d8c40415d3e298a400643"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_causal_profile.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "9b2de05868ac86f3a78ddc8e1c07efa0"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_cluster_distance_memory.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "15c4e4224c4a09e887e2b491d90667bb"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_coarse_grained_force.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "9b31b966952784624be98dfe9e8ea9f1"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_defect_lifetimes.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "11301e024e26ec8d226bb9722e8ae249"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_dispersion_relation.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "7c992793f4bab8a6c2018b46db1aa844"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_effective_potential.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "c5a2884ab6638bf54e1a6755c1cd2c90"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_effective_potential_vs_distance.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "e380316623f7425393765e74b68a581a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_effective_potential_vs_distance_inferred.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "96d56ab8d376f40340b4d8da64de2b58"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_effective_rewrite_force.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "2a9de461f71a71aaf981ad3f02e8f56e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_environment_conservation.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "2fdae958ad2e47a5b6aec564260901d4"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_force_event_stability.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "2113bf33a3ab390ffafc433ef4f10e39"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_force_impulse_integral.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "8bd25440c467e513de5f37f121af7698"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_force_impulse_integral_overlap.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "c5d3e8bd779706d2fbaeb81c29a386db"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_force_scaling.py": {
+    "mtime": 1774120906.1600585,
+    "hash": "c96c3bef45c8d98b210f68a53d95369c"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_force_time_series.py": {
+    "mtime": 1774120906.161001,
+    "hash": "de8dee6e46850da852abb8dd09bb2da3"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_interaction_force.py": {
+    "mtime": 1774120906.161001,
+    "hash": "690dedf9f26ab713a2ba22de7da27d1d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_interaction_retardation.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "dc7031a6f7799082cd42ad559839eff8"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_interaction_scaling.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "8c55b1b13c17776e705535d578f41fc8"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_interaction_strength.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "7edf39a1b766f5ff58fb7b59fc9b130c"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_interaction_vs_distance.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "2dbd203e8c1dde720feab1ce8fe0eb3d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_omega_force.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "2d40ee4739d9db2b21080e7d57267464"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_omega_gradient.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "7ca1a45da7e36704e8b0083642b4f8c6"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_rewrite_competition.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "3ee90709a834632d9626d53789cebba9"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_rewrite_distance_law.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "bd0ac7518ff2d79c8129b12998c6a611"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_rewrite_flux_force.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "5ceee8e032e005ea7e38bacb90cc2cb1"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_scale_flow.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "978ec387239ea28546d8e47ec9932333"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_shielding_effect.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "be29bce92731f50359be14c4ce63ef45"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_signal_speed.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "583cec09b3eb8d7d2ed444de7f6a0982"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_single_particle_flux.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "71488037680cc30073fbedff910cb1e9"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_three_body_interaction.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "ee82d7aa2035183f2e8433696a18989f"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_worldline_persistence.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "64a00a4178d07704618c2b533e6cf829"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_xi_current_balance.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "c982e554f21d2259bf817ec1e4a97c2c"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_xi_current_correlation.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "fe9cfdf1bfa0f73e9b3b34409d30b9c0"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_xi_current_correlation_v2.py": {
+    "mtime": 1774120906.1620011,
+    "hash": "aeab6cc1ef0de3df67802b3790cda1a4"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_xi_front_speed.py": {
+    "mtime": 1774120906.163001,
+    "hash": "2cc33f553d603e2484aa1a885c8f8a8a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/measure/measure_xi_lifetime.py": {
+    "mtime": 1774120906.163001,
+    "hash": "785c32d50886cc67722e8e5ec6d09329"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/advanced_diagnostics.py": {
+    "mtime": 1774120906.164736,
+    "hash": "34a48d80557eca183f22f5c4a3e77773"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_decay_law.py": {
+    "mtime": 1774120906.164736,
+    "hash": "294c327eea19d2a1bf55e93da9219a0d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_defect_rate_vs_variance.py": {
+    "mtime": 1774120906.164736,
+    "hash": "125d8457dc4127acbf3c56840ae1e4a7"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_domega_vs_spacing.py": {
+    "mtime": 1774120906.164736,
+    "hash": "9d0bd809bd7b81c38b47be6134c4ee88"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_lifetime_vs_momentum.py": {
+    "mtime": 1774120906.164736,
+    "hash": "f1d5cdb3f98301de548df678ed18b724"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_lifetime_vs_momentum_variance.py": {
+    "mtime": 1774120906.164736,
+    "hash": "2e89b64418036cd16251d6611c1d060f"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_lifetime_vs_variance.py": {
+    "mtime": 1774120906.164736,
+    "hash": "dfa7c6952793753893909962e81206d1"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_lightcone.py": {
+    "mtime": 1774120906.164736,
+    "hash": "a403c2158a2b44147e156843c72fad3a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_mass_spectrum.py": {
+    "mtime": 1774120906.164736,
+    "hash": "b2b70b2c3d4086e587d49a4095f908b7"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_omega_autocorrelation.py": {
+    "mtime": 1774120906.164736,
+    "hash": "13f84bb4d450e27eb5ec659b676467ab"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_particle_lifetime_spectrum.py": {
+    "mtime": 1774120906.164736,
+    "hash": "fa4828fc886dedd91f92dfd109f726c9"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_results.py": {
+    "mtime": 1774120906.164736,
+    "hash": "d3e156e09f572680cef54e47f703e99d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_simulation-log.py": {
+    "mtime": 1774120906.164736,
+    "hash": "3f43f1f00b1ba78b02958edaf1811f94"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/plot/plot_timeseries.py": {
+    "mtime": 1774120906.164736,
+    "hash": "789413ae9dc665d21245e28113022ad5"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_2ndordertime.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "3f857cb94e016529b04d6997a29b928a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_basic_evolution.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "0f945b0091c2b2bc2970932072df97a7"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_causality.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "29ba35c8a870b6573935a7e482120664"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_cone_near_omega_c.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "fe6cd13c2532c52563b036f3d8610cdd"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_cone_width.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "de3e82ba01b0d614f4045e4800972350"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_coordination_bounds.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "8061a5eee06e8be9e9f00c56b1c22df9"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_defect_rate_fits.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "32262c8aafbf3e306fe42735aca53fce"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_defect_rate_vs_omega_bins.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "8918aa182156968304487ac122fcf25d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_defect_rates_vs_omega_phase.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "aa3a3a7ffe829a4d1d24c07b82cf28b0"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_defectdecoupling.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "4ae6f5574ab214ae14aff6c72dcbbafe"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_diffusionvswave.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "c396e1784cabac2ae7cbc01cccd602f4"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_effective_eom.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "3693ea83d203d3bcb950c95d73ccfe80"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_finite_size_scaling.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "c1502efb107352d96b82cd8700850a7b"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_forced_response.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "33fd612d825fcf601d81425dee7c6ceb"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_gaugelightcone.py": {
+    "mtime": 1774120906.1650333,
+    "hash": "89a29ca717000d0a07d085c2d643a917"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_lifetime_distribution.py": {
+    "mtime": 1774120906.166001,
+    "hash": "dc11d96ac87c421505f0942943785527"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_lifetime_scaling.py": {
+    "mtime": 1774120906.166001,
+    "hash": "3778de6712885b95eb25b712406becbc"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_lifetime_vs_omega.py": {
+    "mtime": 1774120906.166001,
+    "hash": "1a2dd928ceeb7c92fda21d8b24f6a50e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_linearpredict.py": {
+    "mtime": 1774120906.166001,
+    "hash": "655ccbd11f174e1789131d1c75360dc6"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_local_entanglement.py": {
+    "mtime": 1774120906.166001,
+    "hash": "a2373bfeca82c218a55ca21312437a03"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_lorentz_cone.py": {
+    "mtime": 1774120906.167001,
+    "hash": "8a89f03443b13b372f784217bf81a7a4"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_modedecomposition.py": {
+    "mtime": 1774120906.167001,
+    "hash": "be757c5892648d87597368cc0883d9ec"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_omega_relaxation_scaling.py": {
+    "mtime": 1774120906.167001,
+    "hash": "8ea3bb74a6bb74ce05a57ff6c9a67145"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_relaxation.py": {
+    "mtime": 1774120906.167001,
+    "hash": "1088d9c0936b852030469a987853e328"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_topological_entanglement.py": {
+    "mtime": 1774120906.167001,
+    "hash": "0836ca913f59546375259b139865a08d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_topological_entanglement_v2.py": {
+    "mtime": 1774120906.167001,
+    "hash": "f6f8838fb40df16a8e7b7f28d63b1f09"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_uncertainty_relation.py": {
+    "mtime": 1774120906.167001,
+    "hash": "e93cedd935d61bde5e81ccc42e6226b8"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_universality.py": {
+    "mtime": 1774120906.167001,
+    "hash": "ca21ef5b27743d26d8143795c3a687d3"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/sim-exp/tests/test_wavevsdiffusion.py": {
+    "mtime": 1774120906.167001,
+    "hash": "61620f0f2f6ff82d1dce8b788c1ada44"
+  },
+  "/home/saif/hcsn-nexus/hcsn-viz/src/main.rs": {
+    "mtime": 1775658149.983158,
+    "hash": "9f879e3f52e54990a6052f2ff91bb665"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/telemetry-common/src/lib.rs": {
+    "mtime": 1775064553.0501933,
+    "hash": "598a434ef9b65fd4e1f13cdb80c1cec9"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/agent-producer/src/simulation.rs": {
+    "mtime": 1775054399.7120423,
+    "hash": "af59270fe78362de30e14b4028fdb00f"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/agent-producer/src/main.rs": {
+    "mtime": 1775054842.8668182,
+    "hash": "496724c4822966d37ae208f7a63a572e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/agent-producer/src/telemetry.rs": {
+    "mtime": 1775065341.412074,
+    "hash": "13d4db1908cfed2e23c2c45527d8a3f1"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-server/src/db.rs": {
+    "mtime": 1775064581.624122,
+    "hash": "1a9570be8d394ea9c9717f1bddd810f0"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-server/src/main.rs": {
+    "mtime": 1775068317.3982363,
+    "hash": "463d5d61cfec65a0e5e5fccc45513908"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-server/src/otlp.rs": {
+    "mtime": 1775065326.051606,
+    "hash": "2ead1b76301c80ba57a5284f032f4b81"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/gantry-supervisor/src/main.rs": {
+    "mtime": 1775064569.56673,
+    "hash": "7663756e70989aeb804b152941d77b0d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/eslint.config.mjs": {
+    "mtime": 1775064607.0426445,
+    "hash": "dfa1f5f6a7037bf39dc510f30b180002"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/next-env.d.ts": {
+    "mtime": 1775065224.4794958,
+    "hash": "d0f8375ae1199dc7acd3977fc33b78b8"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/next.config.ts": {
+    "mtime": 1775064792.6760073,
+    "hash": "37c4d776c5b0252e70d697ea32e9563d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/postcss.config.mjs": {
+    "mtime": 1775064607.0427573,
+    "hash": "239f3ebf717465dc636818a1a619398d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/src/app/page.tsx": {
+    "mtime": 1775066521.133276,
+    "hash": "7edca89b5ae232c495d0767cad320eae"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/src/app/layout.tsx": {
+    "mtime": 1775064607.0428383,
+    "hash": "94c34ef68b3949a75807a0211ec2273c"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/src/lib/utils.ts": {
+    "mtime": 1775064687.0945575,
+    "hash": "618d00bf4537ce84f9ba62c5b215fb30"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/src/lib/hooks.ts": {
+    "mtime": 1775067517.82331,
+    "hash": "55ead2ff3feb5bd6445240fc559a07dc"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/src/components/Sidebar.tsx": {
+    "mtime": 1775066273.6187155,
+    "hash": "5eb1b5fa2aa56d2766b4a021e6ee12e4"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/src/components/Header.tsx": {
+    "mtime": 1775067475.7986782,
+    "hash": "7609a9d3a3a868ce7592f6b7df4d88ff"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/src/components/HypergraphVisualizer.tsx": {
+    "mtime": 1775064842.7496464,
+    "hash": "f0e7405649a7894c386e56b11dbcddcb"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/src/components/MetricsPanel.tsx": {
+    "mtime": 1775066290.9211733,
+    "hash": "48036354a572dea83be11f4a90ff08f5"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/src/components/LogTerminal.tsx": {
+    "mtime": 1775066316.4788496,
+    "hash": "717888c110437228f6d9541755b53f8b"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/next.config.js": {
+    "mtime": 1773171574.55382,
+    "hash": "38847271ef5e19be39a201119a32f8b6"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/postcss.config.js": {
+    "mtime": 1773171574.55382,
+    "hash": "37d9a0897bbea02a39417050c51acd82"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/tailwind.config.ts": {
+    "mtime": 1773171574.55382,
+    "hash": "97d6b1746bc22abbd3156334831220d6"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/next-env.d.ts": {
+    "mtime": 1774034689.8613803,
+    "hash": "2a74d3909800ca5467fa83b0ab4a4890"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/layout.tsx": {
+    "mtime": 1774034971.5793598,
+    "hash": "2a6a488cff1368e72c1d53f4ff34ecbd"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/page.tsx": {
+    "mtime": 1777895945.6269495,
+    "hash": "2be8a02dcbe0f81298eef7e6e582dc82"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/about/page.tsx": {
+    "mtime": 1775657380.8881452,
+    "hash": "d5dafb8261da040789cce642ee6777b0"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/contact/page.tsx": {
+    "mtime": 1774036361.9990873,
+    "hash": "229622e4f6e9e6ec014fc2a6925cbab5"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/docs/layout.tsx": {
+    "mtime": 1773171574.0703924,
+    "hash": "975f3198575369f791ae741f284f2333"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/docs/page.tsx": {
+    "mtime": 1773171574.0703924,
+    "hash": "973235f87f4b3969a5ba14fec214541d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/docs/[slug]/page.tsx": {
+    "mtime": 1773171574.0703924,
+    "hash": "54608a99bf4aa9a8ea8b0cc34f619c08"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/figures/page.tsx": {
+    "mtime": 1775657465.736125,
+    "hash": "2bdfda8db18bb4da642b97582f0a0108"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/manifesto/page.tsx": {
+    "mtime": 1773171574.0705032,
+    "hash": "ea3749424a7d529da04b8310ea07be4e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/roadmap/page.tsx": {
+    "mtime": 1777895990.801508,
+    "hash": "b91deb10d30edf6cb1c037e584d2c6e7"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/simulation/page.tsx": {
+    "mtime": 1775659771.3686478,
+    "hash": "b04f34fb9e9145fdc46b3a11bc8967f4"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/app/logs/page.tsx": {
+    "mtime": 1774033205.0929916,
+    "hash": "62ba6b076d5ce20f2b0042153d295d8d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/components/Badge.tsx": {
+    "mtime": 1773171574.0705895,
+    "hash": "e8f4f9f0a05d3f230c1950c0d783f09c"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/components/Card.tsx": {
+    "mtime": 1773171574.0705895,
+    "hash": "afb2e85155900244ef0cbdd78a12f048"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/components/Footer.tsx": {
+    "mtime": 1775657043.5561175,
+    "hash": "a6b7862603e823db49155f0ecb9955e8"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/components/Navbar.tsx": {
+    "mtime": 1774032285.2087388,
+    "hash": "850d7197a1af64cd73a4bb8735b4064f"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/components/Section.tsx": {
+    "mtime": 1773171574.0705895,
+    "hash": "d44d9a04048bc5d2bbc16b948ae46166"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/components/docs-sidebar.tsx": {
+    "mtime": 1773171574.0705895,
+    "hash": "31013298b82d36b49dc44a38ff2d6676"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/components/index.ts": {
+    "mtime": 1773171574.0705895,
+    "hash": "242523142b993596189e908cebf91bc2"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/components/theme-provider.tsx": {
+    "mtime": 1773171574.0705895,
+    "hash": "7142c175c25deeb430e114db04fc1172"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/components/SimulationViewer.tsx": {
+    "mtime": 1774121517.1495283,
+    "hash": "ca4e1e3da56948c92bb2c13b5b8ff1d5"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/config/site.ts": {
+    "mtime": 1777895922.858668,
+    "hash": "4c1faf1922057ada6929ad1f734604ce"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/lib/docs.ts": {
+    "mtime": 1775619662.3270006,
+    "hash": "dcc219c5c655a3875a72714bdb963b60"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/lib/markdown.ts": {
+    "mtime": 1773171574.0707593,
+    "hash": "2917ff40e8fc0d27f953f764736f0633"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/lib/utils.ts": {
+    "mtime": 1773171574.0707593,
+    "hash": "7ce3ac7653e668129ab7eb38d5ba33c3"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/types/index.ts": {
+    "mtime": 1773171574.55382,
+    "hash": "4a33e5c7af782bc2dc38c3bdf5788c12"
+  },
+  "/home/saif/hcsn-nexus/knowledge.md": {
+    "mtime": 1777896855.571658,
+    "hash": "9b3b7c023b2a03480ea6e97e2c085108"
+  },
+  "/home/saif/hcsn-nexus/emergence.md": {
+    "mtime": 1777896947.349173,
+    "hash": "24e6cc6ef6e6139c4cc4de7b6740ff93"
+  },
+  "/home/saif/hcsn-nexus/full-knowledge.md": {
+    "mtime": 1777896877.587517,
+    "hash": "b7dfd1704fcdfa12a1d551572e4ec96b"
+  },
+  "/home/saif/hcsn-nexus/README.md": {
+    "mtime": 1775656813.2030597,
+    "hash": "91bcd04393ceeda7afc1d5a3a64e5ea8"
+  },
+  "/home/saif/hcsn-nexus/MANIFESTO.md": {
+    "mtime": 1775657446.0624743,
+    "hash": "821983091a4aaaed0d9eead80ad79ede"
+  },
+  "/home/saif/hcsn-nexus/GEMINI.md": {
+    "mtime": 1777882870.6106513,
+    "hash": "8ee39dcfe68a23b3797b02648930d699"
+  },
+  "/home/saif/hcsn-nexus/CLAUDE.md": {
+    "mtime": 1777882958.0504239,
+    "hash": "8ee39dcfe68a23b3797b02648930d699"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/README.md": {
+    "mtime": 1775656877.7182577,
+    "hash": "28df31f8087aa3f24f0dd557adbf5792"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/validation_report_final.md": {
+    "mtime": 1775006206.9782746,
+    "hash": "fbf8e157a8c2230931fa53985a2dcbca"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/hcsn-rust-src-overview.md": {
+    "mtime": 1775769742.3386352,
+    "hash": "a8ddd5c5a09df6bced254a65460b1aad"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/PROJECT_KNOWLEDGE_MAP.md": {
+    "mtime": 1777896985.3970456,
+    "hash": "fd7891175b84951fee04b25cba519ce2"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/SIMULATION_FLAGS.md": {
+    "mtime": 1777893414.17869,
+    "hash": "d62051c075936a5450ae272e9b7122d7"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/hypotheses/emergence_log.md": {
+    "mtime": 1775856982.822224,
+    "hash": "6d3364937df934ad03c3c24d8f3888bd"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/research_docs/implementation_plan.md": {
+    "mtime": 1774992468.8088057,
+    "hash": "0a5b1cb6719d7f49fe7e2f7bc4f97bfc"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/research_docs/task.md": {
+    "mtime": 1774992468.8088057,
+    "hash": "4df5121395ae2c9dddc0634fac8a0575"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/research_docs/walkthrough.md": {
+    "mtime": 1774992468.8096774,
+    "hash": "24b4424ab311aa0a31ea793b72bc5b2a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scripts/README.md": {
+    "mtime": 1777894858.870294,
+    "hash": "f75bff999f8de47a2be6954fa9a40628"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/MANIFESTO.md": {
+    "mtime": 1773171574.55382,
+    "hash": "3bbef36d3ac920533f11aea279d8ddad"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/README.md": {
+    "mtime": 1775655852.9450102,
+    "hash": "a6755279cdbac9572a62efa6ee522113"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/WORKSPACE_STATUS.md": {
+    "mtime": 1775656928.35541,
+    "hash": "1474908f13a5a051060a0418ecdd696c"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/docs/01_axioms_and_methodology.md": {
+    "mtime": 1773171574.05847,
+    "hash": "b3ce5e1f99672f84aefdc5956a877bb7"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/docs/02_defects_worldlines_and_particles.md": {
+    "mtime": 1775655912.6335654,
+    "hash": "301d054a377ad716f95f48ab0e9196ff"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/docs/03_emergent_dynamics_momentum_and_interaction.md": {
+    "mtime": 1777896827.9498582,
+    "hash": "8e64984a555f7f61bb7449c09844c527"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/docs/04_geometry_dimension_uncertainty_and_limits.md": {
+    "mtime": 1775655931.3207343,
+    "hash": "b6bad00586f8e02099778849230bfb53"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/docs/05_emergence_of_particles.md": {
+    "mtime": 1777896827.950858,
+    "hash": "f1939c6a3278a9b654a6a83faed74487"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/README.md": {
+    "mtime": 1775656821.2560847,
+    "hash": "7929bf97a070d70285b5f1d02ead7f4a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/_config.yml": {
+    "mtime": 1774120906.167001,
+    "hash": "70d63c1144a1859bbdd0a711f57379b3"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/visualizer.html": {
+    "mtime": 1774120906.169001,
+    "hash": "9999124b46aa2cace955be059fdb1b6b"
+  },
+  "/home/saif/hcsn-nexus/hcsn-sim/requirements.txt": {
+    "mtime": 1774120906.169001,
+    "hash": "589b571bc81b48dd06d1dfee05e9f063"
+  },
+  "/home/saif/hcsn-nexus/hcsn-viz/README.md": {
+    "mtime": 1775656886.9012856,
+    "hash": "1b0308a46ecb1933201d3aaf8df7f20d"
+  },
+  "/home/saif/hcsn-nexus/hcsn-viz/index.html": {
+    "mtime": 1775745845.5968611,
+    "hash": "7225375402df84a069fae526a3b9a847"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/README.md": {
+    "mtime": 1775656828.445107,
+    "hash": "bb7610325a4f8dcc91c61ab794bbd41e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/README.md": {
+    "mtime": 1775064607.0425189,
+    "hash": "f15aaa42d5d299d091b1171097ea56ad"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/AGENTS.md": {
+    "mtime": 1775064655.1945174,
+    "hash": "9e09241799026ac05be315a2f0b50055"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/CLAUDE.md": {
+    "mtime": 1775064655.1945174,
+    "hash": "5c27369b226fcf2be8a6cfe52224e767"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/DEVELOPMENT.md": {
+    "mtime": 1773171574.55382,
+    "hash": "0820af9351949c35fac545fb509a5247"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/PROJECT_SUMMARY.md": {
+    "mtime": 1773171574.55382,
+    "hash": "b881adb1a6f72d9c73d4e03d6ad14ddf"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/README.md": {
+    "mtime": 1773171574.55382,
+    "hash": "4b00f8f0ecf7371229316a0acd7ddf54"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/GITHUB_PAGES_SETUP.md": {
+    "mtime": 1773171574.55382,
+    "hash": "d65883b40e3c24f001f4887c7e016350"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/docs/01_axioms_and_methodology.md": {
+    "mtime": 1775657285.2561843,
+    "hash": "b3ce5e1f99672f84aefdc5956a877bb7"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/docs/02_defects_worldlines_and_particles.md": {
+    "mtime": 1775657299.6358254,
+    "hash": "301d054a377ad716f95f48ab0e9196ff"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/docs/03_emergent_dynamics_momentum_and_interaction.md": {
+    "mtime": 1777896054.1932929,
+    "hash": "8e64984a555f7f61bb7449c09844c527"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/docs/04_geometry_dimension_uncertainty_and_limits.md": {
+    "mtime": 1775657330.8751607,
+    "hash": "117090b7f9e20e70be3b8730ffaf2c01"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/docs/05_emergence_of_particles.md": {
+    "mtime": 1777896131.295249,
+    "hash": "f1939c6a3278a9b654a6a83faed74487"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/interaction_law_fitting.png": {
+    "mtime": 1775863172.6796663,
+    "hash": "5eafd69477bf5d23bd0d4944a4168b29"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/scattering_angles.png": {
+    "mtime": 1775863172.7436678,
+    "hash": "a7197110559472dac4451a5ce5c77240"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/phase2_map.png": {
+    "mtime": 1777740447.1339602,
+    "hash": "8b65f7caac4b7c9046e9dc419588c310"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/phase3_criticality.png": {
+    "mtime": 1777801110.70853,
+    "hash": "730e859b07e81ef3449453c462e8831f"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/phase4_conservation.png": {
+    "mtime": 1777740336.3332396,
+    "hash": "8276d8e89d099d6c2af64f224803daf8"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/phase5_universality.png": {
+    "mtime": 1777813720.074951,
+    "hash": "5a98340ea6724b1a90f1c87a243d600a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/phase_diagram.png": {
+    "mtime": 1775089014.896824,
+    "hash": "3151aad8f7a0c3d3cb0a524c7be4ffb6"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/audit_v2_Baseline.png": {
+    "mtime": 1775094732.616485,
+    "hash": "87f436ec94abcb58e3fc6faadbc62a3f"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/audit_v2_FluxCompensated.png": {
+    "mtime": 1775097091.3505733,
+    "hash": "d7e58d720c7a6927fea9f57121efa44f"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/audit_v2_MassCoupled.png": {
+    "mtime": 1775097945.3114433,
+    "hash": "f57f222dc25b6e386855b8e09d577528"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/audit_v2_Pairwise.png": {
+    "mtime": 1775095637.462777,
+    "hash": "f46d5ce459abcb821f98986019527b19"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/audit_v2_StabilityScaled.png": {
+    "mtime": 1775096398.4941347,
+    "hash": "59167f47431886cac3026eec23c548ab"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/audit_v2_TimeSymmetry.png": {
+    "mtime": 1775098841.0938509,
+    "hash": "88929c353e0f68d15e9e9af5ce5df1ac"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/audit_v3_Hybrid.png": {
+    "mtime": 1775100628.8149283,
+    "hash": "8d5bcf7b04dc69690eed8bc7b64cd398"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/comparative_phase_diagram_v5_1.png": {
+    "mtime": 1775335080.647142,
+    "hash": "49498b26b5e635404515c668b63e8a61"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/conservation_diagnostics.png": {
+    "mtime": 1775092577.51942,
+    "hash": "1a8d49e5ea53b9acf3d3e85b61c27970"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/emergence_audit_v4_Hybrid.png": {
+    "mtime": 1775330589.2517219,
+    "hash": "1ee32583bb0828109b5b0fff4b8c9e43"
+  },
+  "/home/saif/hcsn-nexus/hcsn-rust/exports/legacy_archive/plots/emergence_phase_diagram_v5_Hybrid.png": {
+    "mtime": 1775333982.994903,
+    "hash": "6a3f1645c566a5a619fc8eb10af7d61b"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_1.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "4212c3bc720c28084c56bf6ffc07a684"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_advance.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "f35b85cf8cedf734f94b7cc40429711b"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_defect-rate-vs-geometric-fliuctuation.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "a8372349762caab9b4bd53f92c283aa7"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_defect-spacing.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "b1456eaa52240d3bbd38c20c33e175f0"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_emergent-mass.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "7fd2276824eca3413591445c13225a40"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_hiererchial-closure.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "6fc00a101cf34e0eb3b5d623819d59ed"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_lifetime-vs-momentum.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "36f48a888ec507019850b29800be7297"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_lightcone.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "27fb97640acc51e171fbc2a05448f3c0"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_mass-spectrum.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "4155e8e44cf83ba86850c0eeca00c30a"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_massproxy.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "f372765abb7b4cec8a2ca115436bf97b"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_particle-lifetime.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "270fe8b50b4c60e5c27dff7756a4ae47"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_simulation.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "c450358a4bf3b202191ba37cfaa36959"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/Figure_timesries.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "fae729c72588ea25da282b4ad866a7b2"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/emergent-uncertainity.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "4cfbc3fd21dad87d6a700bcd8a6198bd"
+  },
+  "/home/saif/hcsn-nexus/hcsn-theory/figures/figure.png": {
+    "mtime": 1773171574.0589306,
+    "hash": "de57c733b55bfcab3389b13d32912bd6"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/public/file.svg": {
+    "mtime": 1775064607.0425189,
+    "hash": "d09f95206c3fa0bb9bd9fefabfd0ea71"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/public/globe.svg": {
+    "mtime": 1775064607.0428383,
+    "hash": "2aaafa6a49b6563925fe440891e32717"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/public/vercel.svg": {
+    "mtime": 1775064607.042905,
+    "hash": "c0af2f507b369b085b35ef4bbe3bcf1e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/public/window.svg": {
+    "mtime": 1775064607.042905,
+    "hash": "a2760511c65806022ad20adf74370ff3"
+  },
+  "/home/saif/hcsn-nexus/hcsn-gantry/observer-ui/public/next.svg": {
+    "mtime": 1775064607.042944,
+    "hash": "8e061864f388b47f33a1c3780831193e"
+  },
+  "/home/saif/hcsn-nexus/hcsn-website/public/logo.png": {
+    "mtime": 1773171574.5537477,
+    "hash": "d3cb6ea0e53a70c453a4a61db53c1301"
+  }
+}

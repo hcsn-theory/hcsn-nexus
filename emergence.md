@@ -478,7 +478,25 @@ Example run report in log:
 
 ---
 
-## 15. Source Pointers
+## 15. Phase 12: The Statistical Reality (v3.1 Synthesis)
+
+In May 2026, the `hcsn-rust` framework underwent a brutal paradigm shift from "mathematical proofs via axiomatic patches" to "rigorous statistical falsification." The engine was overhauled to allow `Control` modes that disabled structural survival bonuses, exposing the true nature of the topological vacuum.
+
+**The Methodological Corrections:**
+- The "Correlation Collapse" PCA test was found to be mathematically tautological (it included `damping`, which was a direct derivative of `stability`). When corrected, the perfect 1D collapse vanished.
+- The "Emergent Conservation" patches (Hypothesis A-E) were decoupled into `HCSN_PATCHES` environment variables to see if conservation emerged *naturally*.
+
+**The New Reality:**
+1. **Fragile Conservation**: Unpatched simulations across 9 seeds revealed that exact conservation laws do not exist in the hypergraph. Instead, momentum drift *statistically decreases* as persistence increases (Mean Spearman $\rho \approx -0.47$). The conservation is approximate, fragile, and highly dependent on topological history.
+2. **Partial Correlation Collapse**: The new Random Forest PCA proved that the "5 mechanisms collapse into 1" theory was false. The first principal component (Persistence) explains only 53.5% of the variance. Survival is fundamentally multi-dimensional.
+3. **Inconsistent Criticality**: Sweeping the $\gamma$ parameter revealed that the phase transition boundary is complex and inconsistent, lacking a single scalar $\gamma^*$.
+4. **Robust Universality**: Despite the fragilities above, the "Matter Phase" (Spacetime volume with Coherence > 1.0) proved to be 100% robust, even under the Aggressive Control mode. The condensed topological phase is an unavoidable attractor of the dynamics.
+
+The project is now a falsifiable scientific instrument.
+
+---
+
+## 16. Source Pointers
 
 Primary development trace:
 - `hcsn-rust/hypotheses/emergence_log.md`

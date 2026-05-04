@@ -57,11 +57,11 @@ In standard physics, mass creates inertia. In HCSN, inertia defines mass.
 - **Rewrite Imbalance**: A worldline shows "momentum" if rewrites happen preferentially on one side of its causal support more than the other. Momentum is the statistical persistence of this imbalance.
 - **Mass ($m$)**: Defined empirically as the inverse variance of momentum ($m \sim \frac{1}{\text{Var}(p)}$). Long-lived worldlines have low momentum variance, defining a high emergent mass.
 
-### Interaction via Competition
+### Interaction via Competition and Fragile Conservation
 Proto-particles do not interact by exchanging force carriers in a background space. Instead, they interact via **Rewrite Competition**.
 - Causal clusters compete for access to the $\Omega$-modulated rewrite pool.
 - Interaction strength is proportional to the **Rewrite Flux Imbalance**: $F_{AB} = \frac{|\Phi_A - \Phi_B|}{\tau_{coexist}}$.
-- This interaction is inherently **asymmetric**, **non-conservative**, and **environment-mediated**.
+- **Fragile Conservation**: Momentum drift naturally drops as structural persistence increases, but exact deterministic conservation is not achieved natively ($\rho \approx -0.47$). Symmetry and conservation are emergent and fragile, not axiomatic.
 
 ---
 
@@ -70,10 +70,10 @@ Proto-particles do not interact by exchanging force carriers in a background spa
 Geometry is the macroscopic limit of causal regularity. However, not all causal graphs produce a stable space.
 
 ### Phase Regimes
-The hierarchical closure $\Omega$ dictates distinct phases of the universe:
-1. **Subcritical ($\Omega < 1.0$)**: Defects are transient ($\tau < 100$ steps) and highly unstable. No information transport occurs.
-2. **Critical ($\Omega \approx 1.1$)**: Marginal stability. A phase transition point.
-3. **Supercritical ($\Omega > 1.2$)**: Defect worldlines are incredibly persistent ($\tau > 10^4$). The transport field $\xi$ propagates stably without unbounded spreading.
+The hierarchical closure $\Omega$ and non-linear coupling $\gamma$ dictate distinct phases of the universe. The phase transition is multi-dimensional and inconsistent, lacking a single scalar boundary:
+1. **Subcritical**: Defects are transient ($\tau < 100$ steps) and highly unstable. No information transport occurs.
+2. **Critical Transition**: Found via $\gamma$-sweeps, representing an interplay of stability, coherence, and boundary tension. 
+3. **Supercritical (Matter Phase)**: Defect worldlines are incredibly persistent ($\tau > 10^4$). The transport field $\xi$ propagates stably without unbounded spreading. The Matter Phase exhibits **Robust Universality** (100% spacetime volume fraction).
 
 ### Dimension vs. Coordination
 An important correction in HCSN theory: the average coordination number $\langle k \rangle$ is not the true dimension. 

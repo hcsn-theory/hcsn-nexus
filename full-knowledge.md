@@ -163,10 +163,10 @@ Canonical correction:
 - average coordination `<k>` is not itself dimension.
 
 ### 3.7 Canonical phase structure
-By Ω regime (canonical summary):
-- Subcritical (`Ω < 1.0`): transient defects, no stable transport
-- Critical (`Ω ~ 1.1`): marginal stability
-- Supercritical (`Ω > 1.2`): persistent structures and stable transport signatures
+By $\Omega$ and $\gamma$ regime (v3.1 update):
+- Subcritical: transient defects, no stable transport
+- Critical Transition: Multi-dimensional boundary mapped via $\gamma$-sweeps
+- Supercritical (Matter Phase): robust persistent structures (100% spacetime volume fraction in control modes) and stable transport signatures
 
 ### 3.8 Canonical uncertainty/lifetime relation
 Empirical relation documented:
@@ -440,7 +440,9 @@ From `hcsn-rust`:
 - `cargo run --bin interaction_experiment --release`
 
 Note on scripts:
-- some helper Python scripts in `hcsn-rust` expect older filename/flag patterns; check current `src/bin/run_simulation.rs` naming and CLI behavior before batch use.
+- Scripts are organized cleanly in `hcsn-rust/scripts/`. 
+- Use `scripts/pipeline/` for all rigorous Bash orchestrators and Python analyzers.
+- Old audit scripts reside in `scripts/legacy/`.
 
 ---
 
