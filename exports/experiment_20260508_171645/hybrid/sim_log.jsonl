@@ -1,0 +1,9 @@
+{"acc_pct":2.9000000000000004,"chain_length":10,"coordination":5.193548387096774,"knots":1,"max_coh":8.583333333333334,"omega":0.7831700655951956,"pid":15656,"step_ms":10,"time":1000,"total_knots":1,"vertices":31}
+{"acc_pct":3.95,"chain_length":15,"coordination":5.987654320987654,"knots":1,"max_coh":11.857142857142858,"omega":0.7927052640459303,"pid":15656,"step_ms":77,"time":2000,"total_knots":1,"vertices":81}
+{"acc_pct":11.899999999999999,"chain_length":24,"coordination":6.49859943977591,"knots":5,"max_coh":4.270833333333333,"omega":0.7735929036788531,"pid":15656,"step_ms":2757,"time":3000,"total_knots":5,"vertices":357}
+{"acc_pct":18.475,"chain_length":27,"coordination":6.82089552238806,"knots":11,"max_coh":3.5,"omega":0.7803983711538667,"pid":15656,"step_ms":8204,"time":4000,"total_knots":11,"vertices":737}
+{"acc_pct":21.82,"chain_length":29,"coordination":6.588776448942042,"knots":21,"max_coh":10.0,"omega":0.7793398383073759,"pid":15656,"step_ms":22001,"time":5000,"total_knots":21,"vertices":1087}
+{"acc_pct":23.966666666666665,"chain_length":31,"coordination":5.870448179271708,"knots":27,"max_coh":10.0,"omega":0.7692192083402811,"pid":15656,"step_ms":34544,"time":6000,"total_knots":27,"vertices":1428}
+{"acc_pct":25.242857142857144,"chain_length":32,"coordination":5.732153055396916,"knots":34,"max_coh":12.0,"omega":0.7756743773506156,"pid":15656,"step_ms":53923,"time":7000,"total_knots":34,"vertices":1751}
+{"acc_pct":26.474999999999998,"chain_length":33,"coordination":5.954329210275928,"knots":33,"max_coh":12.0,"omega":0.7688821895235894,"pid":15656,"step_ms":52763,"time":8000,"total_knots":33,"vertices":2102}
+{"acc_pct":27.46666666666667,"chain_length":33,"coordination":6.1502442996742674,"knots":40,"max_coh":10.0,"omega":0.7645418059346937,"pid":15656,"step_ms":70098,"time":9000,"total_knots":40,"vertices":2456}

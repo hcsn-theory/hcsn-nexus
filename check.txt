@@ -1,0 +1,4972 @@
+
+======================================================================================
+RUN STARTED (Rust Engine) | Seed: 1 | Steps: 100000
+======================================================================================
+DEBUG: add_causal_relation start (u=0, v=1)
+DEBUG: Initializing engine...
+DEBUG: RewriteEngine::new start
+DEBUG: Engine initialized. Starting loop...
+ time  |   V   |  <k>  | Δ<k> |  L  | ΔL | acc%   | omega | knots | all_k | max_coh | step_ms | RSS_MB
+DEBUG: Step 1 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=2)
+DEBUG: add_causal_relation start (u=1, v=2)
+DEBUG: add_causal_relation start (u=0, v=2)
+DEBUG: Step 1 end
+DEBUG: Step 2 start
+DEBUG: propose_rewrite start
+DEBUG: Step 2 end
+DEBUG: Step 3 start
+DEBUG: propose_rewrite start
+DEBUG: Step 3 end
+DEBUG: Step 4 start
+DEBUG: propose_rewrite start
+DEBUG: Step 4 end
+DEBUG: Step 5 start
+DEBUG: propose_rewrite start
+DEBUG: Step 5 end
+DEBUG: Step 6 start
+DEBUG: propose_rewrite start
+DEBUG: Step 6 end
+DEBUG: Step 7 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=3)
+DEBUG: add_causal_relation start (u=1, v=3)
+DEBUG: add_causal_relation start (u=2, v=3)
+DEBUG: add_causal_relation start (u=0, v=3)
+DEBUG: add_causal_relation start (u=1, v=3)
+DEBUG: add_causal_relation start (u=0, v=3)
+DEBUG: Step 7 end
+DEBUG: Step 8 start
+DEBUG: propose_rewrite start
+DEBUG: Step 8 end
+DEBUG: Step 9 start
+DEBUG: propose_rewrite start
+DEBUG: Step 9 end
+DEBUG: Step 10 start
+DEBUG: propose_rewrite start
+DEBUG: Step 10 end
+DEBUG: Step 11 start
+DEBUG: propose_rewrite start
+DEBUG: Step 11 end
+DEBUG: Step 12 start
+DEBUG: propose_rewrite start
+DEBUG: Step 12 end
+DEBUG: Step 13 start
+DEBUG: propose_rewrite start
+DEBUG: Step 13 end
+DEBUG: Step 14 start
+DEBUG: propose_rewrite start
+DEBUG: Step 14 end
+DEBUG: Step 15 start
+DEBUG: propose_rewrite start
+DEBUG: Step 15 end
+DEBUG: Step 16 start
+DEBUG: propose_rewrite start
+DEBUG: Step 16 end
+DEBUG: Step 17 start
+DEBUG: propose_rewrite start
+DEBUG: Step 17 end
+DEBUG: Step 18 start
+DEBUG: propose_rewrite start
+DEBUG: Step 18 end
+DEBUG: Step 19 start
+DEBUG: propose_rewrite start
+DEBUG: Step 19 end
+DEBUG: Step 20 start
+DEBUG: propose_rewrite start
+DEBUG: Step 20 end
+DEBUG: Step 21 start
+DEBUG: propose_rewrite start
+DEBUG: Step 21 end
+DEBUG: Step 22 start
+DEBUG: propose_rewrite start
+DEBUG: Step 22 end
+DEBUG: Step 23 start
+DEBUG: propose_rewrite start
+DEBUG: Step 23 end
+DEBUG: Step 24 start
+DEBUG: propose_rewrite start
+DEBUG: Step 24 end
+DEBUG: Step 25 start
+DEBUG: propose_rewrite start
+DEBUG: Step 25 end
+DEBUG: Step 26 start
+DEBUG: propose_rewrite start
+DEBUG: Step 26 end
+DEBUG: Step 27 start
+DEBUG: propose_rewrite start
+DEBUG: Step 27 end
+DEBUG: Step 28 start
+DEBUG: propose_rewrite start
+DEBUG: Step 28 end
+DEBUG: Step 29 start
+DEBUG: propose_rewrite start
+DEBUG: Step 29 end
+DEBUG: Step 30 start
+DEBUG: propose_rewrite start
+DEBUG: Step 30 end
+DEBUG: Step 31 start
+DEBUG: propose_rewrite start
+DEBUG: Step 31 end
+DEBUG: Step 32 start
+DEBUG: propose_rewrite start
+DEBUG: Step 32 end
+DEBUG: Step 33 start
+DEBUG: propose_rewrite start
+DEBUG: Step 33 end
+DEBUG: Step 34 start
+DEBUG: propose_rewrite start
+DEBUG: Step 34 end
+DEBUG: Step 35 start
+DEBUG: propose_rewrite start
+DEBUG: Step 35 end
+DEBUG: Step 36 start
+DEBUG: propose_rewrite start
+DEBUG: Step 36 end
+DEBUG: Step 37 start
+DEBUG: propose_rewrite start
+DEBUG: Step 37 end
+DEBUG: Step 38 start
+DEBUG: propose_rewrite start
+DEBUG: Step 38 end
+DEBUG: Step 39 start
+DEBUG: propose_rewrite start
+DEBUG: Step 39 end
+DEBUG: Step 40 start
+DEBUG: propose_rewrite start
+DEBUG: Step 40 end
+DEBUG: Step 41 start
+DEBUG: propose_rewrite start
+DEBUG: Step 41 end
+DEBUG: Step 42 start
+DEBUG: propose_rewrite start
+DEBUG: Step 42 end
+DEBUG: Step 43 start
+DEBUG: propose_rewrite start
+DEBUG: Step 43 end
+DEBUG: Step 44 start
+DEBUG: propose_rewrite start
+DEBUG: Step 44 end
+DEBUG: Step 45 start
+DEBUG: propose_rewrite start
+DEBUG: Step 45 end
+DEBUG: Step 46 start
+DEBUG: propose_rewrite start
+DEBUG: Step 46 end
+DEBUG: Step 47 start
+DEBUG: propose_rewrite start
+DEBUG: Step 47 end
+DEBUG: Step 48 start
+DEBUG: propose_rewrite start
+DEBUG: Step 48 end
+DEBUG: Step 49 start
+DEBUG: propose_rewrite start
+DEBUG: Step 49 end
+DEBUG: Step 50 start
+DEBUG: propose_rewrite start
+DEBUG: Step 50 end
+DEBUG: Step 51 start
+DEBUG: propose_rewrite start
+DEBUG: Step 51 end
+DEBUG: Step 52 start
+DEBUG: propose_rewrite start
+DEBUG: Step 52 end
+DEBUG: Step 53 start
+DEBUG: propose_rewrite start
+DEBUG: Step 53 end
+DEBUG: Step 54 start
+DEBUG: propose_rewrite start
+DEBUG: Step 54 end
+DEBUG: Step 55 start
+DEBUG: propose_rewrite start
+DEBUG: Step 55 end
+DEBUG: Step 56 start
+DEBUG: propose_rewrite start
+DEBUG: Step 56 end
+DEBUG: Step 57 start
+DEBUG: propose_rewrite start
+DEBUG: Step 57 end
+DEBUG: Step 58 start
+DEBUG: propose_rewrite start
+DEBUG: Step 58 end
+DEBUG: Step 59 start
+DEBUG: propose_rewrite start
+DEBUG: Step 59 end
+DEBUG: Step 60 start
+DEBUG: propose_rewrite start
+DEBUG: Step 60 end
+DEBUG: Step 61 start
+DEBUG: propose_rewrite start
+DEBUG: Step 61 end
+DEBUG: Step 62 start
+DEBUG: propose_rewrite start
+DEBUG: Step 62 end
+DEBUG: Step 63 start
+DEBUG: propose_rewrite start
+DEBUG: Step 63 end
+DEBUG: Step 64 start
+DEBUG: propose_rewrite start
+DEBUG: Step 64 end
+DEBUG: Step 65 start
+DEBUG: propose_rewrite start
+DEBUG: Step 65 end
+DEBUG: Step 66 start
+DEBUG: propose_rewrite start
+DEBUG: Step 66 end
+DEBUG: Step 67 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=4)
+DEBUG: add_causal_relation start (u=1, v=4)
+DEBUG: add_causal_relation start (u=2, v=4)
+DEBUG: add_causal_relation start (u=3, v=4)
+DEBUG: add_causal_relation start (u=0, v=4)
+DEBUG: add_causal_relation start (u=1, v=4)
+DEBUG: add_causal_relation start (u=2, v=4)
+DEBUG: add_causal_relation start (u=2, v=4)
+DEBUG: add_causal_relation start (u=1, v=4)
+DEBUG: Step 67 end
+DEBUG: Step 68 start
+DEBUG: propose_rewrite start
+DEBUG: Step 68 end
+DEBUG: Step 69 start
+DEBUG: propose_rewrite start
+DEBUG: Step 69 end
+DEBUG: Step 70 start
+DEBUG: propose_rewrite start
+DEBUG: Step 70 end
+DEBUG: Step 71 start
+DEBUG: propose_rewrite start
+DEBUG: Step 71 end
+DEBUG: Step 72 start
+DEBUG: propose_rewrite start
+DEBUG: Step 72 end
+DEBUG: Step 73 start
+DEBUG: propose_rewrite start
+DEBUG: Step 73 end
+DEBUG: Step 74 start
+DEBUG: propose_rewrite start
+DEBUG: Step 74 end
+DEBUG: Step 75 start
+DEBUG: propose_rewrite start
+DEBUG: Step 75 end
+DEBUG: Step 76 start
+DEBUG: propose_rewrite start
+DEBUG: Step 76 end
+DEBUG: Step 77 start
+DEBUG: propose_rewrite start
+DEBUG: Step 77 end
+DEBUG: Step 78 start
+DEBUG: propose_rewrite start
+DEBUG: Step 78 end
+DEBUG: Step 79 start
+DEBUG: propose_rewrite start
+DEBUG: Step 79 end
+DEBUG: Step 80 start
+DEBUG: propose_rewrite start
+DEBUG: Step 80 end
+DEBUG: Step 81 start
+DEBUG: propose_rewrite start
+DEBUG: Step 81 end
+DEBUG: Step 82 start
+DEBUG: propose_rewrite start
+DEBUG: Step 82 end
+DEBUG: Step 83 start
+DEBUG: propose_rewrite start
+DEBUG: Step 83 end
+DEBUG: Step 84 start
+DEBUG: propose_rewrite start
+DEBUG: Step 84 end
+DEBUG: Step 85 start
+DEBUG: propose_rewrite start
+DEBUG: Step 85 end
+DEBUG: Step 86 start
+DEBUG: propose_rewrite start
+DEBUG: Step 86 end
+DEBUG: Step 87 start
+DEBUG: propose_rewrite start
+DEBUG: Step 87 end
+DEBUG: Step 88 start
+DEBUG: propose_rewrite start
+DEBUG: Step 88 end
+DEBUG: Step 89 start
+DEBUG: propose_rewrite start
+DEBUG: Step 89 end
+DEBUG: Step 90 start
+DEBUG: propose_rewrite start
+DEBUG: Step 90 end
+DEBUG: Step 91 start
+DEBUG: propose_rewrite start
+DEBUG: Step 91 end
+DEBUG: Step 92 start
+DEBUG: propose_rewrite start
+DEBUG: Step 92 end
+DEBUG: Step 93 start
+DEBUG: propose_rewrite start
+DEBUG: Step 93 end
+DEBUG: Step 94 start
+DEBUG: propose_rewrite start
+DEBUG: Step 94 end
+DEBUG: Step 95 start
+DEBUG: propose_rewrite start
+DEBUG: Step 95 end
+DEBUG: Step 96 start
+DEBUG: propose_rewrite start
+DEBUG: Step 96 end
+DEBUG: Step 97 start
+DEBUG: propose_rewrite start
+DEBUG: Step 97 end
+DEBUG: Step 98 start
+DEBUG: propose_rewrite start
+DEBUG: Step 98 end
+DEBUG: Step 99 start
+DEBUG: propose_rewrite start
+DEBUG: Step 99 end
+DEBUG: Step 100 start
+DEBUG: propose_rewrite start
+DEBUG: Step 100 end
+DEBUG: Step 101 start
+DEBUG: propose_rewrite start
+DEBUG: Step 101 end
+DEBUG: Step 102 start
+DEBUG: propose_rewrite start
+DEBUG: Step 102 end
+DEBUG: Step 103 start
+DEBUG: propose_rewrite start
+DEBUG: Step 103 end
+DEBUG: Step 104 start
+DEBUG: propose_rewrite start
+DEBUG: Step 104 end
+DEBUG: Step 105 start
+DEBUG: propose_rewrite start
+DEBUG: Step 105 end
+DEBUG: Step 106 start
+DEBUG: propose_rewrite start
+DEBUG: Step 106 end
+DEBUG: Step 107 start
+DEBUG: propose_rewrite start
+DEBUG: Step 107 end
+DEBUG: Step 108 start
+DEBUG: propose_rewrite start
+DEBUG: Step 108 end
+DEBUG: Step 109 start
+DEBUG: propose_rewrite start
+DEBUG: Step 109 end
+DEBUG: Step 110 start
+DEBUG: propose_rewrite start
+DEBUG: Step 110 end
+DEBUG: Step 111 start
+DEBUG: propose_rewrite start
+DEBUG: Step 111 end
+DEBUG: Step 112 start
+DEBUG: propose_rewrite start
+DEBUG: Step 112 end
+DEBUG: Step 113 start
+DEBUG: propose_rewrite start
+DEBUG: Step 113 end
+DEBUG: Step 114 start
+DEBUG: propose_rewrite start
+DEBUG: Step 114 end
+DEBUG: Step 115 start
+DEBUG: propose_rewrite start
+DEBUG: Step 115 end
+DEBUG: Step 116 start
+DEBUG: propose_rewrite start
+DEBUG: Step 116 end
+DEBUG: Step 117 start
+DEBUG: propose_rewrite start
+DEBUG: Step 117 end
+DEBUG: Step 118 start
+DEBUG: propose_rewrite start
+DEBUG: Step 118 end
+DEBUG: Step 119 start
+DEBUG: propose_rewrite start
+DEBUG: Step 119 end
+DEBUG: Step 120 start
+DEBUG: propose_rewrite start
+DEBUG: Step 120 end
+DEBUG: Step 121 start
+DEBUG: propose_rewrite start
+DEBUG: Step 121 end
+DEBUG: Step 122 start
+DEBUG: propose_rewrite start
+DEBUG: Step 122 end
+DEBUG: Step 123 start
+DEBUG: propose_rewrite start
+DEBUG: Step 123 end
+DEBUG: Step 124 start
+DEBUG: propose_rewrite start
+DEBUG: Step 124 end
+DEBUG: Step 125 start
+DEBUG: propose_rewrite start
+DEBUG: Step 125 end
+DEBUG: Step 126 start
+DEBUG: propose_rewrite start
+DEBUG: Step 126 end
+DEBUG: Step 127 start
+DEBUG: propose_rewrite start
+DEBUG: Step 127 end
+DEBUG: Step 128 start
+DEBUG: propose_rewrite start
+DEBUG: Step 128 end
+DEBUG: Step 129 start
+DEBUG: propose_rewrite start
+DEBUG: Step 129 end
+DEBUG: Step 130 start
+DEBUG: propose_rewrite start
+DEBUG: Step 130 end
+DEBUG: Step 131 start
+DEBUG: propose_rewrite start
+DEBUG: Step 131 end
+DEBUG: Step 132 start
+DEBUG: propose_rewrite start
+DEBUG: Step 132 end
+DEBUG: Step 133 start
+DEBUG: propose_rewrite start
+DEBUG: Step 133 end
+DEBUG: Step 134 start
+DEBUG: propose_rewrite start
+DEBUG: Step 134 end
+DEBUG: Step 135 start
+DEBUG: propose_rewrite start
+DEBUG: Step 135 end
+DEBUG: Step 136 start
+DEBUG: propose_rewrite start
+DEBUG: Step 136 end
+DEBUG: Step 137 start
+DEBUG: propose_rewrite start
+DEBUG: Step 137 end
+DEBUG: Step 138 start
+DEBUG: propose_rewrite start
+DEBUG: Step 138 end
+DEBUG: Step 139 start
+DEBUG: propose_rewrite start
+DEBUG: Step 139 end
+DEBUG: Step 140 start
+DEBUG: propose_rewrite start
+DEBUG: Step 140 end
+DEBUG: Step 141 start
+DEBUG: propose_rewrite start
+DEBUG: Step 141 end
+DEBUG: Step 142 start
+DEBUG: propose_rewrite start
+DEBUG: Step 142 end
+DEBUG: Step 143 start
+DEBUG: propose_rewrite start
+DEBUG: Step 143 end
+DEBUG: Step 144 start
+DEBUG: propose_rewrite start
+DEBUG: Step 144 end
+DEBUG: Step 145 start
+DEBUG: propose_rewrite start
+DEBUG: Step 145 end
+DEBUG: Step 146 start
+DEBUG: propose_rewrite start
+DEBUG: Step 146 end
+DEBUG: Step 147 start
+DEBUG: propose_rewrite start
+DEBUG: Step 147 end
+DEBUG: Step 148 start
+DEBUG: propose_rewrite start
+DEBUG: Step 148 end
+DEBUG: Step 149 start
+DEBUG: propose_rewrite start
+DEBUG: Step 149 end
+DEBUG: Step 150 start
+DEBUG: propose_rewrite start
+DEBUG: Step 150 end
+DEBUG: Step 151 start
+DEBUG: propose_rewrite start
+DEBUG: Step 151 end
+DEBUG: Step 152 start
+DEBUG: propose_rewrite start
+DEBUG: Step 152 end
+DEBUG: Step 153 start
+DEBUG: propose_rewrite start
+DEBUG: Step 153 end
+DEBUG: Step 154 start
+DEBUG: propose_rewrite start
+DEBUG: Step 154 end
+DEBUG: Step 155 start
+DEBUG: propose_rewrite start
+DEBUG: Step 155 end
+DEBUG: Step 156 start
+DEBUG: propose_rewrite start
+DEBUG: Step 156 end
+DEBUG: Step 157 start
+DEBUG: propose_rewrite start
+DEBUG: Step 157 end
+DEBUG: Step 158 start
+DEBUG: propose_rewrite start
+DEBUG: Step 158 end
+DEBUG: Step 159 start
+DEBUG: propose_rewrite start
+DEBUG: Step 159 end
+DEBUG: Step 160 start
+DEBUG: propose_rewrite start
+DEBUG: Step 160 end
+DEBUG: Step 161 start
+DEBUG: propose_rewrite start
+DEBUG: Step 161 end
+DEBUG: Step 162 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=5)
+DEBUG: add_causal_relation start (u=1, v=5)
+DEBUG: add_causal_relation start (u=2, v=5)
+DEBUG: add_causal_relation start (u=1, v=5)
+DEBUG: Step 162 end
+DEBUG: Step 163 start
+DEBUG: propose_rewrite start
+DEBUG: Step 163 end
+DEBUG: Step 164 start
+DEBUG: propose_rewrite start
+DEBUG: Step 164 end
+DEBUG: Step 165 start
+DEBUG: propose_rewrite start
+DEBUG: Step 165 end
+DEBUG: Step 166 start
+DEBUG: propose_rewrite start
+DEBUG: Step 166 end
+DEBUG: Step 167 start
+DEBUG: propose_rewrite start
+DEBUG: Step 167 end
+DEBUG: Step 168 start
+DEBUG: propose_rewrite start
+DEBUG: Step 168 end
+DEBUG: Step 169 start
+DEBUG: propose_rewrite start
+DEBUG: Step 169 end
+DEBUG: Step 170 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=6)
+DEBUG: add_causal_relation start (u=1, v=6)
+DEBUG: add_causal_relation start (u=2, v=6)
+DEBUG: add_causal_relation start (u=5, v=6)
+DEBUG: add_causal_relation start (u=1, v=6)
+DEBUG: add_causal_relation start (u=0, v=6)
+DEBUG: add_causal_relation start (u=0, v=6)
+DEBUG: Step 170 end
+DEBUG: Step 171 start
+DEBUG: propose_rewrite start
+DEBUG: Step 171 end
+DEBUG: Step 172 start
+DEBUG: propose_rewrite start
+DEBUG: Step 172 end
+DEBUG: Step 173 start
+DEBUG: propose_rewrite start
+DEBUG: Step 173 end
+DEBUG: Step 174 start
+DEBUG: propose_rewrite start
+DEBUG: Step 174 end
+DEBUG: Step 175 start
+DEBUG: propose_rewrite start
+DEBUG: Step 175 end
+DEBUG: Step 176 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=7)
+DEBUG: add_causal_relation start (u=1, v=7)
+DEBUG: add_causal_relation start (u=2, v=7)
+DEBUG: add_causal_relation start (u=5, v=7)
+DEBUG: add_causal_relation start (u=6, v=7)
+DEBUG: add_causal_relation start (u=1, v=7)
+DEBUG: add_causal_relation start (u=1, v=7)
+DEBUG: add_causal_relation start (u=0, v=7)
+DEBUG: add_causal_relation start (u=6, v=7)
+DEBUG: add_causal_relation start (u=5, v=7)
+DEBUG: add_causal_relation start (u=1, v=7)
+DEBUG: Step 176 end
+DEBUG: Step 177 start
+DEBUG: propose_rewrite start
+DEBUG: Step 177 end
+DEBUG: Step 178 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=8)
+DEBUG: add_causal_relation start (u=1, v=8)
+DEBUG: add_causal_relation start (u=2, v=8)
+DEBUG: add_causal_relation start (u=3, v=8)
+DEBUG: add_causal_relation start (u=4, v=8)
+DEBUG: add_causal_relation start (u=1, v=8)
+DEBUG: add_causal_relation start (u=2, v=8)
+DEBUG: add_causal_relation start (u=0, v=8)
+DEBUG: add_causal_relation start (u=2, v=8)
+DEBUG: Step 178 end
+DEBUG: Step 179 start
+DEBUG: propose_rewrite start
+DEBUG: Step 179 end
+DEBUG: Step 180 start
+DEBUG: propose_rewrite start
+DEBUG: Step 180 end
+DEBUG: Step 181 start
+DEBUG: propose_rewrite start
+DEBUG: Step 181 end
+DEBUG: Step 182 start
+DEBUG: propose_rewrite start
+DEBUG: Step 182 end
+DEBUG: Step 183 start
+DEBUG: propose_rewrite start
+DEBUG: Step 183 end
+DEBUG: Step 184 start
+DEBUG: propose_rewrite start
+DEBUG: Step 184 end
+DEBUG: Step 185 start
+DEBUG: propose_rewrite start
+DEBUG: Step 185 end
+DEBUG: Step 186 start
+DEBUG: propose_rewrite start
+DEBUG: Step 186 end
+DEBUG: Step 187 start
+DEBUG: propose_rewrite start
+DEBUG: Step 187 end
+DEBUG: Step 188 start
+DEBUG: propose_rewrite start
+DEBUG: Step 188 end
+DEBUG: Step 189 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=9)
+DEBUG: add_causal_relation start (u=1, v=9)
+DEBUG: add_causal_relation start (u=2, v=9)
+DEBUG: add_causal_relation start (u=3, v=9)
+DEBUG: add_causal_relation start (u=4, v=9)
+DEBUG: add_causal_relation start (u=2, v=9)
+DEBUG: add_causal_relation start (u=2, v=9)
+DEBUG: add_causal_relation start (u=3, v=9)
+DEBUG: add_causal_relation start (u=0, v=9)
+DEBUG: add_causal_relation start (u=3, v=9)
+DEBUG: add_causal_relation start (u=4, v=9)
+DEBUG: Step 189 end
+DEBUG: Step 190 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=10)
+DEBUG: add_causal_relation start (u=1, v=10)
+DEBUG: add_causal_relation start (u=2, v=10)
+DEBUG: add_causal_relation start (u=5, v=10)
+DEBUG: add_causal_relation start (u=6, v=10)
+DEBUG: add_causal_relation start (u=7, v=10)
+DEBUG: add_causal_relation start (u=1, v=10)
+DEBUG: add_causal_relation start (u=0, v=10)
+DEBUG: add_causal_relation start (u=2, v=10)
+DEBUG: add_causal_relation start (u=6, v=10)
+DEBUG: add_causal_relation start (u=2, v=10)
+DEBUG: Step 190 end
+DEBUG: Step 191 start
+DEBUG: propose_rewrite start
+DEBUG: Step 191 end
+DEBUG: Step 192 start
+DEBUG: propose_rewrite start
+DEBUG: Step 192 end
+DEBUG: Step 193 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=11)
+DEBUG: add_causal_relation start (u=1, v=11)
+DEBUG: add_causal_relation start (u=2, v=11)
+DEBUG: add_causal_relation start (u=5, v=11)
+DEBUG: add_causal_relation start (u=6, v=11)
+DEBUG: add_causal_relation start (u=7, v=11)
+DEBUG: add_causal_relation start (u=10, v=11)
+DEBUG: add_causal_relation start (u=0, v=11)
+DEBUG: add_causal_relation start (u=2, v=11)
+DEBUG: add_causal_relation start (u=2, v=11)
+DEBUG: add_causal_relation start (u=6, v=11)
+DEBUG: add_causal_relation start (u=2, v=11)
+DEBUG: add_causal_relation start (u=1, v=11)
+DEBUG: add_causal_relation start (u=5, v=11)
+DEBUG: add_causal_relation start (u=10, v=11)
+DEBUG: Step 193 end
+DEBUG: Step 194 start
+DEBUG: propose_rewrite start
+DEBUG: Step 194 end
+DEBUG: Step 195 start
+DEBUG: propose_rewrite start
+DEBUG: Step 195 end
+DEBUG: Step 196 start
+DEBUG: propose_rewrite start
+DEBUG: Step 196 end
+DEBUG: Step 197 start
+DEBUG: propose_rewrite start
+DEBUG: Step 197 end
+DEBUG: Step 198 start
+DEBUG: propose_rewrite start
+DEBUG: Step 198 end
+DEBUG: Step 199 start
+DEBUG: propose_rewrite start
+DEBUG: Step 199 end
+DEBUG: Step 200 start
+DEBUG: propose_rewrite start
+DEBUG: Step 200 end
+DEBUG: Step 201 start
+DEBUG: propose_rewrite start
+DEBUG: Step 201 end
+DEBUG: Step 202 start
+DEBUG: propose_rewrite start
+DEBUG: Step 202 end
+DEBUG: Step 203 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=12)
+DEBUG: add_causal_relation start (u=1, v=12)
+DEBUG: add_causal_relation start (u=2, v=12)
+DEBUG: add_causal_relation start (u=3, v=12)
+DEBUG: add_causal_relation start (u=4, v=12)
+DEBUG: add_causal_relation start (u=9, v=12)
+DEBUG: add_causal_relation start (u=1, v=12)
+DEBUG: add_causal_relation start (u=0, v=12)
+DEBUG: add_causal_relation start (u=1, v=12)
+DEBUG: add_causal_relation start (u=0, v=12)
+DEBUG: add_causal_relation start (u=1, v=12)
+DEBUG: Step 203 end
+DEBUG: Step 204 start
+DEBUG: propose_rewrite start
+DEBUG: Step 204 end
+DEBUG: Step 205 start
+DEBUG: propose_rewrite start
+DEBUG: Step 205 end
+DEBUG: Step 206 start
+DEBUG: propose_rewrite start
+DEBUG: Step 206 end
+DEBUG: Step 207 start
+DEBUG: propose_rewrite start
+DEBUG: Step 207 end
+DEBUG: Step 208 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=13)
+DEBUG: add_causal_relation start (u=1, v=13)
+DEBUG: add_causal_relation start (u=2, v=13)
+DEBUG: add_causal_relation start (u=5, v=13)
+DEBUG: add_causal_relation start (u=6, v=13)
+DEBUG: add_causal_relation start (u=0, v=13)
+DEBUG: add_causal_relation start (u=1, v=13)
+DEBUG: add_causal_relation start (u=0, v=13)
+DEBUG: add_causal_relation start (u=1, v=13)
+DEBUG: add_causal_relation start (u=5, v=13)
+DEBUG: Step 208 end
+DEBUG: Step 209 start
+DEBUG: propose_rewrite start
+DEBUG: Step 209 end
+DEBUG: Step 210 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=14)
+DEBUG: add_causal_relation start (u=1, v=14)
+DEBUG: add_causal_relation start (u=2, v=14)
+DEBUG: add_causal_relation start (u=3, v=14)
+DEBUG: add_causal_relation start (u=4, v=14)
+DEBUG: add_causal_relation start (u=9, v=14)
+DEBUG: add_causal_relation start (u=12, v=14)
+DEBUG: add_causal_relation start (u=1, v=14)
+DEBUG: add_causal_relation start (u=0, v=14)
+DEBUG: add_causal_relation start (u=2, v=14)
+DEBUG: add_causal_relation start (u=4, v=14)
+DEBUG: add_causal_relation start (u=2, v=14)
+DEBUG: add_causal_relation start (u=1, v=14)
+DEBUG: add_causal_relation start (u=2, v=14)
+DEBUG: add_causal_relation start (u=0, v=14)
+DEBUG: add_causal_relation start (u=1, v=14)
+DEBUG: Step 210 end
+DEBUG: Step 211 start
+DEBUG: propose_rewrite start
+DEBUG: Step 211 end
+DEBUG: Step 212 start
+DEBUG: propose_rewrite start
+DEBUG: Step 212 end
+DEBUG: Step 213 start
+DEBUG: propose_rewrite start
+DEBUG: Step 213 end
+DEBUG: Step 214 start
+DEBUG: propose_rewrite start
+DEBUG: Step 214 end
+DEBUG: Step 215 start
+DEBUG: propose_rewrite start
+DEBUG: Step 215 end
+DEBUG: Step 216 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=15)
+DEBUG: add_causal_relation start (u=1, v=15)
+DEBUG: add_causal_relation start (u=2, v=15)
+DEBUG: add_causal_relation start (u=5, v=15)
+DEBUG: add_causal_relation start (u=6, v=15)
+DEBUG: add_causal_relation start (u=7, v=15)
+DEBUG: add_causal_relation start (u=10, v=15)
+DEBUG: add_causal_relation start (u=11, v=15)
+DEBUG: add_causal_relation start (u=1, v=15)
+DEBUG: add_causal_relation start (u=2, v=15)
+DEBUG: add_causal_relation start (u=1, v=15)
+DEBUG: add_causal_relation start (u=0, v=15)
+DEBUG: add_causal_relation start (u=7, v=15)
+DEBUG: add_causal_relation start (u=10, v=15)
+DEBUG: add_causal_relation start (u=7, v=15)
+DEBUG: add_causal_relation start (u=2, v=15)
+DEBUG: add_causal_relation start (u=1, v=15)
+DEBUG: add_causal_relation start (u=7, v=15)
+DEBUG: add_causal_relation start (u=2, v=15)
+DEBUG: Step 216 end
+DEBUG: Step 217 start
+DEBUG: propose_rewrite start
+DEBUG: Step 217 end
+DEBUG: Step 218 start
+DEBUG: propose_rewrite start
+DEBUG: Step 218 end
+DEBUG: Step 219 start
+DEBUG: propose_rewrite start
+DEBUG: Step 219 end
+DEBUG: Step 220 start
+DEBUG: propose_rewrite start
+DEBUG: Step 220 end
+DEBUG: Step 221 start
+DEBUG: propose_rewrite start
+DEBUG: Step 221 end
+DEBUG: Step 222 start
+DEBUG: propose_rewrite start
+DEBUG: Step 222 end
+DEBUG: Step 223 start
+DEBUG: propose_rewrite start
+DEBUG: Step 223 end
+DEBUG: Step 224 start
+DEBUG: propose_rewrite start
+DEBUG: Step 224 end
+DEBUG: Step 225 start
+DEBUG: propose_rewrite start
+DEBUG: Step 225 end
+DEBUG: Step 226 start
+DEBUG: propose_rewrite start
+DEBUG: Step 226 end
+DEBUG: Step 227 start
+DEBUG: propose_rewrite start
+DEBUG: Step 227 end
+DEBUG: Step 228 start
+DEBUG: propose_rewrite start
+DEBUG: Step 228 end
+DEBUG: Step 229 start
+DEBUG: propose_rewrite start
+DEBUG: Step 229 end
+DEBUG: Step 230 start
+DEBUG: propose_rewrite start
+DEBUG: Step 230 end
+DEBUG: Step 231 start
+DEBUG: propose_rewrite start
+DEBUG: Step 231 end
+DEBUG: Step 232 start
+DEBUG: propose_rewrite start
+DEBUG: Step 232 end
+DEBUG: Step 233 start
+DEBUG: propose_rewrite start
+DEBUG: Step 233 end
+DEBUG: Step 234 start
+DEBUG: propose_rewrite start
+DEBUG: Step 234 end
+DEBUG: Step 235 start
+DEBUG: propose_rewrite start
+DEBUG: Step 235 end
+DEBUG: Step 236 start
+DEBUG: propose_rewrite start
+DEBUG: Step 236 end
+DEBUG: Step 237 start
+DEBUG: propose_rewrite start
+DEBUG: Step 237 end
+DEBUG: Step 238 start
+DEBUG: propose_rewrite start
+DEBUG: Step 238 end
+DEBUG: Step 239 start
+DEBUG: propose_rewrite start
+DEBUG: Step 239 end
+DEBUG: Step 240 start
+DEBUG: propose_rewrite start
+DEBUG: Step 240 end
+DEBUG: Step 241 start
+DEBUG: propose_rewrite start
+DEBUG: Step 241 end
+DEBUG: Step 242 start
+DEBUG: propose_rewrite start
+DEBUG: Step 242 end
+DEBUG: Step 243 start
+DEBUG: propose_rewrite start
+DEBUG: Step 243 end
+DEBUG: Step 244 start
+DEBUG: propose_rewrite start
+DEBUG: Step 244 end
+DEBUG: Step 245 start
+DEBUG: propose_rewrite start
+DEBUG: Step 245 end
+DEBUG: Step 246 start
+DEBUG: propose_rewrite start
+DEBUG: Step 246 end
+DEBUG: Step 247 start
+DEBUG: propose_rewrite start
+DEBUG: Step 247 end
+DEBUG: Step 248 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=9, v=3)
+DEBUG: add_causal_relation start (u=0, v=16)
+DEBUG: add_causal_relation start (u=1, v=16)
+DEBUG: add_causal_relation start (u=2, v=16)
+DEBUG: add_causal_relation start (u=5, v=16)
+DEBUG: add_causal_relation start (u=6, v=16)
+DEBUG: add_causal_relation start (u=7, v=16)
+DEBUG: add_causal_relation start (u=10, v=16)
+DEBUG: add_causal_relation start (u=1, v=16)
+DEBUG: add_causal_relation start (u=2, v=16)
+DEBUG: add_causal_relation start (u=0, v=16)
+DEBUG: add_causal_relation start (u=0, v=16)
+DEBUG: add_causal_relation start (u=2, v=16)
+DEBUG: add_causal_relation start (u=6, v=16)
+DEBUG: add_causal_relation start (u=7, v=16)
+DEBUG: add_causal_relation start (u=6, v=16)
+DEBUG: add_causal_relation start (u=7, v=16)
+DEBUG: Step 248 end
+DEBUG: Step 249 start
+DEBUG: propose_rewrite start
+DEBUG: Step 249 end
+DEBUG: Step 250 start
+DEBUG: propose_rewrite start
+DEBUG: Step 250 end
+DEBUG: Step 251 start
+DEBUG: propose_rewrite start
+DEBUG: Step 251 end
+DEBUG: Step 252 start
+DEBUG: propose_rewrite start
+DEBUG: Step 252 end
+DEBUG: Step 253 start
+DEBUG: propose_rewrite start
+DEBUG: Step 253 end
+DEBUG: Step 254 start
+DEBUG: propose_rewrite start
+DEBUG: Step 254 end
+DEBUG: Step 255 start
+DEBUG: propose_rewrite start
+DEBUG: Step 255 end
+DEBUG: Step 256 start
+DEBUG: propose_rewrite start
+DEBUG: Step 256 end
+DEBUG: Step 257 start
+DEBUG: propose_rewrite start
+DEBUG: Step 257 end
+DEBUG: Step 258 start
+DEBUG: propose_rewrite start
+DEBUG: Step 258 end
+DEBUG: Step 259 start
+DEBUG: propose_rewrite start
+DEBUG: Step 259 end
+DEBUG: Step 260 start
+DEBUG: propose_rewrite start
+DEBUG: Step 260 end
+DEBUG: Step 261 start
+DEBUG: propose_rewrite start
+DEBUG: Step 261 end
+DEBUG: Step 262 start
+DEBUG: propose_rewrite start
+DEBUG: Step 262 end
+DEBUG: Step 263 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=17)
+DEBUG: add_causal_relation start (u=1, v=17)
+DEBUG: add_causal_relation start (u=2, v=17)
+DEBUG: add_causal_relation start (u=5, v=17)
+DEBUG: add_causal_relation start (u=6, v=17)
+DEBUG: add_causal_relation start (u=7, v=17)
+DEBUG: add_causal_relation start (u=10, v=17)
+DEBUG: add_causal_relation start (u=16, v=17)
+DEBUG: add_causal_relation start (u=0, v=17)
+DEBUG: add_causal_relation start (u=6, v=17)
+DEBUG: add_causal_relation start (u=7, v=17)
+DEBUG: add_causal_relation start (u=6, v=17)
+DEBUG: add_causal_relation start (u=0, v=17)
+DEBUG: add_causal_relation start (u=1, v=17)
+DEBUG: Step 263 end
+DEBUG: Step 264 start
+DEBUG: propose_rewrite start
+DEBUG: Step 264 end
+DEBUG: Step 265 start
+DEBUG: propose_rewrite start
+DEBUG: Step 265 end
+DEBUG: Step 266 start
+DEBUG: propose_rewrite start
+DEBUG: Step 266 end
+DEBUG: Step 267 start
+DEBUG: propose_rewrite start
+DEBUG: Step 267 end
+DEBUG: Step 268 start
+DEBUG: propose_rewrite start
+DEBUG: Step 268 end
+DEBUG: Step 269 start
+DEBUG: propose_rewrite start
+DEBUG: Step 269 end
+DEBUG: Step 270 start
+DEBUG: propose_rewrite start
+DEBUG: Step 270 end
+DEBUG: Step 271 start
+DEBUG: propose_rewrite start
+DEBUG: Step 271 end
+DEBUG: Step 272 start
+DEBUG: propose_rewrite start
+DEBUG: Step 272 end
+DEBUG: Step 273 start
+DEBUG: propose_rewrite start
+DEBUG: Step 273 end
+DEBUG: Step 274 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=18)
+DEBUG: add_causal_relation start (u=1, v=18)
+DEBUG: add_causal_relation start (u=2, v=18)
+DEBUG: add_causal_relation start (u=5, v=18)
+DEBUG: add_causal_relation start (u=6, v=18)
+DEBUG: add_causal_relation start (u=7, v=18)
+DEBUG: add_causal_relation start (u=10, v=18)
+DEBUG: add_causal_relation start (u=11, v=18)
+DEBUG: add_causal_relation start (u=15, v=18)
+DEBUG: add_causal_relation start (u=1, v=18)
+DEBUG: add_causal_relation start (u=2, v=18)
+DEBUG: add_causal_relation start (u=5, v=18)
+DEBUG: add_causal_relation start (u=0, v=18)
+DEBUG: add_causal_relation start (u=1, v=18)
+DEBUG: add_causal_relation start (u=6, v=18)
+DEBUG: add_causal_relation start (u=1, v=18)
+DEBUG: add_causal_relation start (u=0, v=18)
+DEBUG: add_causal_relation start (u=1, v=18)
+DEBUG: add_causal_relation start (u=0, v=18)
+DEBUG: add_causal_relation start (u=7, v=18)
+DEBUG: add_causal_relation start (u=6, v=18)
+DEBUG: add_causal_relation start (u=6, v=18)
+DEBUG: add_causal_relation start (u=15, v=18)
+DEBUG: Step 274 end
+DEBUG: Step 275 start
+DEBUG: propose_rewrite start
+DEBUG: Step 275 end
+DEBUG: Step 276 start
+DEBUG: propose_rewrite start
+DEBUG: Step 276 end
+DEBUG: Step 277 start
+DEBUG: propose_rewrite start
+DEBUG: Step 277 end
+DEBUG: Step 278 start
+DEBUG: propose_rewrite start
+DEBUG: Step 278 end
+DEBUG: Step 279 start
+DEBUG: propose_rewrite start
+DEBUG: Step 279 end
+DEBUG: Step 280 start
+DEBUG: propose_rewrite start
+DEBUG: Step 280 end
+DEBUG: Step 281 start
+DEBUG: propose_rewrite start
+DEBUG: Step 281 end
+DEBUG: Step 282 start
+DEBUG: propose_rewrite start
+DEBUG: Step 282 end
+DEBUG: Step 283 start
+DEBUG: propose_rewrite start
+DEBUG: Step 283 end
+DEBUG: Step 284 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=10, v=6)
+DEBUG: add_causal_relation start (u=0, v=19)
+DEBUG: add_causal_relation start (u=1, v=19)
+DEBUG: add_causal_relation start (u=2, v=19)
+DEBUG: add_causal_relation start (u=5, v=19)
+DEBUG: add_causal_relation start (u=6, v=19)
+DEBUG: add_causal_relation start (u=13, v=19)
+DEBUG: add_causal_relation start (u=1, v=19)
+DEBUG: add_causal_relation start (u=2, v=19)
+DEBUG: add_causal_relation start (u=1, v=19)
+DEBUG: add_causal_relation start (u=2, v=19)
+DEBUG: add_causal_relation start (u=5, v=19)
+DEBUG: add_causal_relation start (u=2, v=19)
+DEBUG: add_causal_relation start (u=6, v=19)
+DEBUG: add_causal_relation start (u=1, v=19)
+DEBUG: Step 284 end
+DEBUG: Step 285 start
+DEBUG: propose_rewrite start
+DEBUG: Step 285 end
+DEBUG: Step 286 start
+DEBUG: propose_rewrite start
+DEBUG: Step 286 end
+DEBUG: Step 287 start
+DEBUG: propose_rewrite start
+DEBUG: Step 287 end
+DEBUG: Step 288 start
+DEBUG: propose_rewrite start
+DEBUG: Step 288 end
+DEBUG: Step 289 start
+DEBUG: propose_rewrite start
+DEBUG: Step 289 end
+DEBUG: Step 290 start
+DEBUG: propose_rewrite start
+DEBUG: Step 290 end
+DEBUG: Step 291 start
+DEBUG: propose_rewrite start
+DEBUG: Step 291 end
+DEBUG: Step 292 start
+DEBUG: propose_rewrite start
+DEBUG: Step 292 end
+DEBUG: Step 293 start
+DEBUG: propose_rewrite start
+DEBUG: Step 293 end
+DEBUG: Step 294 start
+DEBUG: propose_rewrite start
+DEBUG: Step 294 end
+DEBUG: Step 295 start
+DEBUG: propose_rewrite start
+DEBUG: Step 295 end
+DEBUG: Step 296 start
+DEBUG: propose_rewrite start
+DEBUG: Step 296 end
+DEBUG: Step 297 start
+DEBUG: propose_rewrite start
+DEBUG: Step 297 end
+DEBUG: Step 298 start
+DEBUG: propose_rewrite start
+DEBUG: Step 298 end
+DEBUG: Step 299 start
+DEBUG: propose_rewrite start
+DEBUG: Step 299 end
+DEBUG: Step 300 start
+DEBUG: propose_rewrite start
+DEBUG: Step 300 end
+DEBUG: Step 301 start
+DEBUG: propose_rewrite start
+DEBUG: Step 301 end
+DEBUG: Step 302 start
+DEBUG: propose_rewrite start
+DEBUG: Step 302 end
+DEBUG: Step 303 start
+DEBUG: propose_rewrite start
+DEBUG: Step 303 end
+DEBUG: Step 304 start
+DEBUG: propose_rewrite start
+DEBUG: Step 304 end
+DEBUG: Step 305 start
+DEBUG: propose_rewrite start
+DEBUG: Step 305 end
+DEBUG: Step 306 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=20)
+DEBUG: add_causal_relation start (u=1, v=20)
+DEBUG: add_causal_relation start (u=2, v=20)
+DEBUG: add_causal_relation start (u=5, v=20)
+DEBUG: add_causal_relation start (u=6, v=20)
+DEBUG: add_causal_relation start (u=13, v=20)
+DEBUG: add_causal_relation start (u=0, v=20)
+DEBUG: add_causal_relation start (u=2, v=20)
+DEBUG: add_causal_relation start (u=1, v=20)
+DEBUG: add_causal_relation start (u=0, v=20)
+DEBUG: add_causal_relation start (u=1, v=20)
+DEBUG: add_causal_relation start (u=2, v=20)
+DEBUG: add_causal_relation start (u=6, v=20)
+DEBUG: add_causal_relation start (u=1, v=20)
+DEBUG: Step 306 end
+DEBUG: Step 307 start
+DEBUG: propose_rewrite start
+DEBUG: Step 307 end
+DEBUG: Step 308 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=21)
+DEBUG: add_causal_relation start (u=1, v=21)
+DEBUG: add_causal_relation start (u=2, v=21)
+DEBUG: add_causal_relation start (u=3, v=21)
+DEBUG: add_causal_relation start (u=4, v=21)
+DEBUG: add_causal_relation start (u=8, v=21)
+DEBUG: add_causal_relation start (u=0, v=21)
+DEBUG: add_causal_relation start (u=1, v=21)
+DEBUG: add_causal_relation start (u=9, v=21)
+DEBUG: add_causal_relation start (u=2, v=21)
+DEBUG: add_causal_relation start (u=4, v=21)
+DEBUG: add_causal_relation start (u=4, v=21)
+DEBUG: Step 308 end
+DEBUG: Step 309 start
+DEBUG: propose_rewrite start
+DEBUG: Step 309 end
+DEBUG: Step 310 start
+DEBUG: propose_rewrite start
+DEBUG: Step 310 end
+DEBUG: Step 311 start
+DEBUG: propose_rewrite start
+DEBUG: Step 311 end
+DEBUG: Step 312 start
+DEBUG: propose_rewrite start
+DEBUG: Step 312 end
+DEBUG: Step 313 start
+DEBUG: propose_rewrite start
+DEBUG: Step 313 end
+DEBUG: Step 314 start
+DEBUG: propose_rewrite start
+DEBUG: Step 314 end
+DEBUG: Step 315 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=11, v=13)
+DEBUG: add_causal_relation start (u=0, v=22)
+DEBUG: add_causal_relation start (u=1, v=22)
+DEBUG: add_causal_relation start (u=2, v=22)
+DEBUG: add_causal_relation start (u=3, v=22)
+DEBUG: add_causal_relation start (u=4, v=22)
+DEBUG: add_causal_relation start (u=9, v=22)
+DEBUG: add_causal_relation start (u=12, v=22)
+DEBUG: add_causal_relation start (u=1, v=22)
+DEBUG: add_causal_relation start (u=2, v=22)
+DEBUG: add_causal_relation start (u=4, v=22)
+DEBUG: add_causal_relation start (u=0, v=22)
+DEBUG: add_causal_relation start (u=9, v=22)
+DEBUG: add_causal_relation start (u=3, v=22)
+DEBUG: add_causal_relation start (u=9, v=22)
+DEBUG: add_causal_relation start (u=12, v=22)
+DEBUG: add_causal_relation start (u=4, v=22)
+DEBUG: add_causal_relation start (u=0, v=22)
+DEBUG: Step 315 end
+DEBUG: Step 316 start
+DEBUG: propose_rewrite start
+DEBUG: Step 316 end
+DEBUG: Step 317 start
+DEBUG: propose_rewrite start
+DEBUG: Step 317 end
+DEBUG: Step 318 start
+DEBUG: propose_rewrite start
+DEBUG: Step 318 end
+DEBUG: Step 319 start
+DEBUG: propose_rewrite start
+DEBUG: Step 319 end
+DEBUG: Step 320 start
+DEBUG: propose_rewrite start
+DEBUG: Step 320 end
+DEBUG: Step 321 start
+DEBUG: propose_rewrite start
+DEBUG: Step 321 end
+DEBUG: Step 322 start
+DEBUG: propose_rewrite start
+DEBUG: Step 322 end
+DEBUG: Step 323 start
+DEBUG: propose_rewrite start
+DEBUG: Step 323 end
+DEBUG: Step 324 start
+DEBUG: propose_rewrite start
+DEBUG: Step 324 end
+DEBUG: Step 325 start
+DEBUG: propose_rewrite start
+DEBUG: Step 325 end
+DEBUG: Step 326 start
+DEBUG: propose_rewrite start
+DEBUG: Step 326 end
+DEBUG: Step 327 start
+DEBUG: propose_rewrite start
+DEBUG: Step 327 end
+DEBUG: Step 328 start
+DEBUG: propose_rewrite start
+DEBUG: Step 328 end
+DEBUG: Step 329 start
+DEBUG: propose_rewrite start
+DEBUG: Step 329 end
+DEBUG: Step 330 start
+DEBUG: propose_rewrite start
+DEBUG: Step 330 end
+DEBUG: Step 331 start
+DEBUG: propose_rewrite start
+DEBUG: Step 331 end
+DEBUG: Step 332 start
+DEBUG: propose_rewrite start
+DEBUG: Step 332 end
+DEBUG: Step 333 start
+DEBUG: propose_rewrite start
+DEBUG: Step 333 end
+DEBUG: Step 334 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=5, v=22)
+DEBUG: add_causal_relation start (u=0, v=23)
+DEBUG: add_causal_relation start (u=1, v=23)
+DEBUG: add_causal_relation start (u=2, v=23)
+DEBUG: add_causal_relation start (u=3, v=23)
+DEBUG: add_causal_relation start (u=4, v=23)
+DEBUG: add_causal_relation start (u=9, v=23)
+DEBUG: add_causal_relation start (u=12, v=23)
+DEBUG: add_causal_relation start (u=0, v=23)
+DEBUG: add_causal_relation start (u=4, v=23)
+DEBUG: add_causal_relation start (u=1, v=23)
+DEBUG: add_causal_relation start (u=2, v=23)
+DEBUG: add_causal_relation start (u=4, v=23)
+DEBUG: add_causal_relation start (u=4, v=23)
+DEBUG: Step 334 end
+DEBUG: Step 335 start
+DEBUG: propose_rewrite start
+DEBUG: Step 335 end
+DEBUG: Step 336 start
+DEBUG: propose_rewrite start
+DEBUG: Step 336 end
+DEBUG: Step 337 start
+DEBUG: propose_rewrite start
+DEBUG: Step 337 end
+DEBUG: Step 338 start
+DEBUG: propose_rewrite start
+DEBUG: Step 338 end
+DEBUG: Step 339 start
+DEBUG: propose_rewrite start
+DEBUG: Step 339 end
+DEBUG: Step 340 start
+DEBUG: propose_rewrite start
+DEBUG: Step 340 end
+DEBUG: Step 341 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=17)
+DEBUG: add_causal_relation start (u=0, v=24)
+DEBUG: add_causal_relation start (u=1, v=24)
+DEBUG: add_causal_relation start (u=2, v=24)
+DEBUG: add_causal_relation start (u=5, v=24)
+DEBUG: add_causal_relation start (u=6, v=24)
+DEBUG: add_causal_relation start (u=13, v=24)
+DEBUG: add_causal_relation start (u=7, v=24)
+DEBUG: add_causal_relation start (u=2, v=24)
+DEBUG: add_causal_relation start (u=1, v=24)
+DEBUG: add_causal_relation start (u=2, v=24)
+DEBUG: add_causal_relation start (u=5, v=24)
+DEBUG: Step 341 end
+DEBUG: Step 342 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=16, v=8)
+DEBUG: add_causal_relation start (u=4, v=25)
+DEBUG: add_causal_relation start (u=17, v=25)
+DEBUG: add_causal_relation start (u=9, v=25)
+DEBUG: add_causal_relation start (u=9, v=25)
+DEBUG: add_causal_relation start (u=10, v=25)
+DEBUG: add_causal_relation start (u=16, v=25)
+DEBUG: add_causal_relation start (u=0, v=25)
+DEBUG: add_causal_relation start (u=6, v=25)
+DEBUG: add_causal_relation start (u=2, v=25)
+DEBUG: Step 342 end
+DEBUG: Step 343 start
+DEBUG: propose_rewrite start
+DEBUG: Step 343 end
+DEBUG: Step 344 start
+DEBUG: propose_rewrite start
+DEBUG: Step 344 end
+DEBUG: Step 345 start
+DEBUG: propose_rewrite start
+DEBUG: Step 345 end
+DEBUG: Step 346 start
+DEBUG: propose_rewrite start
+DEBUG: Step 346 end
+DEBUG: Step 347 start
+DEBUG: propose_rewrite start
+DEBUG: Step 347 end
+DEBUG: Step 348 start
+DEBUG: propose_rewrite start
+DEBUG: Step 348 end
+DEBUG: Step 349 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=26)
+DEBUG: add_causal_relation start (u=1, v=26)
+DEBUG: add_causal_relation start (u=2, v=26)
+DEBUG: add_causal_relation start (u=5, v=26)
+DEBUG: add_causal_relation start (u=6, v=26)
+DEBUG: add_causal_relation start (u=13, v=26)
+DEBUG: add_causal_relation start (u=20, v=26)
+DEBUG: add_causal_relation start (u=0, v=26)
+DEBUG: add_causal_relation start (u=10, v=26)
+DEBUG: add_causal_relation start (u=0, v=26)
+DEBUG: add_causal_relation start (u=7, v=26)
+DEBUG: add_causal_relation start (u=1, v=26)
+DEBUG: add_causal_relation start (u=2, v=26)
+DEBUG: add_causal_relation start (u=5, v=26)
+DEBUG: add_causal_relation start (u=11, v=26)
+DEBUG: add_causal_relation start (u=2, v=26)
+DEBUG: Step 349 end
+DEBUG: Step 350 start
+DEBUG: propose_rewrite start
+DEBUG: Step 350 end
+DEBUG: Step 351 start
+DEBUG: propose_rewrite start
+DEBUG: Step 351 end
+DEBUG: Step 352 start
+DEBUG: propose_rewrite start
+DEBUG: Step 352 end
+DEBUG: Step 353 start
+DEBUG: propose_rewrite start
+DEBUG: Step 353 end
+DEBUG: Step 354 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=27)
+DEBUG: add_causal_relation start (u=1, v=27)
+DEBUG: add_causal_relation start (u=2, v=27)
+DEBUG: add_causal_relation start (u=3, v=27)
+DEBUG: add_causal_relation start (u=4, v=27)
+DEBUG: add_causal_relation start (u=9, v=27)
+DEBUG: add_causal_relation start (u=12, v=27)
+DEBUG: add_causal_relation start (u=14, v=27)
+DEBUG: add_causal_relation start (u=2, v=27)
+DEBUG: add_causal_relation start (u=4, v=27)
+DEBUG: add_causal_relation start (u=0, v=27)
+DEBUG: add_causal_relation start (u=9, v=27)
+DEBUG: add_causal_relation start (u=0, v=27)
+DEBUG: add_causal_relation start (u=9, v=27)
+DEBUG: add_causal_relation start (u=1, v=27)
+DEBUG: add_causal_relation start (u=2, v=27)
+DEBUG: add_causal_relation start (u=4, v=27)
+DEBUG: add_causal_relation start (u=1, v=27)
+DEBUG: add_causal_relation start (u=14, v=27)
+DEBUG: add_causal_relation start (u=0, v=27)
+DEBUG: add_causal_relation start (u=2, v=27)
+DEBUG: Step 354 end
+DEBUG: Step 355 start
+DEBUG: propose_rewrite start
+DEBUG: Step 355 end
+DEBUG: Step 356 start
+DEBUG: propose_rewrite start
+DEBUG: Step 356 end
+DEBUG: Step 357 start
+DEBUG: propose_rewrite start
+DEBUG: Step 357 end
+DEBUG: Step 358 start
+DEBUG: propose_rewrite start
+DEBUG: Step 358 end
+DEBUG: Step 359 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=28)
+DEBUG: add_causal_relation start (u=17, v=28)
+DEBUG: add_causal_relation start (u=25, v=28)
+DEBUG: add_causal_relation start (u=9, v=28)
+DEBUG: add_causal_relation start (u=6, v=28)
+DEBUG: add_causal_relation start (u=3, v=28)
+DEBUG: add_causal_relation start (u=5, v=28)
+DEBUG: add_causal_relation start (u=6, v=28)
+DEBUG: add_causal_relation start (u=1, v=28)
+DEBUG: add_causal_relation start (u=16, v=28)
+DEBUG: add_causal_relation start (u=10, v=28)
+DEBUG: Step 359 end
+DEBUG: Step 360 start
+DEBUG: propose_rewrite start
+DEBUG: Step 360 end
+DEBUG: Step 361 start
+DEBUG: propose_rewrite start
+DEBUG: Step 361 end
+DEBUG: Step 362 start
+DEBUG: propose_rewrite start
+DEBUG: Step 362 end
+DEBUG: Step 363 start
+DEBUG: propose_rewrite start
+DEBUG: Step 363 end
+DEBUG: Step 364 start
+DEBUG: propose_rewrite start
+DEBUG: Step 364 end
+DEBUG: Step 365 start
+DEBUG: propose_rewrite start
+DEBUG: Step 365 end
+DEBUG: Step 366 start
+DEBUG: propose_rewrite start
+DEBUG: Step 366 end
+DEBUG: Step 367 start
+DEBUG: propose_rewrite start
+DEBUG: Step 367 end
+DEBUG: Step 368 start
+DEBUG: propose_rewrite start
+DEBUG: Step 368 end
+DEBUG: Step 369 start
+DEBUG: propose_rewrite start
+DEBUG: Step 369 end
+DEBUG: Step 370 start
+DEBUG: propose_rewrite start
+DEBUG: Step 370 end
+DEBUG: Step 371 start
+DEBUG: propose_rewrite start
+DEBUG: Step 371 end
+DEBUG: Step 372 start
+DEBUG: propose_rewrite start
+DEBUG: Step 372 end
+DEBUG: Step 373 start
+DEBUG: propose_rewrite start
+DEBUG: Step 373 end
+DEBUG: Step 374 start
+DEBUG: propose_rewrite start
+DEBUG: Step 374 end
+DEBUG: Step 375 start
+DEBUG: propose_rewrite start
+DEBUG: Step 375 end
+DEBUG: Step 376 start
+DEBUG: propose_rewrite start
+DEBUG: Step 376 end
+DEBUG: Step 377 start
+DEBUG: propose_rewrite start
+DEBUG: Step 377 end
+DEBUG: Step 378 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=20, v=11)
+DEBUG: add_causal_relation start (u=4, v=29)
+DEBUG: add_causal_relation start (u=17, v=29)
+DEBUG: add_causal_relation start (u=25, v=29)
+DEBUG: add_causal_relation start (u=0, v=29)
+DEBUG: add_causal_relation start (u=9, v=29)
+DEBUG: add_causal_relation start (u=0, v=29)
+DEBUG: add_causal_relation start (u=6, v=29)
+DEBUG: add_causal_relation start (u=9, v=29)
+DEBUG: add_causal_relation start (u=5, v=29)
+DEBUG: add_causal_relation start (u=25, v=29)
+DEBUG: add_causal_relation start (u=4, v=29)
+DEBUG: Step 378 end
+DEBUG: Step 379 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=30)
+DEBUG: add_causal_relation start (u=17, v=30)
+DEBUG: add_causal_relation start (u=25, v=30)
+DEBUG: add_causal_relation start (u=29, v=30)
+DEBUG: add_causal_relation start (u=17, v=30)
+DEBUG: add_causal_relation start (u=3, v=30)
+DEBUG: add_causal_relation start (u=0, v=30)
+DEBUG: add_causal_relation start (u=4, v=30)
+DEBUG: add_causal_relation start (u=16, v=30)
+DEBUG: add_causal_relation start (u=3, v=30)
+DEBUG: add_causal_relation start (u=17, v=30)
+DEBUG: add_causal_relation start (u=1, v=30)
+DEBUG: add_causal_relation start (u=5, v=30)
+DEBUG: add_causal_relation start (u=6, v=30)
+DEBUG: add_causal_relation start (u=10, v=30)
+DEBUG: add_causal_relation start (u=6, v=30)
+DEBUG: add_causal_relation start (u=10, v=30)
+DEBUG: add_causal_relation start (u=1, v=30)
+DEBUG: add_causal_relation start (u=25, v=30)
+DEBUG: Step 379 end
+DEBUG: Step 380 start
+DEBUG: propose_rewrite start
+DEBUG: Step 380 end
+DEBUG: Step 381 start
+DEBUG: propose_rewrite start
+DEBUG: Step 381 end
+DEBUG: Step 382 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=31)
+DEBUG: add_causal_relation start (u=17, v=31)
+DEBUG: add_causal_relation start (u=25, v=31)
+DEBUG: add_causal_relation start (u=28, v=31)
+DEBUG: add_causal_relation start (u=9, v=31)
+DEBUG: add_causal_relation start (u=2, v=31)
+DEBUG: add_causal_relation start (u=2, v=31)
+DEBUG: add_causal_relation start (u=16, v=31)
+DEBUG: add_causal_relation start (u=1, v=31)
+DEBUG: add_causal_relation start (u=6, v=31)
+DEBUG: add_causal_relation start (u=4, v=31)
+DEBUG: add_causal_relation start (u=17, v=31)
+DEBUG: add_causal_relation start (u=25, v=31)
+DEBUG: add_causal_relation start (u=0, v=31)
+DEBUG: Step 382 end
+DEBUG: Step 383 start
+DEBUG: propose_rewrite start
+DEBUG: Step 383 end
+DEBUG: Step 384 start
+DEBUG: propose_rewrite start
+DEBUG: Step 384 end
+DEBUG: Step 385 start
+DEBUG: propose_rewrite start
+DEBUG: Step 385 end
+DEBUG: Step 386 start
+DEBUG: propose_rewrite start
+DEBUG: Step 386 end
+DEBUG: Step 387 start
+DEBUG: propose_rewrite start
+DEBUG: Step 387 end
+DEBUG: Step 388 start
+DEBUG: propose_rewrite start
+DEBUG: Step 388 end
+DEBUG: Step 389 start
+DEBUG: propose_rewrite start
+DEBUG: Step 389 end
+DEBUG: Step 390 start
+DEBUG: propose_rewrite start
+DEBUG: Step 390 end
+DEBUG: Step 391 start
+DEBUG: propose_rewrite start
+DEBUG: Step 391 end
+DEBUG: Step 392 start
+DEBUG: propose_rewrite start
+DEBUG: Step 392 end
+DEBUG: Step 393 start
+DEBUG: propose_rewrite start
+DEBUG: Step 393 end
+DEBUG: Step 394 start
+DEBUG: propose_rewrite start
+DEBUG: Step 394 end
+DEBUG: Step 395 start
+DEBUG: propose_rewrite start
+DEBUG: Step 395 end
+DEBUG: Step 396 start
+DEBUG: propose_rewrite start
+DEBUG: Step 396 end
+DEBUG: Step 397 start
+DEBUG: propose_rewrite start
+DEBUG: Step 397 end
+DEBUG: Step 398 start
+DEBUG: propose_rewrite start
+DEBUG: Step 398 end
+DEBUG: Step 399 start
+DEBUG: propose_rewrite start
+DEBUG: Step 399 end
+DEBUG: Step 400 start
+DEBUG: propose_rewrite start
+DEBUG: Step 400 end
+DEBUG: Step 401 start
+DEBUG: propose_rewrite start
+DEBUG: Step 401 end
+DEBUG: Step 402 start
+DEBUG: propose_rewrite start
+DEBUG: Step 402 end
+DEBUG: Step 403 start
+DEBUG: propose_rewrite start
+DEBUG: Step 403 end
+DEBUG: Step 404 start
+DEBUG: propose_rewrite start
+DEBUG: Step 404 end
+DEBUG: Step 405 start
+DEBUG: propose_rewrite start
+DEBUG: Step 405 end
+DEBUG: Step 406 start
+DEBUG: propose_rewrite start
+DEBUG: Step 406 end
+DEBUG: Step 407 start
+DEBUG: propose_rewrite start
+DEBUG: Step 407 end
+DEBUG: Step 408 start
+DEBUG: propose_rewrite start
+DEBUG: Step 408 end
+DEBUG: Step 409 start
+DEBUG: propose_rewrite start
+DEBUG: Step 409 end
+DEBUG: Step 410 start
+DEBUG: propose_rewrite start
+DEBUG: Step 410 end
+DEBUG: Step 411 start
+DEBUG: propose_rewrite start
+DEBUG: Step 411 end
+DEBUG: Step 412 start
+DEBUG: propose_rewrite start
+DEBUG: Step 412 end
+DEBUG: Step 413 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=32)
+DEBUG: add_causal_relation start (u=1, v=32)
+DEBUG: add_causal_relation start (u=2, v=32)
+DEBUG: add_causal_relation start (u=5, v=32)
+DEBUG: add_causal_relation start (u=6, v=32)
+DEBUG: add_causal_relation start (u=1, v=32)
+DEBUG: add_causal_relation start (u=6, v=32)
+DEBUG: add_causal_relation start (u=1, v=32)
+DEBUG: Step 413 end
+DEBUG: Step 414 start
+DEBUG: propose_rewrite start
+DEBUG: Step 414 end
+DEBUG: Step 415 start
+DEBUG: propose_rewrite start
+DEBUG: Step 415 end
+DEBUG: Step 416 start
+DEBUG: propose_rewrite start
+DEBUG: Step 416 end
+DEBUG: Step 417 start
+DEBUG: propose_rewrite start
+DEBUG: Step 417 end
+DEBUG: Step 418 start
+DEBUG: propose_rewrite start
+DEBUG: Step 418 end
+DEBUG: Step 419 start
+DEBUG: propose_rewrite start
+DEBUG: Step 419 end
+DEBUG: Step 420 start
+DEBUG: propose_rewrite start
+DEBUG: Step 420 end
+DEBUG: Step 421 start
+DEBUG: propose_rewrite start
+DEBUG: Step 421 end
+DEBUG: Step 422 start
+DEBUG: propose_rewrite start
+DEBUG: Step 422 end
+DEBUG: Step 423 start
+DEBUG: propose_rewrite start
+DEBUG: Step 423 end
+DEBUG: Step 424 start
+DEBUG: propose_rewrite start
+DEBUG: Step 424 end
+DEBUG: Step 425 start
+DEBUG: propose_rewrite start
+DEBUG: Step 425 end
+DEBUG: Step 426 start
+DEBUG: propose_rewrite start
+DEBUG: Step 426 end
+DEBUG: Step 427 start
+DEBUG: propose_rewrite start
+DEBUG: Step 427 end
+DEBUG: Step 428 start
+DEBUG: propose_rewrite start
+DEBUG: Step 428 end
+DEBUG: Step 429 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=33)
+DEBUG: add_causal_relation start (u=1, v=33)
+DEBUG: add_causal_relation start (u=2, v=33)
+DEBUG: add_causal_relation start (u=5, v=33)
+DEBUG: add_causal_relation start (u=6, v=33)
+DEBUG: add_causal_relation start (u=13, v=33)
+DEBUG: add_causal_relation start (u=20, v=33)
+DEBUG: add_causal_relation start (u=26, v=33)
+DEBUG: add_causal_relation start (u=2, v=33)
+DEBUG: add_causal_relation start (u=1, v=33)
+DEBUG: add_causal_relation start (u=1, v=33)
+DEBUG: add_causal_relation start (u=7, v=33)
+DEBUG: add_causal_relation start (u=5, v=33)
+DEBUG: add_causal_relation start (u=6, v=33)
+DEBUG: add_causal_relation start (u=1, v=33)
+DEBUG: add_causal_relation start (u=20, v=33)
+DEBUG: add_causal_relation start (u=10, v=33)
+DEBUG: add_causal_relation start (u=26, v=33)
+DEBUG: add_causal_relation start (u=0, v=33)
+DEBUG: Step 429 end
+DEBUG: Step 430 start
+DEBUG: propose_rewrite start
+DEBUG: Step 430 end
+DEBUG: Step 431 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=34)
+DEBUG: add_causal_relation start (u=1, v=34)
+DEBUG: add_causal_relation start (u=2, v=34)
+DEBUG: add_causal_relation start (u=5, v=34)
+DEBUG: add_causal_relation start (u=6, v=34)
+DEBUG: add_causal_relation start (u=13, v=34)
+DEBUG: add_causal_relation start (u=19, v=34)
+DEBUG: add_causal_relation start (u=0, v=34)
+DEBUG: add_causal_relation start (u=0, v=34)
+DEBUG: add_causal_relation start (u=2, v=34)
+DEBUG: add_causal_relation start (u=2, v=34)
+DEBUG: add_causal_relation start (u=10, v=34)
+DEBUG: add_causal_relation start (u=0, v=34)
+DEBUG: add_causal_relation start (u=2, v=34)
+DEBUG: add_causal_relation start (u=13, v=34)
+DEBUG: add_causal_relation start (u=20, v=34)
+DEBUG: add_causal_relation start (u=7, v=34)
+DEBUG: add_causal_relation start (u=1, v=34)
+DEBUG: Step 431 end
+DEBUG: Step 432 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=35)
+DEBUG: add_causal_relation start (u=17, v=35)
+DEBUG: add_causal_relation start (u=25, v=35)
+DEBUG: add_causal_relation start (u=29, v=35)
+DEBUG: add_causal_relation start (u=30, v=35)
+DEBUG: add_causal_relation start (u=3, v=35)
+DEBUG: add_causal_relation start (u=2, v=35)
+DEBUG: add_causal_relation start (u=4, v=35)
+DEBUG: add_causal_relation start (u=9, v=35)
+DEBUG: add_causal_relation start (u=6, v=35)
+DEBUG: add_causal_relation start (u=4, v=35)
+DEBUG: add_causal_relation start (u=17, v=35)
+DEBUG: add_causal_relation start (u=3, v=35)
+DEBUG: add_causal_relation start (u=16, v=35)
+DEBUG: add_causal_relation start (u=17, v=35)
+DEBUG: add_causal_relation start (u=9, v=35)
+DEBUG: add_causal_relation start (u=10, v=35)
+DEBUG: add_causal_relation start (u=16, v=35)
+DEBUG: add_causal_relation start (u=5, v=35)
+DEBUG: add_causal_relation start (u=29, v=35)
+DEBUG: add_causal_relation start (u=6, v=35)
+DEBUG: add_causal_relation start (u=7, v=35)
+DEBUG: add_causal_relation start (u=2, v=35)
+DEBUG: Step 432 end
+DEBUG: Step 433 start
+DEBUG: propose_rewrite start
+DEBUG: Step 433 end
+DEBUG: Step 434 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=14, v=10)
+DEBUG: add_causal_relation start (u=0, v=36)
+DEBUG: add_causal_relation start (u=1, v=36)
+DEBUG: add_causal_relation start (u=2, v=36)
+DEBUG: add_causal_relation start (u=5, v=36)
+DEBUG: add_causal_relation start (u=6, v=36)
+DEBUG: add_causal_relation start (u=13, v=36)
+DEBUG: add_causal_relation start (u=20, v=36)
+DEBUG: add_causal_relation start (u=26, v=36)
+DEBUG: add_causal_relation start (u=33, v=36)
+DEBUG: add_causal_relation start (u=0, v=36)
+DEBUG: add_causal_relation start (u=1, v=36)
+DEBUG: add_causal_relation start (u=7, v=36)
+DEBUG: add_causal_relation start (u=0, v=36)
+DEBUG: add_causal_relation start (u=10, v=36)
+DEBUG: add_causal_relation start (u=7, v=36)
+DEBUG: add_causal_relation start (u=2, v=36)
+DEBUG: add_causal_relation start (u=1, v=36)
+DEBUG: add_causal_relation start (u=11, v=36)
+DEBUG: add_causal_relation start (u=2, v=36)
+DEBUG: add_causal_relation start (u=3, v=36)
+DEBUG: add_causal_relation start (u=10, v=36)
+DEBUG: add_causal_relation start (u=5, v=36)
+DEBUG: add_causal_relation start (u=12, v=36)
+DEBUG: add_causal_relation start (u=13, v=36)
+DEBUG: add_causal_relation start (u=4, v=36)
+DEBUG: add_causal_relation start (u=11, v=36)
+DEBUG: add_causal_relation start (u=20, v=36)
+DEBUG: add_causal_relation start (u=6, v=36)
+DEBUG: add_causal_relation start (u=10, v=36)
+DEBUG: add_causal_relation start (u=12, v=36)
+DEBUG: add_causal_relation start (u=9, v=36)
+DEBUG: add_causal_relation start (u=7, v=36)
+DEBUG: add_causal_relation start (u=4, v=36)
+DEBUG: add_causal_relation start (u=11, v=36)
+DEBUG: add_causal_relation start (u=0, v=36)
+DEBUG: add_causal_relation start (u=26, v=36)
+DEBUG: add_causal_relation start (u=7, v=36)
+DEBUG: add_causal_relation start (u=4, v=36)
+DEBUG: add_causal_relation start (u=9, v=36)
+DEBUG: add_causal_relation start (u=11, v=36)
+DEBUG: Step 434 end
+DEBUG: Step 435 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=37)
+DEBUG: add_causal_relation start (u=17, v=37)
+DEBUG: add_causal_relation start (u=25, v=37)
+DEBUG: add_causal_relation start (u=28, v=37)
+DEBUG: add_causal_relation start (u=31, v=37)
+DEBUG: add_causal_relation start (u=4, v=37)
+DEBUG: add_causal_relation start (u=9, v=37)
+DEBUG: add_causal_relation start (u=3, v=37)
+DEBUG: add_causal_relation start (u=16, v=37)
+DEBUG: add_causal_relation start (u=9, v=37)
+DEBUG: add_causal_relation start (u=2, v=37)
+DEBUG: add_causal_relation start (u=17, v=37)
+DEBUG: add_causal_relation start (u=10, v=37)
+DEBUG: add_causal_relation start (u=7, v=37)
+DEBUG: add_causal_relation start (u=14, v=37)
+DEBUG: add_causal_relation start (u=1, v=37)
+DEBUG: add_causal_relation start (u=3, v=37)
+DEBUG: add_causal_relation start (u=6, v=37)
+DEBUG: add_causal_relation start (u=25, v=37)
+DEBUG: add_causal_relation start (u=3, v=37)
+DEBUG: add_causal_relation start (u=7, v=37)
+DEBUG: add_causal_relation start (u=25, v=37)
+DEBUG: add_causal_relation start (u=5, v=37)
+DEBUG: add_causal_relation start (u=31, v=37)
+DEBUG: add_causal_relation start (u=16, v=37)
+DEBUG: Step 435 end
+DEBUG: Step 436 start
+DEBUG: propose_rewrite start
+DEBUG: Step 436 end
+DEBUG: Step 437 start
+DEBUG: propose_rewrite start
+DEBUG: Step 437 end
+DEBUG: Step 438 start
+DEBUG: propose_rewrite start
+DEBUG: Step 438 end
+DEBUG: Step 439 start
+DEBUG: propose_rewrite start
+DEBUG: Step 439 end
+DEBUG: Step 440 start
+DEBUG: propose_rewrite start
+DEBUG: Step 440 end
+DEBUG: Step 441 start
+DEBUG: propose_rewrite start
+DEBUG: Step 441 end
+DEBUG: Step 442 start
+DEBUG: propose_rewrite start
+DEBUG: Step 442 end
+DEBUG: Step 443 start
+DEBUG: propose_rewrite start
+DEBUG: Step 443 end
+DEBUG: Step 444 start
+DEBUG: propose_rewrite start
+DEBUG: Step 444 end
+DEBUG: Step 445 start
+DEBUG: propose_rewrite start
+DEBUG: Step 445 end
+DEBUG: Step 446 start
+DEBUG: propose_rewrite start
+DEBUG: Step 446 end
+DEBUG: Step 447 start
+DEBUG: propose_rewrite start
+DEBUG: Step 447 end
+DEBUG: Step 448 start
+DEBUG: propose_rewrite start
+DEBUG: Step 448 end
+DEBUG: Step 449 start
+DEBUG: propose_rewrite start
+DEBUG: Step 449 end
+DEBUG: Step 450 start
+DEBUG: propose_rewrite start
+DEBUG: Step 450 end
+DEBUG: Step 451 start
+DEBUG: propose_rewrite start
+DEBUG: Step 451 end
+DEBUG: Step 452 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=37, v=23)
+DEBUG: add_causal_relation start (u=0, v=38)
+DEBUG: add_causal_relation start (u=1, v=38)
+DEBUG: add_causal_relation start (u=2, v=38)
+DEBUG: add_causal_relation start (u=5, v=38)
+DEBUG: add_causal_relation start (u=6, v=38)
+DEBUG: add_causal_relation start (u=32, v=38)
+DEBUG: add_causal_relation start (u=7, v=38)
+DEBUG: add_causal_relation start (u=3, v=38)
+DEBUG: add_causal_relation start (u=6, v=38)
+DEBUG: add_causal_relation start (u=12, v=38)
+DEBUG: add_causal_relation start (u=0, v=38)
+DEBUG: Step 452 end
+DEBUG: Step 453 start
+DEBUG: propose_rewrite start
+DEBUG: Step 453 end
+DEBUG: Step 454 start
+DEBUG: propose_rewrite start
+DEBUG: Step 454 end
+DEBUG: Step 455 start
+DEBUG: propose_rewrite start
+DEBUG: Step 455 end
+DEBUG: Step 456 start
+DEBUG: propose_rewrite start
+DEBUG: Step 456 end
+DEBUG: Step 457 start
+DEBUG: propose_rewrite start
+DEBUG: Step 457 end
+DEBUG: Step 458 start
+DEBUG: propose_rewrite start
+DEBUG: Step 458 end
+DEBUG: Step 459 start
+DEBUG: propose_rewrite start
+DEBUG: Step 459 end
+DEBUG: Step 460 start
+DEBUG: propose_rewrite start
+DEBUG: Step 460 end
+DEBUG: Step 461 start
+DEBUG: propose_rewrite start
+DEBUG: Step 461 end
+DEBUG: Step 462 start
+DEBUG: propose_rewrite start
+DEBUG: Step 462 end
+DEBUG: Step 463 start
+DEBUG: propose_rewrite start
+DEBUG: Step 463 end
+DEBUG: Step 464 start
+DEBUG: propose_rewrite start
+DEBUG: Step 464 end
+DEBUG: Step 465 start
+DEBUG: propose_rewrite start
+DEBUG: Step 465 end
+DEBUG: Step 466 start
+DEBUG: propose_rewrite start
+DEBUG: Step 466 end
+DEBUG: Step 467 start
+DEBUG: propose_rewrite start
+DEBUG: Step 467 end
+DEBUG: Step 468 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=39)
+DEBUG: add_causal_relation start (u=17, v=39)
+DEBUG: add_causal_relation start (u=25, v=39)
+DEBUG: add_causal_relation start (u=29, v=39)
+DEBUG: add_causal_relation start (u=30, v=39)
+DEBUG: add_causal_relation start (u=35, v=39)
+DEBUG: add_causal_relation start (u=2, v=39)
+DEBUG: add_causal_relation start (u=3, v=39)
+DEBUG: add_causal_relation start (u=14, v=39)
+DEBUG: add_causal_relation start (u=10, v=39)
+DEBUG: add_causal_relation start (u=7, v=39)
+DEBUG: add_causal_relation start (u=16, v=39)
+DEBUG: add_causal_relation start (u=1, v=39)
+DEBUG: add_causal_relation start (u=7, v=39)
+DEBUG: add_causal_relation start (u=5, v=39)
+DEBUG: add_causal_relation start (u=10, v=39)
+DEBUG: add_causal_relation start (u=25, v=39)
+DEBUG: add_causal_relation start (u=16, v=39)
+DEBUG: add_causal_relation start (u=6, v=39)
+DEBUG: add_causal_relation start (u=6, v=39)
+DEBUG: add_causal_relation start (u=7, v=39)
+DEBUG: add_causal_relation start (u=14, v=39)
+DEBUG: add_causal_relation start (u=16, v=39)
+DEBUG: add_causal_relation start (u=1, v=39)
+DEBUG: add_causal_relation start (u=30, v=39)
+DEBUG: add_causal_relation start (u=6, v=39)
+DEBUG: add_causal_relation start (u=4, v=39)
+DEBUG: add_causal_relation start (u=16, v=39)
+DEBUG: add_causal_relation start (u=1, v=39)
+DEBUG: add_causal_relation start (u=29, v=39)
+DEBUG: add_causal_relation start (u=35, v=39)
+DEBUG: add_causal_relation start (u=9, v=39)
+DEBUG: Step 468 end
+DEBUG: Step 469 start
+DEBUG: propose_rewrite start
+DEBUG: Step 469 end
+DEBUG: Step 470 start
+DEBUG: propose_rewrite start
+DEBUG: Step 470 end
+DEBUG: Step 471 start
+DEBUG: propose_rewrite start
+DEBUG: Step 471 end
+DEBUG: Step 472 start
+DEBUG: propose_rewrite start
+DEBUG: Step 472 end
+DEBUG: Step 473 start
+DEBUG: propose_rewrite start
+DEBUG: Step 473 end
+DEBUG: Step 474 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=8, v=18)
+DEBUG: add_causal_relation start (u=0, v=40)
+DEBUG: add_causal_relation start (u=1, v=40)
+DEBUG: add_causal_relation start (u=2, v=40)
+DEBUG: add_causal_relation start (u=5, v=40)
+DEBUG: add_causal_relation start (u=6, v=40)
+DEBUG: add_causal_relation start (u=13, v=40)
+DEBUG: add_causal_relation start (u=19, v=40)
+DEBUG: add_causal_relation start (u=34, v=40)
+DEBUG: add_causal_relation start (u=0, v=40)
+DEBUG: add_causal_relation start (u=1, v=40)
+DEBUG: add_causal_relation start (u=0, v=40)
+DEBUG: add_causal_relation start (u=2, v=40)
+DEBUG: add_causal_relation start (u=5, v=40)
+DEBUG: add_causal_relation start (u=2, v=40)
+DEBUG: add_causal_relation start (u=9, v=40)
+DEBUG: add_causal_relation start (u=10, v=40)
+DEBUG: add_causal_relation start (u=7, v=40)
+DEBUG: add_causal_relation start (u=14, v=40)
+DEBUG: add_causal_relation start (u=1, v=40)
+DEBUG: add_causal_relation start (u=20, v=40)
+DEBUG: add_causal_relation start (u=3, v=40)
+DEBUG: add_causal_relation start (u=6, v=40)
+DEBUG: add_causal_relation start (u=0, v=40)
+DEBUG: add_causal_relation start (u=2, v=40)
+DEBUG: add_causal_relation start (u=13, v=40)
+DEBUG: add_causal_relation start (u=10, v=40)
+DEBUG: add_causal_relation start (u=14, v=40)
+DEBUG: add_causal_relation start (u=20, v=40)
+DEBUG: add_causal_relation start (u=2, v=40)
+DEBUG: add_causal_relation start (u=13, v=40)
+DEBUG: add_causal_relation start (u=5, v=40)
+DEBUG: add_causal_relation start (u=12, v=40)
+DEBUG: add_causal_relation start (u=19, v=40)
+DEBUG: Step 474 end
+DEBUG: Step 475 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=41)
+DEBUG: add_causal_relation start (u=1, v=41)
+DEBUG: add_causal_relation start (u=2, v=41)
+DEBUG: add_causal_relation start (u=5, v=41)
+DEBUG: add_causal_relation start (u=6, v=41)
+DEBUG: add_causal_relation start (u=32, v=41)
+DEBUG: add_causal_relation start (u=1, v=41)
+DEBUG: add_causal_relation start (u=0, v=41)
+DEBUG: add_causal_relation start (u=2, v=41)
+DEBUG: add_causal_relation start (u=0, v=41)
+DEBUG: add_causal_relation start (u=14, v=41)
+DEBUG: add_causal_relation start (u=6, v=41)
+DEBUG: add_causal_relation start (u=3, v=41)
+DEBUG: add_causal_relation start (u=7, v=41)
+DEBUG: add_causal_relation start (u=12, v=41)
+DEBUG: add_causal_relation start (u=32, v=41)
+DEBUG: add_causal_relation start (u=10, v=41)
+DEBUG: add_causal_relation start (u=1, v=41)
+DEBUG: Step 475 end
+DEBUG: Step 476 start
+DEBUG: propose_rewrite start
+DEBUG: Step 476 end
+DEBUG: Step 477 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=41, v=34)
+DEBUG: add_causal_relation start (u=20, v=42)
+DEBUG: add_causal_relation start (u=11, v=42)
+DEBUG: add_causal_relation start (u=7, v=42)
+DEBUG: add_causal_relation start (u=6, v=42)
+DEBUG: add_causal_relation start (u=0, v=42)
+DEBUG: add_causal_relation start (u=10, v=42)
+DEBUG: add_causal_relation start (u=6, v=42)
+DEBUG: add_causal_relation start (u=4, v=42)
+DEBUG: add_causal_relation start (u=9, v=42)
+DEBUG: add_causal_relation start (u=3, v=42)
+DEBUG: add_causal_relation start (u=1, v=42)
+DEBUG: Step 477 end
+DEBUG: Step 478 start
+DEBUG: propose_rewrite start
+DEBUG: Step 478 end
+DEBUG: Step 479 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=41, v=43)
+DEBUG: add_causal_relation start (u=34, v=43)
+DEBUG: add_causal_relation start (u=12, v=43)
+DEBUG: add_causal_relation start (u=1, v=43)
+DEBUG: add_causal_relation start (u=41, v=43)
+DEBUG: add_causal_relation start (u=7, v=43)
+DEBUG: add_causal_relation start (u=3, v=43)
+DEBUG: add_causal_relation start (u=7, v=43)
+DEBUG: add_causal_relation start (u=13, v=43)
+DEBUG: add_causal_relation start (u=6, v=43)
+DEBUG: add_causal_relation start (u=20, v=43)
+DEBUG: add_causal_relation start (u=41, v=43)
+DEBUG: add_causal_relation start (u=32, v=43)
+DEBUG: Step 479 end
+DEBUG: Step 480 start
+DEBUG: propose_rewrite start
+DEBUG: Step 480 end
+DEBUG: Step 481 start
+DEBUG: propose_rewrite start
+DEBUG: Step 481 end
+DEBUG: Step 482 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=41, v=44)
+DEBUG: add_causal_relation start (u=34, v=44)
+DEBUG: add_causal_relation start (u=6, v=44)
+DEBUG: add_causal_relation start (u=12, v=44)
+DEBUG: add_causal_relation start (u=32, v=44)
+DEBUG: add_causal_relation start (u=14, v=44)
+DEBUG: add_causal_relation start (u=3, v=44)
+DEBUG: add_causal_relation start (u=5, v=44)
+DEBUG: add_causal_relation start (u=0, v=44)
+DEBUG: Step 482 end
+DEBUG: Step 483 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=45)
+DEBUG: add_causal_relation start (u=17, v=45)
+DEBUG: add_causal_relation start (u=25, v=45)
+DEBUG: add_causal_relation start (u=29, v=45)
+DEBUG: add_causal_relation start (u=9, v=45)
+DEBUG: add_causal_relation start (u=2, v=45)
+DEBUG: add_causal_relation start (u=0, v=45)
+DEBUG: add_causal_relation start (u=16, v=45)
+DEBUG: add_causal_relation start (u=17, v=45)
+DEBUG: add_causal_relation start (u=3, v=45)
+DEBUG: add_causal_relation start (u=12, v=45)
+DEBUG: add_causal_relation start (u=6, v=45)
+DEBUG: add_causal_relation start (u=5, v=45)
+DEBUG: add_causal_relation start (u=1, v=45)
+DEBUG: add_causal_relation start (u=14, v=45)
+DEBUG: add_causal_relation start (u=17, v=45)
+DEBUG: add_causal_relation start (u=2, v=45)
+DEBUG: add_causal_relation start (u=5, v=45)
+DEBUG: add_causal_relation start (u=16, v=45)
+DEBUG: add_causal_relation start (u=3, v=45)
+DEBUG: add_causal_relation start (u=14, v=45)
+DEBUG: Step 483 end
+DEBUG: Step 484 start
+DEBUG: propose_rewrite start
+DEBUG: Step 484 end
+DEBUG: Step 485 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=46)
+DEBUG: add_causal_relation start (u=1, v=46)
+DEBUG: add_causal_relation start (u=2, v=46)
+DEBUG: add_causal_relation start (u=5, v=46)
+DEBUG: add_causal_relation start (u=6, v=46)
+DEBUG: add_causal_relation start (u=13, v=46)
+DEBUG: add_causal_relation start (u=24, v=46)
+DEBUG: add_causal_relation start (u=1, v=46)
+DEBUG: add_causal_relation start (u=14, v=46)
+DEBUG: add_causal_relation start (u=6, v=46)
+DEBUG: add_causal_relation start (u=4, v=46)
+DEBUG: add_causal_relation start (u=1, v=46)
+DEBUG: add_causal_relation start (u=2, v=46)
+DEBUG: add_causal_relation start (u=12, v=46)
+DEBUG: add_causal_relation start (u=0, v=46)
+DEBUG: add_causal_relation start (u=1, v=46)
+DEBUG: add_causal_relation start (u=5, v=46)
+DEBUG: add_causal_relation start (u=11, v=46)
+DEBUG: add_causal_relation start (u=4, v=46)
+DEBUG: add_causal_relation start (u=4, v=46)
+DEBUG: add_causal_relation start (u=11, v=46)
+DEBUG: add_causal_relation start (u=0, v=46)
+DEBUG: add_causal_relation start (u=5, v=46)
+DEBUG: add_causal_relation start (u=24, v=46)
+DEBUG: Step 485 end
+DEBUG: Step 486 start
+DEBUG: propose_rewrite start
+DEBUG: Step 486 end
+DEBUG: Step 487 start
+DEBUG: propose_rewrite start
+DEBUG: Step 487 end
+DEBUG: Step 488 start
+DEBUG: propose_rewrite start
+DEBUG: Step 488 end
+DEBUG: Step 489 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=8, v=39)
+DEBUG: add_causal_relation start (u=16, v=47)
+DEBUG: add_causal_relation start (u=8, v=47)
+DEBUG: add_causal_relation start (u=16, v=47)
+DEBUG: add_causal_relation start (u=7, v=47)
+DEBUG: add_causal_relation start (u=9, v=47)
+DEBUG: add_causal_relation start (u=0, v=47)
+DEBUG: add_causal_relation start (u=5, v=47)
+DEBUG: add_causal_relation start (u=7, v=47)
+DEBUG: add_causal_relation start (u=8, v=47)
+DEBUG: add_causal_relation start (u=0, v=47)
+DEBUG: Step 489 end
+DEBUG: Step 490 start
+DEBUG: propose_rewrite start
+DEBUG: Step 490 end
+DEBUG: Step 491 start
+DEBUG: propose_rewrite start
+DEBUG: Step 491 end
+DEBUG: Step 492 start
+DEBUG: propose_rewrite start
+DEBUG: Step 492 end
+DEBUG: Step 493 start
+DEBUG: propose_rewrite start
+DEBUG: Step 493 end
+DEBUG: Step 494 start
+DEBUG: propose_rewrite start
+DEBUG: Step 494 end
+DEBUG: Step 495 start
+DEBUG: propose_rewrite start
+DEBUG: Step 495 end
+DEBUG: Step 496 start
+DEBUG: propose_rewrite start
+DEBUG: Step 496 end
+DEBUG: Step 497 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=48)
+DEBUG: add_causal_relation start (u=1, v=48)
+DEBUG: add_causal_relation start (u=2, v=48)
+DEBUG: add_causal_relation start (u=3, v=48)
+DEBUG: add_causal_relation start (u=4, v=48)
+DEBUG: add_causal_relation start (u=9, v=48)
+DEBUG: add_causal_relation start (u=12, v=48)
+DEBUG: add_causal_relation start (u=23, v=48)
+DEBUG: add_causal_relation start (u=2, v=48)
+DEBUG: add_causal_relation start (u=9, v=48)
+DEBUG: add_causal_relation start (u=4, v=48)
+DEBUG: add_causal_relation start (u=1, v=48)
+DEBUG: add_causal_relation start (u=2, v=48)
+DEBUG: add_causal_relation start (u=4, v=48)
+DEBUG: add_causal_relation start (u=9, v=48)
+DEBUG: add_causal_relation start (u=2, v=48)
+DEBUG: add_causal_relation start (u=1, v=48)
+DEBUG: add_causal_relation start (u=10, v=48)
+DEBUG: add_causal_relation start (u=5, v=48)
+DEBUG: add_causal_relation start (u=14, v=48)
+DEBUG: add_causal_relation start (u=17, v=48)
+DEBUG: add_causal_relation start (u=7, v=48)
+DEBUG: add_causal_relation start (u=3, v=48)
+DEBUG: add_causal_relation start (u=9, v=48)
+DEBUG: add_causal_relation start (u=1, v=48)
+DEBUG: Step 497 end
+DEBUG: Step 498 start
+DEBUG: propose_rewrite start
+DEBUG: Step 498 end
+DEBUG: Step 499 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=41, v=42)
+DEBUG: add_causal_relation start (u=0, v=49)
+DEBUG: add_causal_relation start (u=1, v=49)
+DEBUG: add_causal_relation start (u=2, v=49)
+DEBUG: add_causal_relation start (u=5, v=49)
+DEBUG: add_causal_relation start (u=6, v=49)
+DEBUG: add_causal_relation start (u=7, v=49)
+DEBUG: add_causal_relation start (u=10, v=49)
+DEBUG: add_causal_relation start (u=16, v=49)
+DEBUG: add_causal_relation start (u=2, v=49)
+DEBUG: add_causal_relation start (u=7, v=49)
+DEBUG: add_causal_relation start (u=14, v=49)
+DEBUG: add_causal_relation start (u=6, v=49)
+DEBUG: add_causal_relation start (u=4, v=49)
+DEBUG: add_causal_relation start (u=12, v=49)
+DEBUG: add_causal_relation start (u=3, v=49)
+DEBUG: add_causal_relation start (u=1, v=49)
+DEBUG: add_causal_relation start (u=7, v=49)
+DEBUG: add_causal_relation start (u=0, v=49)
+DEBUG: add_causal_relation start (u=3, v=49)
+DEBUG: add_causal_relation start (u=5, v=49)
+DEBUG: add_causal_relation start (u=12, v=49)
+DEBUG: add_causal_relation start (u=4, v=49)
+DEBUG: add_causal_relation start (u=7, v=49)
+DEBUG: add_causal_relation start (u=1, v=49)
+DEBUG: add_causal_relation start (u=16, v=49)
+DEBUG: Step 499 end
+DEBUG: Step 500 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=50)
+DEBUG: add_causal_relation start (u=17, v=50)
+DEBUG: add_causal_relation start (u=25, v=50)
+DEBUG: add_causal_relation start (u=28, v=50)
+DEBUG: add_causal_relation start (u=31, v=50)
+DEBUG: add_causal_relation start (u=37, v=50)
+DEBUG: add_causal_relation start (u=3, v=50)
+DEBUG: add_causal_relation start (u=9, v=50)
+DEBUG: add_causal_relation start (u=4, v=50)
+DEBUG: add_causal_relation start (u=7, v=50)
+DEBUG: add_causal_relation start (u=17, v=50)
+DEBUG: add_causal_relation start (u=14, v=50)
+DEBUG: add_causal_relation start (u=2, v=50)
+DEBUG: add_causal_relation start (u=4, v=50)
+DEBUG: add_causal_relation start (u=10, v=50)
+DEBUG: add_causal_relation start (u=0, v=50)
+DEBUG: add_causal_relation start (u=9, v=50)
+DEBUG: add_causal_relation start (u=7, v=50)
+DEBUG: add_causal_relation start (u=6, v=50)
+DEBUG: add_causal_relation start (u=12, v=50)
+DEBUG: add_causal_relation start (u=14, v=50)
+DEBUG: add_causal_relation start (u=1, v=50)
+DEBUG: add_causal_relation start (u=14, v=50)
+DEBUG: add_causal_relation start (u=17, v=50)
+DEBUG: add_causal_relation start (u=6, v=50)
+DEBUG: add_causal_relation start (u=9, v=50)
+DEBUG: add_causal_relation start (u=1, v=50)
+DEBUG: add_causal_relation start (u=12, v=50)
+DEBUG: add_causal_relation start (u=28, v=50)
+DEBUG: add_causal_relation start (u=2, v=50)
+DEBUG: add_causal_relation start (u=14, v=50)
+DEBUG: add_causal_relation start (u=17, v=50)
+DEBUG: add_causal_relation start (u=6, v=50)
+DEBUG: add_causal_relation start (u=9, v=50)
+DEBUG: add_causal_relation start (u=31, v=50)
+DEBUG: add_causal_relation start (u=28, v=50)
+DEBUG: Step 500 end
+DEBUG: Step 501 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=51)
+DEBUG: add_causal_relation start (u=1, v=51)
+DEBUG: add_causal_relation start (u=2, v=51)
+DEBUG: add_causal_relation start (u=5, v=51)
+DEBUG: add_causal_relation start (u=6, v=51)
+DEBUG: add_causal_relation start (u=7, v=51)
+DEBUG: add_causal_relation start (u=10, v=51)
+DEBUG: add_causal_relation start (u=16, v=51)
+DEBUG: add_causal_relation start (u=49, v=51)
+DEBUG: add_causal_relation start (u=0, v=51)
+DEBUG: add_causal_relation start (u=1, v=51)
+DEBUG: add_causal_relation start (u=0, v=51)
+DEBUG: add_causal_relation start (u=2, v=51)
+DEBUG: add_causal_relation start (u=10, v=51)
+DEBUG: add_causal_relation start (u=2, v=51)
+DEBUG: add_causal_relation start (u=7, v=51)
+DEBUG: add_causal_relation start (u=7, v=51)
+DEBUG: add_causal_relation start (u=2, v=51)
+DEBUG: add_causal_relation start (u=10, v=51)
+DEBUG: add_causal_relation start (u=12, v=51)
+DEBUG: add_causal_relation start (u=4, v=51)
+DEBUG: add_causal_relation start (u=10, v=51)
+DEBUG: add_causal_relation start (u=6, v=51)
+DEBUG: add_causal_relation start (u=5, v=51)
+DEBUG: add_causal_relation start (u=4, v=51)
+DEBUG: add_causal_relation start (u=7, v=51)
+DEBUG: add_causal_relation start (u=7, v=51)
+DEBUG: add_causal_relation start (u=3, v=51)
+DEBUG: add_causal_relation start (u=6, v=51)
+DEBUG: add_causal_relation start (u=5, v=51)
+DEBUG: add_causal_relation start (u=4, v=51)
+DEBUG: add_causal_relation start (u=14, v=51)
+DEBUG: Step 501 end
+DEBUG: Step 502 start
+DEBUG: propose_rewrite start
+DEBUG: Step 502 end
+DEBUG: Step 503 start
+DEBUG: propose_rewrite start
+DEBUG: Step 503 end
+DEBUG: Step 504 start
+DEBUG: propose_rewrite start
+DEBUG: Step 504 end
+DEBUG: Step 505 start
+DEBUG: propose_rewrite start
+DEBUG: Step 505 end
+DEBUG: Step 506 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=52)
+DEBUG: add_causal_relation start (u=17, v=52)
+DEBUG: add_causal_relation start (u=25, v=52)
+DEBUG: add_causal_relation start (u=28, v=52)
+DEBUG: add_causal_relation start (u=31, v=52)
+DEBUG: add_causal_relation start (u=37, v=52)
+DEBUG: add_causal_relation start (u=2, v=52)
+DEBUG: add_causal_relation start (u=7, v=52)
+DEBUG: add_causal_relation start (u=5, v=52)
+DEBUG: add_causal_relation start (u=2, v=52)
+DEBUG: add_causal_relation start (u=6, v=52)
+DEBUG: add_causal_relation start (u=4, v=52)
+DEBUG: add_causal_relation start (u=4, v=52)
+DEBUG: add_causal_relation start (u=10, v=52)
+DEBUG: add_causal_relation start (u=25, v=52)
+DEBUG: add_causal_relation start (u=5, v=52)
+DEBUG: add_causal_relation start (u=31, v=52)
+DEBUG: add_causal_relation start (u=14, v=52)
+DEBUG: add_causal_relation start (u=7, v=52)
+DEBUG: add_causal_relation start (u=10, v=52)
+DEBUG: add_causal_relation start (u=5, v=52)
+DEBUG: add_causal_relation start (u=28, v=52)
+DEBUG: add_causal_relation start (u=16, v=52)
+DEBUG: add_causal_relation start (u=4, v=52)
+DEBUG: add_causal_relation start (u=31, v=52)
+DEBUG: add_causal_relation start (u=6, v=52)
+DEBUG: add_causal_relation start (u=2, v=52)
+DEBUG: add_causal_relation start (u=1, v=52)
+DEBUG: add_causal_relation start (u=28, v=52)
+DEBUG: Step 506 end
+DEBUG: Step 507 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=53)
+DEBUG: add_causal_relation start (u=1, v=53)
+DEBUG: add_causal_relation start (u=2, v=53)
+DEBUG: add_causal_relation start (u=3, v=53)
+DEBUG: add_causal_relation start (u=4, v=53)
+DEBUG: add_causal_relation start (u=9, v=53)
+DEBUG: add_causal_relation start (u=12, v=53)
+DEBUG: add_causal_relation start (u=23, v=53)
+DEBUG: add_causal_relation start (u=48, v=53)
+DEBUG: add_causal_relation start (u=0, v=53)
+DEBUG: add_causal_relation start (u=3, v=53)
+DEBUG: add_causal_relation start (u=1, v=53)
+DEBUG: add_causal_relation start (u=9, v=53)
+DEBUG: add_causal_relation start (u=1, v=53)
+DEBUG: add_causal_relation start (u=3, v=53)
+DEBUG: add_causal_relation start (u=4, v=53)
+DEBUG: add_causal_relation start (u=31, v=53)
+DEBUG: add_causal_relation start (u=12, v=53)
+DEBUG: add_causal_relation start (u=6, v=53)
+DEBUG: add_causal_relation start (u=1, v=53)
+DEBUG: add_causal_relation start (u=7, v=53)
+DEBUG: add_causal_relation start (u=16, v=53)
+DEBUG: add_causal_relation start (u=3, v=53)
+DEBUG: add_causal_relation start (u=5, v=53)
+DEBUG: add_causal_relation start (u=28, v=53)
+DEBUG: add_causal_relation start (u=1, v=53)
+DEBUG: add_causal_relation start (u=2, v=53)
+DEBUG: add_causal_relation start (u=7, v=53)
+DEBUG: add_causal_relation start (u=14, v=53)
+DEBUG: add_causal_relation start (u=0, v=53)
+DEBUG: add_causal_relation start (u=10, v=53)
+DEBUG: add_causal_relation start (u=25, v=53)
+DEBUG: add_causal_relation start (u=31, v=53)
+DEBUG: add_causal_relation start (u=23, v=53)
+DEBUG: Step 507 end
+DEBUG: Step 508 start
+DEBUG: propose_rewrite start
+DEBUG: Step 508 end
+DEBUG: Step 509 start
+DEBUG: propose_rewrite start
+DEBUG: Step 509 end
+DEBUG: Step 510 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=54)
+DEBUG: add_causal_relation start (u=1, v=54)
+DEBUG: add_causal_relation start (u=2, v=54)
+DEBUG: add_causal_relation start (u=5, v=54)
+DEBUG: add_causal_relation start (u=6, v=54)
+DEBUG: add_causal_relation start (u=32, v=54)
+DEBUG: add_causal_relation start (u=38, v=54)
+DEBUG: add_causal_relation start (u=0, v=54)
+DEBUG: add_causal_relation start (u=1, v=54)
+DEBUG: add_causal_relation start (u=4, v=54)
+DEBUG: add_causal_relation start (u=7, v=54)
+DEBUG: add_causal_relation start (u=5, v=54)
+DEBUG: add_causal_relation start (u=1, v=54)
+DEBUG: add_causal_relation start (u=32, v=54)
+DEBUG: add_causal_relation start (u=12, v=54)
+DEBUG: add_causal_relation start (u=1, v=54)
+DEBUG: add_causal_relation start (u=9, v=54)
+DEBUG: add_causal_relation start (u=4, v=54)
+DEBUG: Step 510 end
+DEBUG: Step 511 start
+DEBUG: propose_rewrite start
+DEBUG: Step 511 end
+DEBUG: Step 512 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=55)
+DEBUG: add_causal_relation start (u=17, v=55)
+DEBUG: add_causal_relation start (u=25, v=55)
+DEBUG: add_causal_relation start (u=28, v=55)
+DEBUG: add_causal_relation start (u=31, v=55)
+DEBUG: add_causal_relation start (u=37, v=55)
+DEBUG: add_causal_relation start (u=52, v=55)
+DEBUG: add_causal_relation start (u=1, v=55)
+DEBUG: add_causal_relation start (u=4, v=55)
+DEBUG: add_causal_relation start (u=16, v=55)
+DEBUG: add_causal_relation start (u=9, v=55)
+DEBUG: add_causal_relation start (u=5, v=55)
+DEBUG: add_causal_relation start (u=4, v=55)
+DEBUG: add_causal_relation start (u=0, v=55)
+DEBUG: add_causal_relation start (u=7, v=55)
+DEBUG: add_causal_relation start (u=28, v=55)
+DEBUG: add_causal_relation start (u=4, v=55)
+DEBUG: add_causal_relation start (u=3, v=55)
+DEBUG: add_causal_relation start (u=17, v=55)
+DEBUG: add_causal_relation start (u=0, v=55)
+DEBUG: add_causal_relation start (u=4, v=55)
+DEBUG: add_causal_relation start (u=7, v=55)
+DEBUG: add_causal_relation start (u=12, v=55)
+DEBUG: add_causal_relation start (u=3, v=55)
+DEBUG: add_causal_relation start (u=5, v=55)
+DEBUG: add_causal_relation start (u=9, v=55)
+DEBUG: add_causal_relation start (u=2, v=55)
+DEBUG: add_causal_relation start (u=0, v=55)
+DEBUG: add_causal_relation start (u=28, v=55)
+DEBUG: add_causal_relation start (u=37, v=55)
+DEBUG: add_causal_relation start (u=6, v=55)
+DEBUG: add_causal_relation start (u=37, v=55)
+DEBUG: add_causal_relation start (u=4, v=55)
+DEBUG: add_causal_relation start (u=3, v=55)
+DEBUG: add_causal_relation start (u=31, v=55)
+DEBUG: add_causal_relation start (u=28, v=55)
+DEBUG: Step 512 end
+DEBUG: Step 513 start
+DEBUG: propose_rewrite start
+DEBUG: Step 513 end
+DEBUG: Step 514 start
+DEBUG: propose_rewrite start
+DEBUG: Step 514 end
+DEBUG: Step 515 start
+DEBUG: propose_rewrite start
+DEBUG: Step 515 end
+DEBUG: Step 516 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=37, v=36)
+DEBUG: add_causal_relation start (u=4, v=56)
+DEBUG: add_causal_relation start (u=17, v=56)
+DEBUG: add_causal_relation start (u=25, v=56)
+DEBUG: add_causal_relation start (u=29, v=56)
+DEBUG: add_causal_relation start (u=30, v=56)
+DEBUG: add_causal_relation start (u=1, v=56)
+DEBUG: add_causal_relation start (u=9, v=56)
+DEBUG: add_causal_relation start (u=2, v=56)
+DEBUG: add_causal_relation start (u=5, v=56)
+DEBUG: add_causal_relation start (u=2, v=56)
+DEBUG: add_causal_relation start (u=16, v=56)
+DEBUG: add_causal_relation start (u=0, v=56)
+DEBUG: add_causal_relation start (u=25, v=56)
+DEBUG: add_causal_relation start (u=2, v=56)
+DEBUG: add_causal_relation start (u=10, v=56)
+DEBUG: add_causal_relation start (u=6, v=56)
+DEBUG: add_causal_relation start (u=4, v=56)
+DEBUG: add_causal_relation start (u=3, v=56)
+DEBUG: add_causal_relation start (u=7, v=56)
+DEBUG: add_causal_relation start (u=17, v=56)
+DEBUG: add_causal_relation start (u=16, v=56)
+DEBUG: add_causal_relation start (u=7, v=56)
+DEBUG: add_causal_relation start (u=29, v=56)
+DEBUG: add_causal_relation start (u=4, v=56)
+DEBUG: add_causal_relation start (u=5, v=56)
+DEBUG: add_causal_relation start (u=17, v=56)
+DEBUG: add_causal_relation start (u=12, v=56)
+DEBUG: add_causal_relation start (u=7, v=56)
+DEBUG: Step 516 end
+DEBUG: Step 517 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=57)
+DEBUG: add_causal_relation start (u=17, v=57)
+DEBUG: add_causal_relation start (u=25, v=57)
+DEBUG: add_causal_relation start (u=29, v=57)
+DEBUG: add_causal_relation start (u=30, v=57)
+DEBUG: add_causal_relation start (u=35, v=57)
+DEBUG: add_causal_relation start (u=39, v=57)
+DEBUG: add_causal_relation start (u=1, v=57)
+DEBUG: add_causal_relation start (u=17, v=57)
+DEBUG: add_causal_relation start (u=9, v=57)
+DEBUG: add_causal_relation start (u=0, v=57)
+DEBUG: add_causal_relation start (u=25, v=57)
+DEBUG: add_causal_relation start (u=6, v=57)
+DEBUG: add_causal_relation start (u=12, v=57)
+DEBUG: add_causal_relation start (u=16, v=57)
+DEBUG: add_causal_relation start (u=3, v=57)
+DEBUG: add_causal_relation start (u=12, v=57)
+DEBUG: add_causal_relation start (u=7, v=57)
+DEBUG: add_causal_relation start (u=0, v=57)
+DEBUG: add_causal_relation start (u=5, v=57)
+DEBUG: add_causal_relation start (u=29, v=57)
+DEBUG: add_causal_relation start (u=0, v=57)
+DEBUG: add_causal_relation start (u=25, v=57)
+DEBUG: add_causal_relation start (u=12, v=57)
+DEBUG: add_causal_relation start (u=5, v=57)
+DEBUG: add_causal_relation start (u=7, v=57)
+DEBUG: add_causal_relation start (u=30, v=57)
+DEBUG: add_causal_relation start (u=9, v=57)
+DEBUG: add_causal_relation start (u=29, v=57)
+DEBUG: add_causal_relation start (u=10, v=57)
+DEBUG: add_causal_relation start (u=25, v=57)
+DEBUG: add_causal_relation start (u=4, v=57)
+DEBUG: add_causal_relation start (u=14, v=57)
+DEBUG: add_causal_relation start (u=7, v=57)
+DEBUG: add_causal_relation start (u=35, v=57)
+DEBUG: add_causal_relation start (u=39, v=57)
+DEBUG: add_causal_relation start (u=2, v=57)
+DEBUG: add_causal_relation start (u=12, v=57)
+DEBUG: Step 517 end
+DEBUG: Step 518 start
+DEBUG: propose_rewrite start
+DEBUG: Step 518 end
+DEBUG: Step 519 start
+DEBUG: propose_rewrite start
+DEBUG: Step 519 end
+DEBUG: Step 520 start
+DEBUG: propose_rewrite start
+DEBUG: Step 520 end
+DEBUG: Step 521 start
+DEBUG: propose_rewrite start
+DEBUG: Step 521 end
+DEBUG: Step 522 start
+DEBUG: propose_rewrite start
+DEBUG: Step 522 end
+DEBUG: Step 523 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=31, v=9)
+DEBUG: add_causal_relation start (u=4, v=58)
+DEBUG: add_causal_relation start (u=17, v=58)
+DEBUG: add_causal_relation start (u=25, v=58)
+DEBUG: add_causal_relation start (u=28, v=58)
+DEBUG: add_causal_relation start (u=31, v=58)
+DEBUG: add_causal_relation start (u=37, v=58)
+DEBUG: add_causal_relation start (u=52, v=58)
+DEBUG: add_causal_relation start (u=16, v=58)
+DEBUG: add_causal_relation start (u=3, v=58)
+DEBUG: add_causal_relation start (u=17, v=58)
+DEBUG: add_causal_relation start (u=6, v=58)
+DEBUG: add_causal_relation start (u=17, v=58)
+DEBUG: add_causal_relation start (u=7, v=58)
+DEBUG: add_causal_relation start (u=1, v=58)
+DEBUG: add_causal_relation start (u=16, v=58)
+DEBUG: add_causal_relation start (u=7, v=58)
+DEBUG: add_causal_relation start (u=17, v=58)
+DEBUG: add_causal_relation start (u=12, v=58)
+DEBUG: add_causal_relation start (u=5, v=58)
+DEBUG: add_causal_relation start (u=1, v=58)
+DEBUG: add_causal_relation start (u=28, v=58)
+DEBUG: add_causal_relation start (u=31, v=58)
+DEBUG: add_causal_relation start (u=7, v=58)
+DEBUG: add_causal_relation start (u=9, v=58)
+DEBUG: add_causal_relation start (u=2, v=58)
+DEBUG: add_causal_relation start (u=9, v=58)
+DEBUG: add_causal_relation start (u=25, v=58)
+DEBUG: add_causal_relation start (u=16, v=58)
+DEBUG: add_causal_relation start (u=10, v=58)
+DEBUG: add_causal_relation start (u=4, v=58)
+DEBUG: add_causal_relation start (u=31, v=58)
+DEBUG: add_causal_relation start (u=17, v=58)
+DEBUG: add_causal_relation start (u=2, v=58)
+DEBUG: add_causal_relation start (u=5, v=58)
+DEBUG: add_causal_relation start (u=14, v=58)
+DEBUG: add_causal_relation start (u=16, v=58)
+DEBUG: add_causal_relation start (u=25, v=58)
+DEBUG: add_causal_relation start (u=4, v=58)
+DEBUG: add_causal_relation start (u=3, v=58)
+DEBUG: add_causal_relation start (u=4, v=58)
+DEBUG: add_causal_relation start (u=2, v=58)
+DEBUG: add_causal_relation start (u=12, v=58)
+DEBUG: add_causal_relation start (u=37, v=58)
+DEBUG: Step 523 end
+DEBUG: Step 524 start
+DEBUG: propose_rewrite start
+DEBUG: Step 524 end
+DEBUG: Step 525 start
+DEBUG: propose_rewrite start
+DEBUG: Step 525 end
+DEBUG: Step 526 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=59)
+DEBUG: add_causal_relation start (u=17, v=59)
+DEBUG: add_causal_relation start (u=25, v=59)
+DEBUG: add_causal_relation start (u=29, v=59)
+DEBUG: add_causal_relation start (u=30, v=59)
+DEBUG: add_causal_relation start (u=35, v=59)
+DEBUG: add_causal_relation start (u=39, v=59)
+DEBUG: add_causal_relation start (u=57, v=59)
+DEBUG: add_causal_relation start (u=0, v=59)
+DEBUG: add_causal_relation start (u=25, v=59)
+DEBUG: add_causal_relation start (u=12, v=59)
+DEBUG: add_causal_relation start (u=9, v=59)
+DEBUG: add_causal_relation start (u=25, v=59)
+DEBUG: add_causal_relation start (u=1, v=59)
+DEBUG: add_causal_relation start (u=31, v=59)
+DEBUG: add_causal_relation start (u=4, v=59)
+DEBUG: add_causal_relation start (u=6, v=59)
+DEBUG: add_causal_relation start (u=25, v=59)
+DEBUG: add_causal_relation start (u=7, v=59)
+DEBUG: add_causal_relation start (u=6, v=59)
+DEBUG: add_causal_relation start (u=12, v=59)
+DEBUG: add_causal_relation start (u=31, v=59)
+DEBUG: add_causal_relation start (u=4, v=59)
+DEBUG: add_causal_relation start (u=9, v=59)
+DEBUG: add_causal_relation start (u=0, v=59)
+DEBUG: add_causal_relation start (u=14, v=59)
+DEBUG: add_causal_relation start (u=3, v=59)
+DEBUG: add_causal_relation start (u=28, v=59)
+DEBUG: add_causal_relation start (u=2, v=59)
+DEBUG: add_causal_relation start (u=7, v=59)
+DEBUG: add_causal_relation start (u=16, v=59)
+DEBUG: add_causal_relation start (u=1, v=59)
+DEBUG: add_causal_relation start (u=6, v=59)
+DEBUG: add_causal_relation start (u=7, v=59)
+DEBUG: add_causal_relation start (u=10, v=59)
+DEBUG: add_causal_relation start (u=30, v=59)
+DEBUG: add_causal_relation start (u=4, v=59)
+DEBUG: add_causal_relation start (u=17, v=59)
+DEBUG: add_causal_relation start (u=4, v=59)
+DEBUG: add_causal_relation start (u=3, v=59)
+DEBUG: add_causal_relation start (u=9, v=59)
+DEBUG: add_causal_relation start (u=30, v=59)
+DEBUG: add_causal_relation start (u=29, v=59)
+DEBUG: add_causal_relation start (u=14, v=59)
+DEBUG: add_causal_relation start (u=25, v=59)
+DEBUG: add_causal_relation start (u=12, v=59)
+DEBUG: add_causal_relation start (u=0, v=59)
+DEBUG: add_causal_relation start (u=39, v=59)
+DEBUG: add_causal_relation start (u=57, v=59)
+DEBUG: add_causal_relation start (u=9, v=59)
+DEBUG: add_causal_relation start (u=6, v=59)
+DEBUG: add_causal_relation start (u=30, v=59)
+DEBUG: Step 526 end
+DEBUG: Step 527 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=35, v=25)
+DEBUG: add_causal_relation start (u=4, v=60)
+DEBUG: add_causal_relation start (u=17, v=60)
+DEBUG: add_causal_relation start (u=25, v=60)
+DEBUG: add_causal_relation start (u=28, v=60)
+DEBUG: add_causal_relation start (u=31, v=60)
+DEBUG: add_causal_relation start (u=37, v=60)
+DEBUG: add_causal_relation start (u=52, v=60)
+DEBUG: add_causal_relation start (u=55, v=60)
+DEBUG: add_causal_relation start (u=7, v=60)
+DEBUG: add_causal_relation start (u=0, v=60)
+DEBUG: add_causal_relation start (u=28, v=60)
+DEBUG: add_causal_relation start (u=3, v=60)
+DEBUG: add_causal_relation start (u=29, v=60)
+DEBUG: add_causal_relation start (u=25, v=60)
+DEBUG: add_causal_relation start (u=35, v=60)
+DEBUG: add_causal_relation start (u=6, v=60)
+DEBUG: add_causal_relation start (u=1, v=60)
+DEBUG: add_causal_relation start (u=29, v=60)
+DEBUG: add_causal_relation start (u=30, v=60)
+DEBUG: add_causal_relation start (u=16, v=60)
+DEBUG: add_causal_relation start (u=12, v=60)
+DEBUG: add_causal_relation start (u=35, v=60)
+DEBUG: add_causal_relation start (u=5, v=60)
+DEBUG: add_causal_relation start (u=29, v=60)
+DEBUG: add_causal_relation start (u=31, v=60)
+DEBUG: add_causal_relation start (u=14, v=60)
+DEBUG: add_causal_relation start (u=25, v=60)
+DEBUG: add_causal_relation start (u=12, v=60)
+DEBUG: add_causal_relation start (u=4, v=60)
+DEBUG: add_causal_relation start (u=9, v=60)
+DEBUG: add_causal_relation start (u=6, v=60)
+DEBUG: add_causal_relation start (u=25, v=60)
+DEBUG: add_causal_relation start (u=30, v=60)
+DEBUG: add_causal_relation start (u=12, v=60)
+DEBUG: add_causal_relation start (u=3, v=60)
+DEBUG: add_causal_relation start (u=29, v=60)
+DEBUG: add_causal_relation start (u=0, v=60)
+DEBUG: add_causal_relation start (u=9, v=60)
+DEBUG: add_causal_relation start (u=35, v=60)
+DEBUG: add_causal_relation start (u=0, v=60)
+DEBUG: add_causal_relation start (u=30, v=60)
+DEBUG: add_causal_relation start (u=16, v=60)
+DEBUG: add_causal_relation start (u=12, v=60)
+DEBUG: add_causal_relation start (u=2, v=60)
+DEBUG: add_causal_relation start (u=2, v=60)
+DEBUG: add_causal_relation start (u=17, v=60)
+DEBUG: add_causal_relation start (u=29, v=60)
+DEBUG: add_causal_relation start (u=30, v=60)
+DEBUG: add_causal_relation start (u=4, v=60)
+DEBUG: add_causal_relation start (u=12, v=60)
+DEBUG: add_causal_relation start (u=28, v=60)
+DEBUG: add_causal_relation start (u=17, v=60)
+DEBUG: add_causal_relation start (u=35, v=60)
+DEBUG: add_causal_relation start (u=5, v=60)
+DEBUG: add_causal_relation start (u=16, v=60)
+DEBUG: add_causal_relation start (u=55, v=60)
+DEBUG: add_causal_relation start (u=10, v=60)
+DEBUG: add_causal_relation start (u=2, v=60)
+DEBUG: Step 527 end
+DEBUG: Step 528 start
+DEBUG: propose_rewrite start
+DEBUG: Step 528 end
+DEBUG: Step 529 start
+DEBUG: propose_rewrite start
+DEBUG: Step 529 end
+DEBUG: Step 530 start
+DEBUG: propose_rewrite start
+DEBUG: Step 530 end
+DEBUG: Step 531 start
+DEBUG: propose_rewrite start
+DEBUG: Step 531 end
+DEBUG: Step 532 start
+DEBUG: propose_rewrite start
+DEBUG: Step 532 end
+DEBUG: Step 533 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=61)
+DEBUG: add_causal_relation start (u=17, v=61)
+DEBUG: add_causal_relation start (u=25, v=61)
+DEBUG: add_causal_relation start (u=29, v=61)
+DEBUG: add_causal_relation start (u=30, v=61)
+DEBUG: add_causal_relation start (u=35, v=61)
+DEBUG: add_causal_relation start (u=29, v=61)
+DEBUG: add_causal_relation start (u=35, v=61)
+DEBUG: add_causal_relation start (u=9, v=61)
+DEBUG: add_causal_relation start (u=2, v=61)
+DEBUG: add_causal_relation start (u=7, v=61)
+DEBUG: add_causal_relation start (u=35, v=61)
+DEBUG: add_causal_relation start (u=5, v=61)
+DEBUG: add_causal_relation start (u=7, v=61)
+DEBUG: add_causal_relation start (u=9, v=61)
+DEBUG: add_causal_relation start (u=12, v=61)
+DEBUG: add_causal_relation start (u=3, v=61)
+DEBUG: add_causal_relation start (u=3, v=61)
+DEBUG: add_causal_relation start (u=25, v=61)
+DEBUG: add_causal_relation start (u=6, v=61)
+DEBUG: add_causal_relation start (u=28, v=61)
+DEBUG: add_causal_relation start (u=0, v=61)
+DEBUG: add_causal_relation start (u=31, v=61)
+DEBUG: add_causal_relation start (u=1, v=61)
+DEBUG: add_causal_relation start (u=16, v=61)
+DEBUG: add_causal_relation start (u=1, v=61)
+DEBUG: add_causal_relation start (u=10, v=61)
+DEBUG: add_causal_relation start (u=7, v=61)
+DEBUG: add_causal_relation start (u=29, v=61)
+DEBUG: add_causal_relation start (u=31, v=61)
+DEBUG: add_causal_relation start (u=6, v=61)
+DEBUG: add_causal_relation start (u=7, v=61)
+DEBUG: add_causal_relation start (u=14, v=61)
+DEBUG: add_causal_relation start (u=3, v=61)
+DEBUG: add_causal_relation start (u=25, v=61)
+DEBUG: add_causal_relation start (u=0, v=61)
+DEBUG: add_causal_relation start (u=12, v=61)
+DEBUG: add_causal_relation start (u=0, v=61)
+DEBUG: add_causal_relation start (u=14, v=61)
+DEBUG: add_causal_relation start (u=4, v=61)
+DEBUG: add_causal_relation start (u=12, v=61)
+DEBUG: add_causal_relation start (u=3, v=61)
+DEBUG: add_causal_relation start (u=9, v=61)
+DEBUG: Step 533 end
+DEBUG: Step 534 start
+DEBUG: propose_rewrite start
+DEBUG: Step 534 end
+DEBUG: Step 535 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=20, v=62)
+DEBUG: add_causal_relation start (u=11, v=62)
+DEBUG: add_causal_relation start (u=42, v=62)
+DEBUG: add_causal_relation start (u=31, v=62)
+DEBUG: add_causal_relation start (u=20, v=62)
+DEBUG: add_causal_relation start (u=28, v=62)
+DEBUG: add_causal_relation start (u=11, v=62)
+DEBUG: add_causal_relation start (u=4, v=62)
+DEBUG: add_causal_relation start (u=6, v=62)
+DEBUG: add_causal_relation start (u=1, v=62)
+DEBUG: add_causal_relation start (u=16, v=62)
+DEBUG: add_causal_relation start (u=25, v=62)
+DEBUG: add_causal_relation start (u=5, v=62)
+DEBUG: add_causal_relation start (u=14, v=62)
+DEBUG: add_causal_relation start (u=12, v=62)
+DEBUG: add_causal_relation start (u=20, v=62)
+DEBUG: add_causal_relation start (u=9, v=62)
+DEBUG: add_causal_relation start (u=12, v=62)
+DEBUG: add_causal_relation start (u=4, v=62)
+DEBUG: add_causal_relation start (u=32, v=62)
+DEBUG: add_causal_relation start (u=7, v=62)
+DEBUG: add_causal_relation start (u=13, v=62)
+DEBUG: add_causal_relation start (u=5, v=62)
+DEBUG: add_causal_relation start (u=20, v=62)
+DEBUG: Step 535 end
+DEBUG: Step 536 start
+DEBUG: propose_rewrite start
+DEBUG: Step 536 end
+DEBUG: Step 537 start
+DEBUG: propose_rewrite start
+DEBUG: Step 537 end
+DEBUG: Step 538 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=41, v=63)
+DEBUG: add_causal_relation start (u=34, v=63)
+DEBUG: add_causal_relation start (u=43, v=63)
+DEBUG: add_causal_relation start (u=4, v=63)
+DEBUG: add_causal_relation start (u=12, v=63)
+DEBUG: add_causal_relation start (u=16, v=63)
+DEBUG: add_causal_relation start (u=17, v=63)
+DEBUG: add_causal_relation start (u=1, v=63)
+DEBUG: add_causal_relation start (u=29, v=63)
+DEBUG: add_causal_relation start (u=28, v=63)
+DEBUG: add_causal_relation start (u=2, v=63)
+DEBUG: add_causal_relation start (u=16, v=63)
+DEBUG: add_causal_relation start (u=35, v=63)
+DEBUG: add_causal_relation start (u=7, v=63)
+DEBUG: add_causal_relation start (u=25, v=63)
+DEBUG: add_causal_relation start (u=32, v=63)
+DEBUG: add_causal_relation start (u=17, v=63)
+DEBUG: add_causal_relation start (u=28, v=63)
+DEBUG: add_causal_relation start (u=29, v=63)
+DEBUG: add_causal_relation start (u=30, v=63)
+DEBUG: add_causal_relation start (u=7, v=63)
+DEBUG: add_causal_relation start (u=16, v=63)
+DEBUG: add_causal_relation start (u=28, v=63)
+DEBUG: add_causal_relation start (u=32, v=63)
+DEBUG: add_causal_relation start (u=1, v=63)
+DEBUG: Step 538 end
+DEBUG: Step 539 start
+DEBUG: propose_rewrite start
+DEBUG: Step 539 end
+DEBUG: Step 540 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=43, v=36)
+DEBUG: add_causal_relation start (u=0, v=64)
+DEBUG: add_causal_relation start (u=1, v=64)
+DEBUG: add_causal_relation start (u=2, v=64)
+DEBUG: add_causal_relation start (u=5, v=64)
+DEBUG: add_causal_relation start (u=6, v=64)
+DEBUG: add_causal_relation start (u=13, v=64)
+DEBUG: add_causal_relation start (u=24, v=64)
+DEBUG: add_causal_relation start (u=46, v=64)
+DEBUG: add_causal_relation start (u=1, v=64)
+DEBUG: add_causal_relation start (u=17, v=64)
+DEBUG: add_causal_relation start (u=29, v=64)
+DEBUG: add_causal_relation start (u=35, v=64)
+DEBUG: add_causal_relation start (u=31, v=64)
+DEBUG: add_causal_relation start (u=14, v=64)
+DEBUG: add_causal_relation start (u=3, v=64)
+DEBUG: add_causal_relation start (u=12, v=64)
+DEBUG: add_causal_relation start (u=29, v=64)
+DEBUG: add_causal_relation start (u=6, v=64)
+DEBUG: add_causal_relation start (u=7, v=64)
+DEBUG: add_causal_relation start (u=28, v=64)
+DEBUG: add_causal_relation start (u=13, v=64)
+DEBUG: add_causal_relation start (u=4, v=64)
+DEBUG: add_causal_relation start (u=35, v=64)
+DEBUG: add_causal_relation start (u=5, v=64)
+DEBUG: add_causal_relation start (u=31, v=64)
+DEBUG: add_causal_relation start (u=29, v=64)
+DEBUG: add_causal_relation start (u=9, v=64)
+DEBUG: add_causal_relation start (u=0, v=64)
+DEBUG: add_causal_relation start (u=35, v=64)
+DEBUG: add_causal_relation start (u=16, v=64)
+DEBUG: add_causal_relation start (u=3, v=64)
+DEBUG: add_causal_relation start (u=7, v=64)
+DEBUG: add_causal_relation start (u=2, v=64)
+DEBUG: add_causal_relation start (u=0, v=64)
+DEBUG: Step 540 end
+DEBUG: Step 541 start
+DEBUG: propose_rewrite start
+DEBUG: Step 541 end
+DEBUG: Step 542 start
+DEBUG: propose_rewrite start
+DEBUG: Step 542 end
+DEBUG: Step 543 start
+DEBUG: propose_rewrite start
+DEBUG: Step 543 end
+DEBUG: Step 544 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=45, v=18)
+DEBUG: add_causal_relation start (u=4, v=65)
+DEBUG: add_causal_relation start (u=17, v=65)
+DEBUG: add_causal_relation start (u=25, v=65)
+DEBUG: add_causal_relation start (u=28, v=65)
+DEBUG: add_causal_relation start (u=31, v=65)
+DEBUG: add_causal_relation start (u=37, v=65)
+DEBUG: add_causal_relation start (u=52, v=65)
+DEBUG: add_causal_relation start (u=55, v=65)
+DEBUG: add_causal_relation start (u=9, v=65)
+DEBUG: add_causal_relation start (u=5, v=65)
+DEBUG: add_causal_relation start (u=12, v=65)
+DEBUG: add_causal_relation start (u=35, v=65)
+DEBUG: add_causal_relation start (u=4, v=65)
+DEBUG: add_causal_relation start (u=25, v=65)
+DEBUG: add_causal_relation start (u=29, v=65)
+DEBUG: add_causal_relation start (u=10, v=65)
+DEBUG: add_causal_relation start (u=0, v=65)
+DEBUG: add_causal_relation start (u=3, v=65)
+DEBUG: add_causal_relation start (u=17, v=65)
+DEBUG: add_causal_relation start (u=9, v=65)
+DEBUG: add_causal_relation start (u=12, v=65)
+DEBUG: add_causal_relation start (u=14, v=65)
+DEBUG: add_causal_relation start (u=1, v=65)
+DEBUG: add_causal_relation start (u=4, v=65)
+DEBUG: add_causal_relation start (u=5, v=65)
+DEBUG: add_causal_relation start (u=0, v=65)
+DEBUG: add_causal_relation start (u=6, v=65)
+DEBUG: add_causal_relation start (u=10, v=65)
+DEBUG: add_causal_relation start (u=2, v=65)
+DEBUG: add_causal_relation start (u=35, v=65)
+DEBUG: add_causal_relation start (u=6, v=65)
+DEBUG: add_causal_relation start (u=35, v=65)
+DEBUG: add_causal_relation start (u=25, v=65)
+DEBUG: add_causal_relation start (u=14, v=65)
+DEBUG: add_causal_relation start (u=1, v=65)
+DEBUG: add_causal_relation start (u=3, v=65)
+DEBUG: add_causal_relation start (u=7, v=65)
+DEBUG: add_causal_relation start (u=25, v=65)
+DEBUG: add_causal_relation start (u=1, v=65)
+DEBUG: add_causal_relation start (u=16, v=65)
+DEBUG: add_causal_relation start (u=6, v=65)
+DEBUG: add_causal_relation start (u=35, v=65)
+DEBUG: add_causal_relation start (u=5, v=65)
+DEBUG: add_causal_relation start (u=1, v=65)
+DEBUG: add_causal_relation start (u=6, v=65)
+DEBUG: add_causal_relation start (u=29, v=65)
+DEBUG: add_causal_relation start (u=9, v=65)
+DEBUG: add_causal_relation start (u=16, v=65)
+DEBUG: add_causal_relation start (u=4, v=65)
+DEBUG: add_causal_relation start (u=1, v=65)
+DEBUG: add_causal_relation start (u=6, v=65)
+DEBUG: add_causal_relation start (u=9, v=65)
+DEBUG: add_causal_relation start (u=5, v=65)
+DEBUG: add_causal_relation start (u=12, v=65)
+DEBUG: add_causal_relation start (u=6, v=65)
+DEBUG: add_causal_relation start (u=55, v=65)
+DEBUG: add_causal_relation start (u=17, v=65)
+DEBUG: Step 544 end
+DEBUG: Step 545 start
+DEBUG: propose_rewrite start
+DEBUG: Step 545 end
+DEBUG: Step 546 start
+DEBUG: propose_rewrite start
+DEBUG: Step 546 end
+DEBUG: Step 547 start
+DEBUG: propose_rewrite start
+DEBUG: Step 547 end
+DEBUG: Step 548 start
+DEBUG: propose_rewrite start
+DEBUG: Step 548 end
+DEBUG: Step 549 start
+DEBUG: propose_rewrite start
+DEBUG: Step 549 end
+DEBUG: Step 550 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=66)
+DEBUG: add_causal_relation start (u=1, v=66)
+DEBUG: add_causal_relation start (u=2, v=66)
+DEBUG: add_causal_relation start (u=3, v=66)
+DEBUG: add_causal_relation start (u=4, v=66)
+DEBUG: add_causal_relation start (u=9, v=66)
+DEBUG: add_causal_relation start (u=12, v=66)
+DEBUG: add_causal_relation start (u=14, v=66)
+DEBUG: add_causal_relation start (u=27, v=66)
+DEBUG: add_causal_relation start (u=0, v=66)
+DEBUG: add_causal_relation start (u=1, v=66)
+DEBUG: add_causal_relation start (u=1, v=66)
+DEBUG: add_causal_relation start (u=30, v=66)
+DEBUG: add_causal_relation start (u=5, v=66)
+DEBUG: add_causal_relation start (u=4, v=66)
+DEBUG: add_causal_relation start (u=1, v=66)
+DEBUG: add_causal_relation start (u=31, v=66)
+DEBUG: add_causal_relation start (u=35, v=66)
+DEBUG: add_causal_relation start (u=16, v=66)
+DEBUG: add_causal_relation start (u=28, v=66)
+DEBUG: add_causal_relation start (u=1, v=66)
+DEBUG: add_causal_relation start (u=14, v=66)
+DEBUG: add_causal_relation start (u=6, v=66)
+DEBUG: add_causal_relation start (u=30, v=66)
+DEBUG: add_causal_relation start (u=4, v=66)
+DEBUG: add_causal_relation start (u=7, v=66)
+DEBUG: add_causal_relation start (u=1, v=66)
+DEBUG: add_causal_relation start (u=9, v=66)
+DEBUG: add_causal_relation start (u=31, v=66)
+DEBUG: add_causal_relation start (u=35, v=66)
+DEBUG: add_causal_relation start (u=29, v=66)
+DEBUG: add_causal_relation start (u=17, v=66)
+DEBUG: add_causal_relation start (u=9, v=66)
+DEBUG: add_causal_relation start (u=5, v=66)
+DEBUG: add_causal_relation start (u=14, v=66)
+DEBUG: add_causal_relation start (u=1, v=66)
+DEBUG: add_causal_relation start (u=30, v=66)
+DEBUG: add_causal_relation start (u=31, v=66)
+DEBUG: add_causal_relation start (u=29, v=66)
+DEBUG: add_causal_relation start (u=4, v=66)
+DEBUG: add_causal_relation start (u=5, v=66)
+DEBUG: add_causal_relation start (u=17, v=66)
+DEBUG: add_causal_relation start (u=30, v=66)
+DEBUG: add_causal_relation start (u=10, v=66)
+DEBUG: add_causal_relation start (u=25, v=66)
+DEBUG: add_causal_relation start (u=4, v=66)
+DEBUG: Step 550 end
+DEBUG: Step 551 start
+DEBUG: propose_rewrite start
+DEBUG: Step 551 end
+DEBUG: Step 552 start
+DEBUG: propose_rewrite start
+DEBUG: Step 552 end
+DEBUG: Step 553 start
+DEBUG: propose_rewrite start
+DEBUG: Step 553 end
+DEBUG: Step 554 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=55, v=9)
+DEBUG: add_causal_relation start (u=0, v=67)
+DEBUG: add_causal_relation start (u=1, v=67)
+DEBUG: add_causal_relation start (u=2, v=67)
+DEBUG: add_causal_relation start (u=5, v=67)
+DEBUG: add_causal_relation start (u=6, v=67)
+DEBUG: add_causal_relation start (u=32, v=67)
+DEBUG: add_causal_relation start (u=38, v=67)
+DEBUG: add_causal_relation start (u=54, v=67)
+DEBUG: add_causal_relation start (u=0, v=67)
+DEBUG: add_causal_relation start (u=0, v=67)
+DEBUG: add_causal_relation start (u=4, v=67)
+DEBUG: add_causal_relation start (u=9, v=67)
+DEBUG: add_causal_relation start (u=35, v=67)
+DEBUG: add_causal_relation start (u=0, v=67)
+DEBUG: add_causal_relation start (u=1, v=67)
+DEBUG: add_causal_relation start (u=16, v=67)
+DEBUG: add_causal_relation start (u=14, v=67)
+DEBUG: add_causal_relation start (u=25, v=67)
+DEBUG: add_causal_relation start (u=37, v=67)
+DEBUG: add_causal_relation start (u=17, v=67)
+DEBUG: add_causal_relation start (u=0, v=67)
+DEBUG: add_causal_relation start (u=31, v=67)
+DEBUG: add_causal_relation start (u=25, v=67)
+DEBUG: add_causal_relation start (u=10, v=67)
+DEBUG: add_causal_relation start (u=29, v=67)
+DEBUG: add_causal_relation start (u=30, v=67)
+DEBUG: add_causal_relation start (u=35, v=67)
+DEBUG: add_causal_relation start (u=25, v=67)
+DEBUG: add_causal_relation start (u=4, v=67)
+DEBUG: add_causal_relation start (u=30, v=67)
+DEBUG: add_causal_relation start (u=17, v=67)
+DEBUG: add_causal_relation start (u=16, v=67)
+DEBUG: add_causal_relation start (u=12, v=67)
+DEBUG: add_causal_relation start (u=7, v=67)
+DEBUG: add_causal_relation start (u=17, v=67)
+DEBUG: add_causal_relation start (u=25, v=67)
+DEBUG: add_causal_relation start (u=54, v=67)
+DEBUG: add_causal_relation start (u=6, v=67)
+DEBUG: Step 554 end
+DEBUG: Step 555 start
+DEBUG: propose_rewrite start
+DEBUG: Step 555 end
+DEBUG: Step 556 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=59, v=19)
+DEBUG: add_causal_relation start (u=0, v=68)
+DEBUG: add_causal_relation start (u=1, v=68)
+DEBUG: add_causal_relation start (u=2, v=68)
+DEBUG: add_causal_relation start (u=3, v=68)
+DEBUG: add_causal_relation start (u=4, v=68)
+DEBUG: add_causal_relation start (u=9, v=68)
+DEBUG: add_causal_relation start (u=12, v=68)
+DEBUG: add_causal_relation start (u=23, v=68)
+DEBUG: add_causal_relation start (u=48, v=68)
+DEBUG: add_causal_relation start (u=53, v=68)
+DEBUG: add_causal_relation start (u=0, v=68)
+DEBUG: add_causal_relation start (u=0, v=68)
+DEBUG: add_causal_relation start (u=0, v=68)
+DEBUG: add_causal_relation start (u=7, v=68)
+DEBUG: add_causal_relation start (u=29, v=68)
+DEBUG: add_causal_relation start (u=6, v=68)
+DEBUG: add_causal_relation start (u=2, v=68)
+DEBUG: add_causal_relation start (u=14, v=68)
+DEBUG: add_causal_relation start (u=12, v=68)
+DEBUG: add_causal_relation start (u=29, v=68)
+DEBUG: add_causal_relation start (u=17, v=68)
+DEBUG: add_causal_relation start (u=30, v=68)
+DEBUG: add_causal_relation start (u=1, v=68)
+DEBUG: add_causal_relation start (u=3, v=68)
+DEBUG: add_causal_relation start (u=9, v=68)
+DEBUG: add_causal_relation start (u=52, v=68)
+DEBUG: add_causal_relation start (u=16, v=68)
+DEBUG: add_causal_relation start (u=25, v=68)
+DEBUG: add_causal_relation start (u=2, v=68)
+DEBUG: add_causal_relation start (u=4, v=68)
+DEBUG: add_causal_relation start (u=35, v=68)
+DEBUG: add_causal_relation start (u=9, v=68)
+DEBUG: add_causal_relation start (u=17, v=68)
+DEBUG: add_causal_relation start (u=31, v=68)
+DEBUG: add_causal_relation start (u=5, v=68)
+DEBUG: add_causal_relation start (u=1, v=68)
+DEBUG: add_causal_relation start (u=37, v=68)
+DEBUG: add_causal_relation start (u=12, v=68)
+DEBUG: add_causal_relation start (u=31, v=68)
+DEBUG: add_causal_relation start (u=2, v=68)
+DEBUG: add_causal_relation start (u=5, v=68)
+DEBUG: add_causal_relation start (u=31, v=68)
+DEBUG: add_causal_relation start (u=6, v=68)
+DEBUG: add_causal_relation start (u=12, v=68)
+DEBUG: add_causal_relation start (u=17, v=68)
+DEBUG: add_causal_relation start (u=0, v=68)
+DEBUG: add_causal_relation start (u=55, v=68)
+DEBUG: add_causal_relation start (u=37, v=68)
+DEBUG: add_causal_relation start (u=4, v=68)
+DEBUG: add_causal_relation start (u=16, v=68)
+DEBUG: add_causal_relation start (u=2, v=68)
+DEBUG: add_causal_relation start (u=1, v=68)
+DEBUG: add_causal_relation start (u=3, v=68)
+DEBUG: add_causal_relation start (u=5, v=68)
+DEBUG: add_causal_relation start (u=2, v=68)
+DEBUG: add_causal_relation start (u=23, v=68)
+DEBUG: add_causal_relation start (u=31, v=68)
+DEBUG: add_causal_relation start (u=3, v=68)
+DEBUG: add_causal_relation start (u=5, v=68)
+DEBUG: Step 556 end
+DEBUG: Step 557 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=69)
+DEBUG: add_causal_relation start (u=1, v=69)
+DEBUG: add_causal_relation start (u=2, v=69)
+DEBUG: add_causal_relation start (u=5, v=69)
+DEBUG: add_causal_relation start (u=6, v=69)
+DEBUG: add_causal_relation start (u=7, v=69)
+DEBUG: add_causal_relation start (u=10, v=69)
+DEBUG: add_causal_relation start (u=0, v=69)
+DEBUG: add_causal_relation start (u=2, v=69)
+DEBUG: add_causal_relation start (u=28, v=69)
+DEBUG: add_causal_relation start (u=12, v=69)
+DEBUG: add_causal_relation start (u=16, v=69)
+DEBUG: add_causal_relation start (u=2, v=69)
+DEBUG: add_causal_relation start (u=25, v=69)
+DEBUG: add_causal_relation start (u=7, v=69)
+DEBUG: add_causal_relation start (u=30, v=69)
+DEBUG: add_causal_relation start (u=35, v=69)
+DEBUG: add_causal_relation start (u=4, v=69)
+DEBUG: add_causal_relation start (u=55, v=69)
+DEBUG: add_causal_relation start (u=10, v=69)
+DEBUG: add_causal_relation start (u=16, v=69)
+DEBUG: add_causal_relation start (u=9, v=69)
+DEBUG: add_causal_relation start (u=12, v=69)
+DEBUG: add_causal_relation start (u=1, v=69)
+DEBUG: add_causal_relation start (u=52, v=69)
+DEBUG: add_causal_relation start (u=2, v=69)
+DEBUG: add_causal_relation start (u=29, v=69)
+DEBUG: add_causal_relation start (u=25, v=69)
+DEBUG: Step 557 end
+DEBUG: Step 558 start
+DEBUG: propose_rewrite start
+DEBUG: Step 558 end
+DEBUG: Step 559 start
+DEBUG: propose_rewrite start
+DEBUG: Step 559 end
+DEBUG: Step 560 start
+DEBUG: propose_rewrite start
+DEBUG: Step 560 end
+DEBUG: Step 561 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=68, v=9)
+DEBUG: add_causal_relation start (u=41, v=70)
+DEBUG: add_causal_relation start (u=34, v=70)
+DEBUG: add_causal_relation start (u=44, v=70)
+DEBUG: add_causal_relation start (u=48, v=70)
+DEBUG: add_causal_relation start (u=29, v=70)
+DEBUG: add_causal_relation start (u=28, v=70)
+DEBUG: add_causal_relation start (u=16, v=70)
+DEBUG: add_causal_relation start (u=10, v=70)
+DEBUG: add_causal_relation start (u=35, v=70)
+DEBUG: add_causal_relation start (u=5, v=70)
+DEBUG: add_causal_relation start (u=23, v=70)
+DEBUG: add_causal_relation start (u=6, v=70)
+DEBUG: add_causal_relation start (u=3, v=70)
+DEBUG: add_causal_relation start (u=10, v=70)
+DEBUG: add_causal_relation start (u=19, v=70)
+DEBUG: add_causal_relation start (u=30, v=70)
+DEBUG: add_causal_relation start (u=13, v=70)
+DEBUG: add_causal_relation start (u=7, v=70)
+DEBUG: add_causal_relation start (u=20, v=70)
+DEBUG: add_causal_relation start (u=1, v=70)
+DEBUG: add_causal_relation start (u=53, v=70)
+DEBUG: add_causal_relation start (u=9, v=70)
+DEBUG: add_causal_relation start (u=35, v=70)
+DEBUG: add_causal_relation start (u=6, v=70)
+DEBUG: add_causal_relation start (u=5, v=70)
+DEBUG: add_causal_relation start (u=52, v=70)
+DEBUG: add_causal_relation start (u=23, v=70)
+DEBUG: add_causal_relation start (u=37, v=70)
+DEBUG: add_causal_relation start (u=7, v=70)
+DEBUG: add_causal_relation start (u=9, v=70)
+DEBUG: add_causal_relation start (u=0, v=70)
+DEBUG: add_causal_relation start (u=16, v=70)
+DEBUG: add_causal_relation start (u=32, v=70)
+DEBUG: add_causal_relation start (u=34, v=70)
+DEBUG: add_causal_relation start (u=41, v=70)
+DEBUG: add_causal_relation start (u=11, v=70)
+DEBUG: add_causal_relation start (u=25, v=70)
+DEBUG: add_causal_relation start (u=10, v=70)
+DEBUG: Step 561 end
+DEBUG: Step 562 start
+DEBUG: propose_rewrite start
+DEBUG: Step 562 end
+DEBUG: Step 563 start
+DEBUG: propose_rewrite start
+DEBUG: Step 563 end
+DEBUG: Step 564 start
+DEBUG: propose_rewrite start
+DEBUG: Step 564 end
+DEBUG: Step 565 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=71)
+DEBUG: add_causal_relation start (u=1, v=71)
+DEBUG: add_causal_relation start (u=2, v=71)
+DEBUG: add_causal_relation start (u=3, v=71)
+DEBUG: add_causal_relation start (u=4, v=71)
+DEBUG: add_causal_relation start (u=9, v=71)
+DEBUG: add_causal_relation start (u=12, v=71)
+DEBUG: add_causal_relation start (u=14, v=71)
+DEBUG: add_causal_relation start (u=27, v=71)
+DEBUG: add_causal_relation start (u=1, v=71)
+DEBUG: add_causal_relation start (u=37, v=71)
+DEBUG: add_causal_relation start (u=4, v=71)
+DEBUG: add_causal_relation start (u=10, v=71)
+DEBUG: add_causal_relation start (u=30, v=71)
+DEBUG: add_causal_relation start (u=17, v=71)
+DEBUG: add_causal_relation start (u=16, v=71)
+DEBUG: add_causal_relation start (u=55, v=71)
+DEBUG: add_causal_relation start (u=31, v=71)
+DEBUG: add_causal_relation start (u=5, v=71)
+DEBUG: add_causal_relation start (u=68, v=71)
+DEBUG: add_causal_relation start (u=9, v=71)
+DEBUG: add_causal_relation start (u=31, v=71)
+DEBUG: add_causal_relation start (u=35, v=71)
+DEBUG: add_causal_relation start (u=1, v=71)
+DEBUG: add_causal_relation start (u=37, v=71)
+DEBUG: add_causal_relation start (u=0, v=71)
+DEBUG: add_causal_relation start (u=12, v=71)
+DEBUG: add_causal_relation start (u=29, v=71)
+DEBUG: add_causal_relation start (u=25, v=71)
+DEBUG: add_causal_relation start (u=17, v=71)
+DEBUG: add_causal_relation start (u=68, v=71)
+DEBUG: add_causal_relation start (u=30, v=71)
+DEBUG: add_causal_relation start (u=16, v=71)
+DEBUG: add_causal_relation start (u=68, v=71)
+DEBUG: add_causal_relation start (u=12, v=71)
+DEBUG: add_causal_relation start (u=35, v=71)
+DEBUG: add_causal_relation start (u=25, v=71)
+DEBUG: add_causal_relation start (u=29, v=71)
+DEBUG: add_causal_relation start (u=23, v=71)
+DEBUG: add_causal_relation start (u=4, v=71)
+DEBUG: add_causal_relation start (u=30, v=71)
+DEBUG: add_causal_relation start (u=14, v=71)
+DEBUG: add_causal_relation start (u=3, v=71)
+DEBUG: add_causal_relation start (u=17, v=71)
+DEBUG: add_causal_relation start (u=52, v=71)
+DEBUG: add_causal_relation start (u=25, v=71)
+DEBUG: add_causal_relation start (u=55, v=71)
+DEBUG: add_causal_relation start (u=5, v=71)
+DEBUG: add_causal_relation start (u=16, v=71)
+DEBUG: add_causal_relation start (u=6, v=71)
+DEBUG: Step 565 end
+DEBUG: Step 566 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=72)
+DEBUG: add_causal_relation start (u=17, v=72)
+DEBUG: add_causal_relation start (u=25, v=72)
+DEBUG: add_causal_relation start (u=28, v=72)
+DEBUG: add_causal_relation start (u=31, v=72)
+DEBUG: add_causal_relation start (u=37, v=72)
+DEBUG: add_causal_relation start (u=52, v=72)
+DEBUG: add_causal_relation start (u=58, v=72)
+DEBUG: add_causal_relation start (u=12, v=72)
+DEBUG: add_causal_relation start (u=28, v=72)
+DEBUG: add_causal_relation start (u=17, v=72)
+DEBUG: add_causal_relation start (u=7, v=72)
+DEBUG: add_causal_relation start (u=4, v=72)
+DEBUG: add_causal_relation start (u=29, v=72)
+DEBUG: add_causal_relation start (u=23, v=72)
+DEBUG: add_causal_relation start (u=6, v=72)
+DEBUG: add_causal_relation start (u=37, v=72)
+DEBUG: add_causal_relation start (u=55, v=72)
+DEBUG: add_causal_relation start (u=25, v=72)
+DEBUG: add_causal_relation start (u=17, v=72)
+DEBUG: add_causal_relation start (u=4, v=72)
+DEBUG: add_causal_relation start (u=4, v=72)
+DEBUG: add_causal_relation start (u=1, v=72)
+DEBUG: add_causal_relation start (u=23, v=72)
+DEBUG: add_causal_relation start (u=29, v=72)
+DEBUG: add_causal_relation start (u=35, v=72)
+DEBUG: add_causal_relation start (u=53, v=72)
+DEBUG: add_causal_relation start (u=3, v=72)
+DEBUG: add_causal_relation start (u=14, v=72)
+DEBUG: add_causal_relation start (u=9, v=72)
+DEBUG: add_causal_relation start (u=55, v=72)
+DEBUG: add_causal_relation start (u=25, v=72)
+DEBUG: add_causal_relation start (u=2, v=72)
+DEBUG: add_causal_relation start (u=12, v=72)
+DEBUG: add_causal_relation start (u=52, v=72)
+DEBUG: add_causal_relation start (u=35, v=72)
+DEBUG: add_causal_relation start (u=10, v=72)
+DEBUG: add_causal_relation start (u=2, v=72)
+DEBUG: add_causal_relation start (u=7, v=72)
+DEBUG: add_causal_relation start (u=9, v=72)
+DEBUG: add_causal_relation start (u=52, v=72)
+DEBUG: add_causal_relation start (u=35, v=72)
+DEBUG: add_causal_relation start (u=1, v=72)
+DEBUG: add_causal_relation start (u=3, v=72)
+DEBUG: add_causal_relation start (u=68, v=72)
+DEBUG: add_causal_relation start (u=23, v=72)
+DEBUG: add_causal_relation start (u=1, v=72)
+DEBUG: add_causal_relation start (u=29, v=72)
+DEBUG: add_causal_relation start (u=31, v=72)
+DEBUG: add_causal_relation start (u=53, v=72)
+DEBUG: add_causal_relation start (u=37, v=72)
+DEBUG: add_causal_relation start (u=7, v=72)
+DEBUG: add_causal_relation start (u=16, v=72)
+DEBUG: add_causal_relation start (u=30, v=72)
+DEBUG: add_causal_relation start (u=68, v=72)
+DEBUG: add_causal_relation start (u=6, v=72)
+DEBUG: add_causal_relation start (u=23, v=72)
+DEBUG: add_causal_relation start (u=28, v=72)
+DEBUG: add_causal_relation start (u=5, v=72)
+DEBUG: add_causal_relation start (u=53, v=72)
+DEBUG: add_causal_relation start (u=10, v=72)
+DEBUG: add_causal_relation start (u=0, v=72)
+DEBUG: add_causal_relation start (u=29, v=72)
+DEBUG: add_causal_relation start (u=35, v=72)
+DEBUG: add_causal_relation start (u=6, v=72)
+DEBUG: add_causal_relation start (u=48, v=72)
+DEBUG: add_causal_relation start (u=14, v=72)
+DEBUG: add_causal_relation start (u=52, v=72)
+DEBUG: add_causal_relation start (u=9, v=72)
+DEBUG: add_causal_relation start (u=30, v=72)
+DEBUG: add_causal_relation start (u=23, v=72)
+DEBUG: add_causal_relation start (u=5, v=72)
+DEBUG: add_causal_relation start (u=28, v=72)
+DEBUG: add_causal_relation start (u=12, v=72)
+DEBUG: add_causal_relation start (u=16, v=72)
+DEBUG: Step 566 end
+DEBUG: Step 567 start
+DEBUG: propose_rewrite start
+DEBUG: Step 567 end
+DEBUG: Step 568 start
+DEBUG: propose_rewrite start
+DEBUG: Step 568 end
+DEBUG: Step 569 start
+DEBUG: propose_rewrite start
+DEBUG: Step 569 end
+DEBUG: Step 570 start
+DEBUG: propose_rewrite start
+DEBUG: Step 570 end
+DEBUG: Step 571 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=65, v=50)
+DEBUG: add_causal_relation start (u=20, v=73)
+DEBUG: add_causal_relation start (u=11, v=73)
+DEBUG: add_causal_relation start (u=42, v=73)
+DEBUG: add_causal_relation start (u=12, v=73)
+DEBUG: add_causal_relation start (u=6, v=73)
+DEBUG: add_causal_relation start (u=1, v=73)
+DEBUG: add_causal_relation start (u=2, v=73)
+DEBUG: add_causal_relation start (u=48, v=73)
+DEBUG: add_causal_relation start (u=5, v=73)
+DEBUG: add_causal_relation start (u=25, v=73)
+DEBUG: add_causal_relation start (u=7, v=73)
+DEBUG: add_causal_relation start (u=28, v=73)
+DEBUG: add_causal_relation start (u=13, v=73)
+DEBUG: add_causal_relation start (u=23, v=73)
+DEBUG: add_causal_relation start (u=6, v=73)
+DEBUG: add_causal_relation start (u=13, v=73)
+DEBUG: add_causal_relation start (u=23, v=73)
+DEBUG: add_causal_relation start (u=1, v=73)
+DEBUG: add_causal_relation start (u=29, v=73)
+DEBUG: add_causal_relation start (u=0, v=73)
+DEBUG: add_causal_relation start (u=11, v=73)
+DEBUG: add_causal_relation start (u=16, v=73)
+DEBUG: add_causal_relation start (u=30, v=73)
+DEBUG: add_causal_relation start (u=3, v=73)
+DEBUG: add_causal_relation start (u=30, v=73)
+DEBUG: add_causal_relation start (u=28, v=73)
+DEBUG: add_causal_relation start (u=7, v=73)
+DEBUG: add_causal_relation start (u=13, v=73)
+DEBUG: add_causal_relation start (u=17, v=73)
+DEBUG: add_causal_relation start (u=48, v=73)
+DEBUG: Step 571 end
+DEBUG: Step 572 start
+DEBUG: propose_rewrite start
+DEBUG: Step 572 end
+DEBUG: Step 573 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=20, v=74)
+DEBUG: add_causal_relation start (u=11, v=74)
+DEBUG: add_causal_relation start (u=42, v=74)
+DEBUG: add_causal_relation start (u=73, v=74)
+DEBUG: add_causal_relation start (u=2, v=74)
+DEBUG: add_causal_relation start (u=5, v=74)
+DEBUG: add_causal_relation start (u=20, v=74)
+DEBUG: add_causal_relation start (u=10, v=74)
+DEBUG: add_causal_relation start (u=3, v=74)
+DEBUG: add_causal_relation start (u=23, v=74)
+DEBUG: add_causal_relation start (u=14, v=74)
+DEBUG: add_causal_relation start (u=53, v=74)
+DEBUG: add_causal_relation start (u=0, v=74)
+DEBUG: add_causal_relation start (u=13, v=74)
+DEBUG: add_causal_relation start (u=3, v=74)
+DEBUG: add_causal_relation start (u=37, v=74)
+DEBUG: add_causal_relation start (u=30, v=74)
+DEBUG: add_causal_relation start (u=55, v=74)
+DEBUG: add_causal_relation start (u=16, v=74)
+DEBUG: add_causal_relation start (u=9, v=74)
+DEBUG: add_causal_relation start (u=1, v=74)
+DEBUG: add_causal_relation start (u=10, v=74)
+DEBUG: add_causal_relation start (u=12, v=74)
+DEBUG: add_causal_relation start (u=25, v=74)
+DEBUG: add_causal_relation start (u=35, v=74)
+DEBUG: add_causal_relation start (u=14, v=74)
+DEBUG: add_causal_relation start (u=11, v=74)
+DEBUG: add_causal_relation start (u=41, v=74)
+DEBUG: add_causal_relation start (u=31, v=74)
+DEBUG: add_causal_relation start (u=6, v=74)
+DEBUG: add_causal_relation start (u=3, v=74)
+DEBUG: add_causal_relation start (u=7, v=74)
+DEBUG: add_causal_relation start (u=16, v=74)
+DEBUG: add_causal_relation start (u=55, v=74)
+DEBUG: add_causal_relation start (u=28, v=74)
+DEBUG: add_causal_relation start (u=68, v=74)
+DEBUG: add_causal_relation start (u=32, v=74)
+DEBUG: add_causal_relation start (u=41, v=74)
+DEBUG: add_causal_relation start (u=30, v=74)
+DEBUG: add_causal_relation start (u=7, v=74)
+DEBUG: add_causal_relation start (u=35, v=74)
+DEBUG: add_causal_relation start (u=37, v=74)
+DEBUG: add_causal_relation start (u=9, v=74)
+DEBUG: add_causal_relation start (u=6, v=74)
+DEBUG: add_causal_relation start (u=55, v=74)
+DEBUG: add_causal_relation start (u=3, v=74)
+DEBUG: add_causal_relation start (u=10, v=74)
+DEBUG: Step 573 end
+DEBUG: Step 574 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=58, v=23)
+DEBUG: add_causal_relation start (u=20, v=75)
+DEBUG: add_causal_relation start (u=11, v=75)
+DEBUG: add_causal_relation start (u=42, v=75)
+DEBUG: add_causal_relation start (u=62, v=75)
+DEBUG: add_causal_relation start (u=9, v=75)
+DEBUG: add_causal_relation start (u=35, v=75)
+DEBUG: add_causal_relation start (u=12, v=75)
+DEBUG: add_causal_relation start (u=29, v=75)
+DEBUG: add_causal_relation start (u=10, v=75)
+DEBUG: add_causal_relation start (u=11, v=75)
+DEBUG: add_causal_relation start (u=31, v=75)
+DEBUG: add_causal_relation start (u=13, v=75)
+DEBUG: add_causal_relation start (u=9, v=75)
+DEBUG: add_causal_relation start (u=28, v=75)
+DEBUG: add_causal_relation start (u=35, v=75)
+DEBUG: add_causal_relation start (u=11, v=75)
+DEBUG: add_causal_relation start (u=13, v=75)
+DEBUG: add_causal_relation start (u=30, v=75)
+DEBUG: add_causal_relation start (u=29, v=75)
+DEBUG: add_causal_relation start (u=1, v=75)
+DEBUG: add_causal_relation start (u=10, v=75)
+DEBUG: add_causal_relation start (u=14, v=75)
+DEBUG: add_causal_relation start (u=16, v=75)
+DEBUG: add_causal_relation start (u=11, v=75)
+DEBUG: add_causal_relation start (u=52, v=75)
+DEBUG: add_causal_relation start (u=25, v=75)
+DEBUG: add_causal_relation start (u=28, v=75)
+DEBUG: add_causal_relation start (u=37, v=75)
+DEBUG: add_causal_relation start (u=53, v=75)
+DEBUG: add_causal_relation start (u=5, v=75)
+DEBUG: add_causal_relation start (u=2, v=75)
+DEBUG: add_causal_relation start (u=10, v=75)
+DEBUG: add_causal_relation start (u=9, v=75)
+DEBUG: add_causal_relation start (u=30, v=75)
+DEBUG: add_causal_relation start (u=55, v=75)
+DEBUG: add_causal_relation start (u=42, v=75)
+DEBUG: add_causal_relation start (u=35, v=75)
+DEBUG: add_causal_relation start (u=48, v=75)
+DEBUG: Step 574 end
+DEBUG: Step 575 start
+DEBUG: propose_rewrite start
+DEBUG: Step 575 end
+DEBUG: Step 576 start
+DEBUG: propose_rewrite start
+DEBUG: Step 576 end
+DEBUG: Step 577 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=20, v=76)
+DEBUG: add_causal_relation start (u=11, v=76)
+DEBUG: add_causal_relation start (u=42, v=76)
+DEBUG: add_causal_relation start (u=73, v=76)
+DEBUG: add_causal_relation start (u=74, v=76)
+DEBUG: add_causal_relation start (u=20, v=76)
+DEBUG: add_causal_relation start (u=48, v=76)
+DEBUG: add_causal_relation start (u=28, v=76)
+DEBUG: add_causal_relation start (u=4, v=76)
+DEBUG: add_causal_relation start (u=12, v=76)
+DEBUG: add_causal_relation start (u=13, v=76)
+DEBUG: add_causal_relation start (u=35, v=76)
+DEBUG: add_causal_relation start (u=23, v=76)
+DEBUG: add_causal_relation start (u=58, v=76)
+DEBUG: add_causal_relation start (u=5, v=76)
+DEBUG: add_causal_relation start (u=53, v=76)
+DEBUG: add_causal_relation start (u=29, v=76)
+DEBUG: add_causal_relation start (u=55, v=76)
+DEBUG: add_causal_relation start (u=1, v=76)
+DEBUG: add_causal_relation start (u=35, v=76)
+DEBUG: add_causal_relation start (u=0, v=76)
+DEBUG: add_causal_relation start (u=10, v=76)
+DEBUG: add_causal_relation start (u=25, v=76)
+DEBUG: add_causal_relation start (u=13, v=76)
+DEBUG: add_causal_relation start (u=4, v=76)
+DEBUG: add_causal_relation start (u=10, v=76)
+DEBUG: add_causal_relation start (u=55, v=76)
+DEBUG: add_causal_relation start (u=42, v=76)
+DEBUG: add_causal_relation start (u=53, v=76)
+DEBUG: add_causal_relation start (u=0, v=76)
+DEBUG: add_causal_relation start (u=12, v=76)
+DEBUG: add_causal_relation start (u=32, v=76)
+DEBUG: add_causal_relation start (u=9, v=76)
+DEBUG: add_causal_relation start (u=48, v=76)
+DEBUG: add_causal_relation start (u=16, v=76)
+DEBUG: add_causal_relation start (u=20, v=76)
+DEBUG: add_causal_relation start (u=2, v=76)
+DEBUG: add_causal_relation start (u=37, v=76)
+DEBUG: add_causal_relation start (u=58, v=76)
+DEBUG: add_causal_relation start (u=3, v=76)
+DEBUG: add_causal_relation start (u=25, v=76)
+DEBUG: add_causal_relation start (u=14, v=76)
+DEBUG: add_causal_relation start (u=73, v=76)
+DEBUG: add_causal_relation start (u=17, v=76)
+DEBUG: add_causal_relation start (u=58, v=76)
+DEBUG: add_causal_relation start (u=48, v=76)
+DEBUG: add_causal_relation start (u=53, v=76)
+DEBUG: add_causal_relation start (u=4, v=76)
+DEBUG: add_causal_relation start (u=12, v=76)
+DEBUG: add_causal_relation start (u=37, v=76)
+DEBUG: add_causal_relation start (u=68, v=76)
+DEBUG: add_causal_relation start (u=74, v=76)
+DEBUG: add_causal_relation start (u=30, v=76)
+DEBUG: add_causal_relation start (u=37, v=76)
+DEBUG: add_causal_relation start (u=16, v=76)
+DEBUG: add_causal_relation start (u=53, v=76)
+DEBUG: add_causal_relation start (u=1, v=76)
+DEBUG: add_causal_relation start (u=4, v=76)
+DEBUG: add_causal_relation start (u=11, v=76)
+DEBUG: add_causal_relation start (u=73, v=76)
+DEBUG: add_causal_relation start (u=14, v=76)
+DEBUG: add_causal_relation start (u=52, v=76)
+DEBUG: Step 577 end
+DEBUG: Step 578 start
+DEBUG: propose_rewrite start
+DEBUG: Step 578 end
+DEBUG: Step 579 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=77)
+DEBUG: add_causal_relation start (u=1, v=77)
+DEBUG: add_causal_relation start (u=2, v=77)
+DEBUG: add_causal_relation start (u=5, v=77)
+DEBUG: add_causal_relation start (u=6, v=77)
+DEBUG: add_causal_relation start (u=13, v=77)
+DEBUG: add_causal_relation start (u=20, v=77)
+DEBUG: add_causal_relation start (u=26, v=77)
+DEBUG: add_causal_relation start (u=33, v=77)
+DEBUG: add_causal_relation start (u=2, v=77)
+DEBUG: add_causal_relation start (u=4, v=77)
+DEBUG: add_causal_relation start (u=0, v=77)
+DEBUG: add_causal_relation start (u=3, v=77)
+DEBUG: add_causal_relation start (u=28, v=77)
+DEBUG: add_causal_relation start (u=9, v=77)
+DEBUG: add_causal_relation start (u=17, v=77)
+DEBUG: add_causal_relation start (u=7, v=77)
+DEBUG: add_causal_relation start (u=52, v=77)
+DEBUG: add_causal_relation start (u=68, v=77)
+DEBUG: add_causal_relation start (u=6, v=77)
+DEBUG: add_causal_relation start (u=35, v=77)
+DEBUG: add_causal_relation start (u=17, v=77)
+DEBUG: add_causal_relation start (u=53, v=77)
+DEBUG: add_causal_relation start (u=14, v=77)
+DEBUG: add_causal_relation start (u=29, v=77)
+DEBUG: add_causal_relation start (u=16, v=77)
+DEBUG: add_causal_relation start (u=23, v=77)
+DEBUG: add_causal_relation start (u=52, v=77)
+DEBUG: add_causal_relation start (u=5, v=77)
+DEBUG: add_causal_relation start (u=48, v=77)
+DEBUG: add_causal_relation start (u=1, v=77)
+DEBUG: add_causal_relation start (u=35, v=77)
+DEBUG: add_causal_relation start (u=3, v=77)
+DEBUG: add_causal_relation start (u=11, v=77)
+DEBUG: add_causal_relation start (u=5, v=77)
+DEBUG: add_causal_relation start (u=9, v=77)
+DEBUG: add_causal_relation start (u=7, v=77)
+DEBUG: add_causal_relation start (u=29, v=77)
+DEBUG: add_causal_relation start (u=2, v=77)
+DEBUG: add_causal_relation start (u=37, v=77)
+DEBUG: add_causal_relation start (u=31, v=77)
+DEBUG: add_causal_relation start (u=37, v=77)
+DEBUG: add_causal_relation start (u=10, v=77)
+DEBUG: add_causal_relation start (u=26, v=77)
+DEBUG: add_causal_relation start (u=5, v=77)
+DEBUG: add_causal_relation start (u=30, v=77)
+DEBUG: add_causal_relation start (u=53, v=77)
+DEBUG: add_causal_relation start (u=48, v=77)
+DEBUG: add_causal_relation start (u=29, v=77)
+DEBUG: add_causal_relation start (u=25, v=77)
+DEBUG: add_causal_relation start (u=55, v=77)
+DEBUG: add_causal_relation start (u=23, v=77)
+DEBUG: add_causal_relation start (u=11, v=77)
+DEBUG: add_causal_relation start (u=5, v=77)
+DEBUG: add_causal_relation start (u=20, v=77)
+DEBUG: add_causal_relation start (u=17, v=77)
+DEBUG: add_causal_relation start (u=1, v=77)
+DEBUG: add_causal_relation start (u=68, v=77)
+DEBUG: add_causal_relation start (u=6, v=77)
+DEBUG: Step 579 end
+DEBUG: Step 580 start
+DEBUG: propose_rewrite start
+DEBUG: Step 580 end
+DEBUG: Step 581 start
+DEBUG: propose_rewrite start
+DEBUG: Step 581 end
+DEBUG: Step 582 start
+DEBUG: propose_rewrite start
+DEBUG: Step 582 end
+DEBUG: Step 583 start
+DEBUG: propose_rewrite start
+DEBUG: Step 583 end
+DEBUG: Step 584 start
+DEBUG: propose_rewrite start
+DEBUG: Step 584 end
+DEBUG: Step 585 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=63, v=43)
+DEBUG: add_causal_relation start (u=20, v=78)
+DEBUG: add_causal_relation start (u=11, v=78)
+DEBUG: add_causal_relation start (u=42, v=78)
+DEBUG: add_causal_relation start (u=73, v=78)
+DEBUG: add_causal_relation start (u=74, v=78)
+DEBUG: add_causal_relation start (u=76, v=78)
+DEBUG: add_causal_relation start (u=5, v=78)
+DEBUG: add_causal_relation start (u=30, v=78)
+DEBUG: add_causal_relation start (u=28, v=78)
+DEBUG: add_causal_relation start (u=13, v=78)
+DEBUG: add_causal_relation start (u=58, v=78)
+DEBUG: add_causal_relation start (u=10, v=78)
+DEBUG: add_causal_relation start (u=17, v=78)
+DEBUG: add_causal_relation start (u=25, v=78)
+DEBUG: add_causal_relation start (u=4, v=78)
+DEBUG: add_causal_relation start (u=1, v=78)
+DEBUG: add_causal_relation start (u=30, v=78)
+DEBUG: add_causal_relation start (u=12, v=78)
+DEBUG: add_causal_relation start (u=9, v=78)
+DEBUG: add_causal_relation start (u=29, v=78)
+DEBUG: add_causal_relation start (u=14, v=78)
+DEBUG: add_causal_relation start (u=2, v=78)
+DEBUG: add_causal_relation start (u=48, v=78)
+DEBUG: add_causal_relation start (u=28, v=78)
+DEBUG: add_causal_relation start (u=25, v=78)
+DEBUG: add_causal_relation start (u=35, v=78)
+DEBUG: add_causal_relation start (u=7, v=78)
+DEBUG: add_causal_relation start (u=53, v=78)
+DEBUG: add_causal_relation start (u=68, v=78)
+DEBUG: add_causal_relation start (u=28, v=78)
+DEBUG: add_causal_relation start (u=16, v=78)
+DEBUG: add_causal_relation start (u=29, v=78)
+DEBUG: add_causal_relation start (u=35, v=78)
+DEBUG: add_causal_relation start (u=4, v=78)
+DEBUG: add_causal_relation start (u=31, v=78)
+DEBUG: add_causal_relation start (u=1, v=78)
+DEBUG: add_causal_relation start (u=14, v=78)
+DEBUG: add_causal_relation start (u=13, v=78)
+DEBUG: add_causal_relation start (u=1, v=78)
+DEBUG: add_causal_relation start (u=3, v=78)
+DEBUG: add_causal_relation start (u=4, v=78)
+DEBUG: add_causal_relation start (u=5, v=78)
+DEBUG: add_causal_relation start (u=10, v=78)
+DEBUG: add_causal_relation start (u=11, v=78)
+DEBUG: add_causal_relation start (u=30, v=78)
+DEBUG: add_causal_relation start (u=5, v=78)
+DEBUG: add_causal_relation start (u=32, v=78)
+DEBUG: add_causal_relation start (u=13, v=78)
+DEBUG: add_causal_relation start (u=53, v=78)
+DEBUG: add_causal_relation start (u=74, v=78)
+DEBUG: add_causal_relation start (u=14, v=78)
+DEBUG: add_causal_relation start (u=6, v=78)
+DEBUG: add_causal_relation start (u=55, v=78)
+DEBUG: add_causal_relation start (u=20, v=78)
+DEBUG: add_causal_relation start (u=7, v=78)
+DEBUG: add_causal_relation start (u=23, v=78)
+DEBUG: add_causal_relation start (u=48, v=78)
+DEBUG: add_causal_relation start (u=3, v=78)
+DEBUG: Step 585 end
+DEBUG: Step 586 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=24, v=74)
+DEBUG: add_causal_relation start (u=20, v=79)
+DEBUG: add_causal_relation start (u=11, v=79)
+DEBUG: add_causal_relation start (u=42, v=79)
+DEBUG: add_causal_relation start (u=73, v=79)
+DEBUG: add_causal_relation start (u=74, v=79)
+DEBUG: add_causal_relation start (u=76, v=79)
+DEBUG: add_causal_relation start (u=78, v=79)
+DEBUG: add_causal_relation start (u=17, v=79)
+DEBUG: add_causal_relation start (u=68, v=79)
+DEBUG: add_causal_relation start (u=53, v=79)
+DEBUG: add_causal_relation start (u=11, v=79)
+DEBUG: add_causal_relation start (u=25, v=79)
+DEBUG: add_causal_relation start (u=6, v=79)
+DEBUG: add_causal_relation start (u=29, v=79)
+DEBUG: add_causal_relation start (u=37, v=79)
+DEBUG: add_causal_relation start (u=3, v=79)
+DEBUG: add_causal_relation start (u=12, v=79)
+DEBUG: add_causal_relation start (u=48, v=79)
+DEBUG: add_causal_relation start (u=52, v=79)
+DEBUG: add_causal_relation start (u=58, v=79)
+DEBUG: add_causal_relation start (u=9, v=79)
+DEBUG: add_causal_relation start (u=14, v=79)
+DEBUG: add_causal_relation start (u=31, v=79)
+DEBUG: add_causal_relation start (u=20, v=79)
+DEBUG: add_causal_relation start (u=48, v=79)
+DEBUG: add_causal_relation start (u=16, v=79)
+DEBUG: add_causal_relation start (u=17, v=79)
+DEBUG: add_causal_relation start (u=13, v=79)
+DEBUG: add_causal_relation start (u=12, v=79)
+DEBUG: add_causal_relation start (u=42, v=79)
+DEBUG: add_causal_relation start (u=20, v=79)
+DEBUG: add_causal_relation start (u=58, v=79)
+DEBUG: add_causal_relation start (u=6, v=79)
+DEBUG: add_causal_relation start (u=53, v=79)
+DEBUG: add_causal_relation start (u=25, v=79)
+DEBUG: add_causal_relation start (u=29, v=79)
+DEBUG: add_causal_relation start (u=5, v=79)
+DEBUG: add_causal_relation start (u=4, v=79)
+DEBUG: add_causal_relation start (u=10, v=79)
+DEBUG: add_causal_relation start (u=23, v=79)
+DEBUG: add_causal_relation start (u=3, v=79)
+DEBUG: add_causal_relation start (u=9, v=79)
+DEBUG: add_causal_relation start (u=73, v=79)
+DEBUG: add_causal_relation start (u=42, v=79)
+DEBUG: add_causal_relation start (u=25, v=79)
+DEBUG: add_causal_relation start (u=73, v=79)
+DEBUG: add_causal_relation start (u=6, v=79)
+DEBUG: add_causal_relation start (u=23, v=79)
+DEBUG: add_causal_relation start (u=7, v=79)
+DEBUG: add_causal_relation start (u=55, v=79)
+DEBUG: add_causal_relation start (u=68, v=79)
+DEBUG: add_causal_relation start (u=52, v=79)
+DEBUG: add_causal_relation start (u=32, v=79)
+DEBUG: add_causal_relation start (u=28, v=79)
+DEBUG: add_causal_relation start (u=4, v=79)
+DEBUG: add_causal_relation start (u=20, v=79)
+DEBUG: add_causal_relation start (u=52, v=79)
+DEBUG: add_causal_relation start (u=1, v=79)
+DEBUG: add_causal_relation start (u=4, v=79)
+DEBUG: add_causal_relation start (u=35, v=79)
+DEBUG: add_causal_relation start (u=0, v=79)
+DEBUG: add_causal_relation start (u=10, v=79)
+DEBUG: add_causal_relation start (u=7, v=79)
+DEBUG: add_causal_relation start (u=74, v=79)
+DEBUG: add_causal_relation start (u=76, v=79)
+DEBUG: add_causal_relation start (u=11, v=79)
+DEBUG: add_causal_relation start (u=53, v=79)
+DEBUG: add_causal_relation start (u=58, v=79)
+DEBUG: add_causal_relation start (u=41, v=79)
+DEBUG: add_causal_relation start (u=68, v=79)
+DEBUG: add_causal_relation start (u=55, v=79)
+DEBUG: add_causal_relation start (u=0, v=79)
+DEBUG: add_causal_relation start (u=1, v=79)
+DEBUG: add_causal_relation start (u=14, v=79)
+DEBUG: add_causal_relation start (u=30, v=79)
+DEBUG: add_causal_relation start (u=2, v=79)
+DEBUG: add_causal_relation start (u=48, v=79)
+DEBUG: add_causal_relation start (u=41, v=79)
+DEBUG: add_causal_relation start (u=76, v=79)
+DEBUG: add_causal_relation start (u=53, v=79)
+DEBUG: add_causal_relation start (u=6, v=79)
+DEBUG: Step 586 end
+DEBUG: Step 587 start
+DEBUG: propose_rewrite start
+DEBUG: Step 587 end
+DEBUG: Step 588 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=20, v=80)
+DEBUG: add_causal_relation start (u=11, v=80)
+DEBUG: add_causal_relation start (u=42, v=80)
+DEBUG: add_causal_relation start (u=73, v=80)
+DEBUG: add_causal_relation start (u=74, v=80)
+DEBUG: add_causal_relation start (u=76, v=80)
+DEBUG: add_causal_relation start (u=78, v=80)
+DEBUG: add_causal_relation start (u=79, v=80)
+DEBUG: add_causal_relation start (u=48, v=80)
+DEBUG: add_causal_relation start (u=0, v=80)
+DEBUG: add_causal_relation start (u=55, v=80)
+DEBUG: add_causal_relation start (u=10, v=80)
+DEBUG: add_causal_relation start (u=20, v=80)
+DEBUG: add_causal_relation start (u=6, v=80)
+DEBUG: add_causal_relation start (u=28, v=80)
+DEBUG: add_causal_relation start (u=29, v=80)
+DEBUG: add_causal_relation start (u=31, v=80)
+DEBUG: add_causal_relation start (u=37, v=80)
+DEBUG: add_causal_relation start (u=1, v=80)
+DEBUG: add_causal_relation start (u=16, v=80)
+DEBUG: add_causal_relation start (u=14, v=80)
+DEBUG: add_causal_relation start (u=55, v=80)
+DEBUG: add_causal_relation start (u=30, v=80)
+DEBUG: add_causal_relation start (u=0, v=80)
+DEBUG: add_causal_relation start (u=11, v=80)
+DEBUG: add_causal_relation start (u=31, v=80)
+DEBUG: add_causal_relation start (u=3, v=80)
+DEBUG: add_causal_relation start (u=29, v=80)
+DEBUG: add_causal_relation start (u=68, v=80)
+DEBUG: add_causal_relation start (u=48, v=80)
+DEBUG: add_causal_relation start (u=58, v=80)
+DEBUG: add_causal_relation start (u=52, v=80)
+DEBUG: add_causal_relation start (u=0, v=80)
+DEBUG: add_causal_relation start (u=6, v=80)
+DEBUG: add_causal_relation start (u=1, v=80)
+DEBUG: add_causal_relation start (u=53, v=80)
+DEBUG: add_causal_relation start (u=52, v=80)
+DEBUG: add_causal_relation start (u=0, v=80)
+DEBUG: add_causal_relation start (u=13, v=80)
+DEBUG: add_causal_relation start (u=5, v=80)
+DEBUG: add_causal_relation start (u=41, v=80)
+DEBUG: add_causal_relation start (u=52, v=80)
+DEBUG: add_causal_relation start (u=10, v=80)
+DEBUG: add_causal_relation start (u=14, v=80)
+DEBUG: add_causal_relation start (u=55, v=80)
+DEBUG: add_causal_relation start (u=28, v=80)
+DEBUG: add_causal_relation start (u=11, v=80)
+DEBUG: add_causal_relation start (u=12, v=80)
+DEBUG: add_causal_relation start (u=29, v=80)
+DEBUG: add_causal_relation start (u=3, v=80)
+DEBUG: add_causal_relation start (u=4, v=80)
+DEBUG: add_causal_relation start (u=52, v=80)
+DEBUG: add_causal_relation start (u=14, v=80)
+DEBUG: add_causal_relation start (u=32, v=80)
+DEBUG: add_causal_relation start (u=24, v=80)
+DEBUG: add_causal_relation start (u=1, v=80)
+DEBUG: add_causal_relation start (u=2, v=80)
+DEBUG: add_causal_relation start (u=9, v=80)
+DEBUG: add_causal_relation start (u=68, v=80)
+DEBUG: add_causal_relation start (u=12, v=80)
+DEBUG: add_causal_relation start (u=55, v=80)
+DEBUG: add_causal_relation start (u=32, v=80)
+DEBUG: add_causal_relation start (u=24, v=80)
+DEBUG: add_causal_relation start (u=35, v=80)
+DEBUG: add_causal_relation start (u=14, v=80)
+DEBUG: add_causal_relation start (u=25, v=80)
+DEBUG: add_causal_relation start (u=28, v=80)
+DEBUG: add_causal_relation start (u=3, v=80)
+DEBUG: add_causal_relation start (u=23, v=80)
+DEBUG: add_causal_relation start (u=29, v=80)
+DEBUG: add_causal_relation start (u=32, v=80)
+DEBUG: add_causal_relation start (u=58, v=80)
+DEBUG: add_causal_relation start (u=37, v=80)
+DEBUG: add_causal_relation start (u=12, v=80)
+DEBUG: add_causal_relation start (u=2, v=80)
+DEBUG: add_causal_relation start (u=73, v=80)
+DEBUG: add_causal_relation start (u=35, v=80)
+DEBUG: add_causal_relation start (u=76, v=80)
+DEBUG: add_causal_relation start (u=74, v=80)
+DEBUG: add_causal_relation start (u=73, v=80)
+DEBUG: add_causal_relation start (u=41, v=80)
+DEBUG: add_causal_relation start (u=12, v=80)
+DEBUG: add_causal_relation start (u=17, v=80)
+DEBUG: add_causal_relation start (u=53, v=80)
+DEBUG: add_causal_relation start (u=68, v=80)
+DEBUG: add_causal_relation start (u=25, v=80)
+DEBUG: add_causal_relation start (u=35, v=80)
+DEBUG: add_causal_relation start (u=2, v=80)
+DEBUG: add_causal_relation start (u=29, v=80)
+DEBUG: add_causal_relation start (u=58, v=80)
+DEBUG: add_causal_relation start (u=10, v=80)
+DEBUG: Step 588 end
+DEBUG: Step 589 start
+DEBUG: propose_rewrite start
+DEBUG: Step 589 end
+DEBUG: Step 590 start
+DEBUG: propose_rewrite start
+DEBUG: Step 590 end
+DEBUG: Step 591 start
+DEBUG: propose_rewrite start
+DEBUG: Step 591 end
+DEBUG: Step 592 start
+DEBUG: propose_rewrite start
+DEBUG: Step 592 end
+DEBUG: Step 593 start
+DEBUG: propose_rewrite start
+DEBUG: Step 593 end
+DEBUG: Step 594 start
+DEBUG: propose_rewrite start
+DEBUG: Step 594 end
+DEBUG: Step 595 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=49, v=52)
+DEBUG: add_causal_relation start (u=4, v=81)
+DEBUG: add_causal_relation start (u=17, v=81)
+DEBUG: add_causal_relation start (u=25, v=81)
+DEBUG: add_causal_relation start (u=29, v=81)
+DEBUG: add_causal_relation start (u=30, v=81)
+DEBUG: add_causal_relation start (u=56, v=81)
+DEBUG: add_causal_relation start (u=23, v=81)
+DEBUG: add_causal_relation start (u=29, v=81)
+DEBUG: add_causal_relation start (u=10, v=81)
+DEBUG: add_causal_relation start (u=53, v=81)
+DEBUG: add_causal_relation start (u=17, v=81)
+DEBUG: add_causal_relation start (u=3, v=81)
+DEBUG: add_causal_relation start (u=5, v=81)
+DEBUG: add_causal_relation start (u=68, v=81)
+DEBUG: add_causal_relation start (u=35, v=81)
+DEBUG: add_causal_relation start (u=68, v=81)
+DEBUG: add_causal_relation start (u=16, v=81)
+DEBUG: add_causal_relation start (u=9, v=81)
+DEBUG: add_causal_relation start (u=14, v=81)
+DEBUG: add_causal_relation start (u=12, v=81)
+DEBUG: add_causal_relation start (u=55, v=81)
+DEBUG: add_causal_relation start (u=12, v=81)
+DEBUG: add_causal_relation start (u=9, v=81)
+DEBUG: add_causal_relation start (u=31, v=81)
+DEBUG: add_causal_relation start (u=5, v=81)
+DEBUG: add_causal_relation start (u=17, v=81)
+DEBUG: add_causal_relation start (u=52, v=81)
+DEBUG: add_causal_relation start (u=6, v=81)
+DEBUG: add_causal_relation start (u=3, v=81)
+DEBUG: add_causal_relation start (u=23, v=81)
+DEBUG: add_causal_relation start (u=2, v=81)
+DEBUG: add_causal_relation start (u=7, v=81)
+DEBUG: add_causal_relation start (u=5, v=81)
+DEBUG: add_causal_relation start (u=35, v=81)
+DEBUG: add_causal_relation start (u=16, v=81)
+DEBUG: add_causal_relation start (u=29, v=81)
+DEBUG: add_causal_relation start (u=53, v=81)
+DEBUG: add_causal_relation start (u=55, v=81)
+DEBUG: add_causal_relation start (u=68, v=81)
+DEBUG: add_causal_relation start (u=58, v=81)
+DEBUG: add_causal_relation start (u=35, v=81)
+DEBUG: add_causal_relation start (u=48, v=81)
+DEBUG: add_causal_relation start (u=23, v=81)
+DEBUG: add_causal_relation start (u=28, v=81)
+DEBUG: add_causal_relation start (u=12, v=81)
+DEBUG: add_causal_relation start (u=4, v=81)
+DEBUG: add_causal_relation start (u=2, v=81)
+DEBUG: add_causal_relation start (u=0, v=81)
+DEBUG: add_causal_relation start (u=9, v=81)
+DEBUG: add_causal_relation start (u=14, v=81)
+DEBUG: add_causal_relation start (u=56, v=81)
+DEBUG: add_causal_relation start (u=53, v=81)
+DEBUG: add_causal_relation start (u=49, v=81)
+DEBUG: add_causal_relation start (u=48, v=81)
+DEBUG: Step 595 end
+DEBUG: Step 596 start
+DEBUG: propose_rewrite start
+DEBUG: Step 596 end
+DEBUG: Step 597 start
+DEBUG: propose_rewrite start
+DEBUG: Step 597 end
+DEBUG: Step 598 start
+DEBUG: propose_rewrite start
+DEBUG: Step 598 end
+DEBUG: Step 599 start
+DEBUG: propose_rewrite start
+DEBUG: Step 599 end
+DEBUG: Step 600 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=72, v=51)
+DEBUG: add_causal_relation start (u=16, v=82)
+DEBUG: add_causal_relation start (u=8, v=82)
+DEBUG: add_causal_relation start (u=47, v=82)
+DEBUG: add_causal_relation start (u=10, v=82)
+DEBUG: add_causal_relation start (u=53, v=82)
+DEBUG: add_causal_relation start (u=68, v=82)
+DEBUG: add_causal_relation start (u=5, v=82)
+DEBUG: add_causal_relation start (u=1, v=82)
+DEBUG: add_causal_relation start (u=58, v=82)
+DEBUG: add_causal_relation start (u=4, v=82)
+DEBUG: add_causal_relation start (u=12, v=82)
+DEBUG: add_causal_relation start (u=10, v=82)
+DEBUG: add_causal_relation start (u=3, v=82)
+DEBUG: add_causal_relation start (u=8, v=82)
+DEBUG: add_causal_relation start (u=37, v=82)
+DEBUG: add_causal_relation start (u=28, v=82)
+DEBUG: add_causal_relation start (u=48, v=82)
+DEBUG: add_causal_relation start (u=8, v=82)
+DEBUG: add_causal_relation start (u=68, v=82)
+DEBUG: add_causal_relation start (u=31, v=82)
+DEBUG: add_causal_relation start (u=0, v=82)
+DEBUG: add_causal_relation start (u=49, v=82)
+DEBUG: add_causal_relation start (u=5, v=82)
+DEBUG: add_causal_relation start (u=9, v=82)
+DEBUG: Step 600 end
+DEBUG: Step 601 start
+DEBUG: propose_rewrite start
+DEBUG: Step 601 end
+DEBUG: Step 602 start
+DEBUG: propose_rewrite start
+DEBUG: Step 602 end
+DEBUG: Step 603 start
+DEBUG: propose_rewrite start
+DEBUG: Step 603 end
+DEBUG: Step 604 start
+DEBUG: propose_rewrite start
+DEBUG: Step 604 end
+DEBUG: Step 605 start
+DEBUG: propose_rewrite start
+DEBUG: Step 605 end
+DEBUG: Step 606 start
+DEBUG: propose_rewrite start
+DEBUG: Step 606 end
+DEBUG: Step 607 start
+DEBUG: propose_rewrite start
+DEBUG: Step 607 end
+DEBUG: Step 608 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=24, v=77)
+DEBUG: add_causal_relation start (u=20, v=83)
+DEBUG: add_causal_relation start (u=11, v=83)
+DEBUG: add_causal_relation start (u=42, v=83)
+DEBUG: add_causal_relation start (u=73, v=83)
+DEBUG: add_causal_relation start (u=74, v=83)
+DEBUG: add_causal_relation start (u=76, v=83)
+DEBUG: add_causal_relation start (u=78, v=83)
+DEBUG: add_causal_relation start (u=28, v=83)
+DEBUG: add_causal_relation start (u=37, v=83)
+DEBUG: add_causal_relation start (u=49, v=83)
+DEBUG: add_causal_relation start (u=12, v=83)
+DEBUG: add_causal_relation start (u=9, v=83)
+DEBUG: add_causal_relation start (u=17, v=83)
+DEBUG: add_causal_relation start (u=25, v=83)
+DEBUG: add_causal_relation start (u=7, v=83)
+DEBUG: add_causal_relation start (u=2, v=83)
+DEBUG: add_causal_relation start (u=30, v=83)
+DEBUG: add_causal_relation start (u=20, v=83)
+DEBUG: add_causal_relation start (u=31, v=83)
+DEBUG: add_causal_relation start (u=29, v=83)
+DEBUG: add_causal_relation start (u=53, v=83)
+DEBUG: add_causal_relation start (u=6, v=83)
+DEBUG: add_causal_relation start (u=11, v=83)
+DEBUG: add_causal_relation start (u=4, v=83)
+DEBUG: add_causal_relation start (u=20, v=83)
+DEBUG: add_causal_relation start (u=55, v=83)
+DEBUG: add_causal_relation start (u=1, v=83)
+DEBUG: add_causal_relation start (u=48, v=83)
+DEBUG: add_causal_relation start (u=58, v=83)
+DEBUG: add_causal_relation start (u=7, v=83)
+DEBUG: add_causal_relation start (u=14, v=83)
+DEBUG: add_causal_relation start (u=7, v=83)
+DEBUG: add_causal_relation start (u=16, v=83)
+DEBUG: add_causal_relation start (u=30, v=83)
+DEBUG: add_causal_relation start (u=68, v=83)
+DEBUG: add_causal_relation start (u=31, v=83)
+DEBUG: add_causal_relation start (u=28, v=83)
+DEBUG: add_causal_relation start (u=35, v=83)
+DEBUG: add_causal_relation start (u=9, v=83)
+DEBUG: add_causal_relation start (u=12, v=83)
+DEBUG: add_causal_relation start (u=11, v=83)
+DEBUG: add_causal_relation start (u=0, v=83)
+DEBUG: add_causal_relation start (u=6, v=83)
+DEBUG: add_causal_relation start (u=53, v=83)
+DEBUG: add_causal_relation start (u=52, v=83)
+DEBUG: add_causal_relation start (u=14, v=83)
+DEBUG: add_causal_relation start (u=6, v=83)
+DEBUG: add_causal_relation start (u=12, v=83)
+DEBUG: add_causal_relation start (u=37, v=83)
+DEBUG: add_causal_relation start (u=10, v=83)
+DEBUG: add_causal_relation start (u=9, v=83)
+DEBUG: add_causal_relation start (u=42, v=83)
+DEBUG: add_causal_relation start (u=17, v=83)
+DEBUG: add_causal_relation start (u=53, v=83)
+DEBUG: add_causal_relation start (u=37, v=83)
+DEBUG: add_causal_relation start (u=41, v=83)
+DEBUG: add_causal_relation start (u=13, v=83)
+DEBUG: add_causal_relation start (u=12, v=83)
+DEBUG: add_causal_relation start (u=23, v=83)
+DEBUG: add_causal_relation start (u=3, v=83)
+DEBUG: add_causal_relation start (u=35, v=83)
+DEBUG: add_causal_relation start (u=14, v=83)
+DEBUG: add_causal_relation start (u=0, v=83)
+DEBUG: add_causal_relation start (u=23, v=83)
+DEBUG: add_causal_relation start (u=12, v=83)
+DEBUG: add_causal_relation start (u=24, v=83)
+DEBUG: add_causal_relation start (u=35, v=83)
+DEBUG: add_causal_relation start (u=3, v=83)
+DEBUG: add_causal_relation start (u=5, v=83)
+DEBUG: add_causal_relation start (u=9, v=83)
+DEBUG: add_causal_relation start (u=20, v=83)
+DEBUG: add_causal_relation start (u=32, v=83)
+DEBUG: add_causal_relation start (u=76, v=83)
+DEBUG: add_causal_relation start (u=1, v=83)
+DEBUG: add_causal_relation start (u=25, v=83)
+DEBUG: add_causal_relation start (u=10, v=83)
+DEBUG: add_causal_relation start (u=49, v=83)
+DEBUG: add_causal_relation start (u=42, v=83)
+DEBUG: add_causal_relation start (u=32, v=83)
+DEBUG: add_causal_relation start (u=31, v=83)
+DEBUG: add_causal_relation start (u=11, v=83)
+DEBUG: add_causal_relation start (u=29, v=83)
+DEBUG: add_causal_relation start (u=41, v=83)
+DEBUG: add_causal_relation start (u=3, v=83)
+DEBUG: add_causal_relation start (u=52, v=83)
+DEBUG: Step 608 end
+DEBUG: Step 609 start
+DEBUG: propose_rewrite start
+DEBUG: Step 609 end
+DEBUG: Step 610 start
+DEBUG: propose_rewrite start
+DEBUG: Step 610 end
+DEBUG: Step 611 start
+DEBUG: propose_rewrite start
+DEBUG: Step 611 end
+DEBUG: Step 612 start
+DEBUG: propose_rewrite start
+DEBUG: Step 612 end
+DEBUG: Step 613 start
+DEBUG: propose_rewrite start
+DEBUG: Step 613 end
+DEBUG: Step 614 start
+DEBUG: propose_rewrite start
+DEBUG: Step 614 end
+DEBUG: Step 615 start
+DEBUG: propose_rewrite start
+DEBUG: Step 615 end
+DEBUG: Step 616 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=41, v=84)
+DEBUG: add_causal_relation start (u=34, v=84)
+DEBUG: add_causal_relation start (u=43, v=84)
+DEBUG: add_causal_relation start (u=63, v=84)
+DEBUG: add_causal_relation start (u=31, v=84)
+DEBUG: add_causal_relation start (u=35, v=84)
+DEBUG: add_causal_relation start (u=5, v=84)
+DEBUG: add_causal_relation start (u=55, v=84)
+DEBUG: add_causal_relation start (u=0, v=84)
+DEBUG: add_causal_relation start (u=25, v=84)
+DEBUG: add_causal_relation start (u=29, v=84)
+DEBUG: add_causal_relation start (u=1, v=84)
+DEBUG: add_causal_relation start (u=10, v=84)
+DEBUG: add_causal_relation start (u=59, v=84)
+DEBUG: add_causal_relation start (u=3, v=84)
+DEBUG: add_causal_relation start (u=11, v=84)
+DEBUG: add_causal_relation start (u=5, v=84)
+DEBUG: add_causal_relation start (u=68, v=84)
+DEBUG: add_causal_relation start (u=6, v=84)
+DEBUG: add_causal_relation start (u=0, v=84)
+DEBUG: add_causal_relation start (u=30, v=84)
+DEBUG: add_causal_relation start (u=58, v=84)
+DEBUG: add_causal_relation start (u=14, v=84)
+DEBUG: add_causal_relation start (u=31, v=84)
+DEBUG: add_causal_relation start (u=49, v=84)
+DEBUG: add_causal_relation start (u=53, v=84)
+DEBUG: add_causal_relation start (u=20, v=84)
+DEBUG: add_causal_relation start (u=29, v=84)
+DEBUG: add_causal_relation start (u=9, v=84)
+DEBUG: add_causal_relation start (u=63, v=84)
+DEBUG: add_causal_relation start (u=34, v=84)
+DEBUG: add_causal_relation start (u=25, v=84)
+DEBUG: add_causal_relation start (u=3, v=84)
+DEBUG: add_causal_relation start (u=2, v=84)
+DEBUG: add_causal_relation start (u=12, v=84)
+DEBUG: add_causal_relation start (u=1, v=84)
+DEBUG: add_causal_relation start (u=4, v=84)
+DEBUG: add_causal_relation start (u=31, v=84)
+DEBUG: add_causal_relation start (u=58, v=84)
+DEBUG: add_causal_relation start (u=6, v=84)
+DEBUG: add_causal_relation start (u=19, v=84)
+DEBUG: add_causal_relation start (u=32, v=84)
+DEBUG: add_causal_relation start (u=49, v=84)
+DEBUG: add_causal_relation start (u=0, v=84)
+DEBUG: Step 616 end
+DEBUG: Step 617 start
+DEBUG: propose_rewrite start
+DEBUG: Step 617 end
+DEBUG: Step 618 start
+DEBUG: propose_rewrite start
+DEBUG: Step 618 end
+DEBUG: Step 619 start
+DEBUG: propose_rewrite start
+DEBUG: Step 619 end
+DEBUG: Step 620 start
+DEBUG: propose_rewrite start
+DEBUG: Step 620 end
+DEBUG: Step 621 start
+DEBUG: propose_rewrite start
+DEBUG: Step 621 end
+DEBUG: Step 622 start
+DEBUG: propose_rewrite start
+DEBUG: Step 622 end
+DEBUG: Step 623 start
+DEBUG: propose_rewrite start
+DEBUG: Step 623 end
+DEBUG: Step 624 start
+DEBUG: propose_rewrite start
+DEBUG: Step 624 end
+DEBUG: Step 625 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=85)
+DEBUG: add_causal_relation start (u=17, v=85)
+DEBUG: add_causal_relation start (u=25, v=85)
+DEBUG: add_causal_relation start (u=29, v=85)
+DEBUG: add_causal_relation start (u=30, v=85)
+DEBUG: add_causal_relation start (u=56, v=85)
+DEBUG: add_causal_relation start (u=81, v=85)
+DEBUG: add_causal_relation start (u=53, v=85)
+DEBUG: add_causal_relation start (u=23, v=85)
+DEBUG: add_causal_relation start (u=9, v=85)
+DEBUG: add_causal_relation start (u=16, v=85)
+DEBUG: add_causal_relation start (u=10, v=85)
+DEBUG: add_causal_relation start (u=12, v=85)
+DEBUG: add_causal_relation start (u=68, v=85)
+DEBUG: add_causal_relation start (u=1, v=85)
+DEBUG: add_causal_relation start (u=14, v=85)
+DEBUG: add_causal_relation start (u=12, v=85)
+DEBUG: add_causal_relation start (u=30, v=85)
+DEBUG: add_causal_relation start (u=25, v=85)
+DEBUG: add_causal_relation start (u=4, v=85)
+DEBUG: add_causal_relation start (u=28, v=85)
+DEBUG: add_causal_relation start (u=37, v=85)
+DEBUG: add_causal_relation start (u=49, v=85)
+DEBUG: add_causal_relation start (u=10, v=85)
+DEBUG: add_causal_relation start (u=17, v=85)
+DEBUG: add_causal_relation start (u=55, v=85)
+DEBUG: add_causal_relation start (u=52, v=85)
+DEBUG: add_causal_relation start (u=35, v=85)
+DEBUG: add_causal_relation start (u=12, v=85)
+DEBUG: add_causal_relation start (u=5, v=85)
+DEBUG: add_causal_relation start (u=1, v=85)
+DEBUG: add_causal_relation start (u=30, v=85)
+DEBUG: add_causal_relation start (u=0, v=85)
+DEBUG: add_causal_relation start (u=48, v=85)
+DEBUG: add_causal_relation start (u=68, v=85)
+DEBUG: add_causal_relation start (u=10, v=85)
+DEBUG: add_causal_relation start (u=31, v=85)
+DEBUG: add_causal_relation start (u=2, v=85)
+DEBUG: add_causal_relation start (u=37, v=85)
+DEBUG: add_causal_relation start (u=10, v=85)
+DEBUG: add_causal_relation start (u=4, v=85)
+DEBUG: add_causal_relation start (u=58, v=85)
+DEBUG: add_causal_relation start (u=3, v=85)
+DEBUG: add_causal_relation start (u=12, v=85)
+DEBUG: add_causal_relation start (u=28, v=85)
+DEBUG: add_causal_relation start (u=37, v=85)
+DEBUG: add_causal_relation start (u=68, v=85)
+DEBUG: add_causal_relation start (u=1, v=85)
+DEBUG: add_causal_relation start (u=7, v=85)
+DEBUG: add_causal_relation start (u=5, v=85)
+DEBUG: add_causal_relation start (u=56, v=85)
+DEBUG: add_causal_relation start (u=25, v=85)
+DEBUG: add_causal_relation start (u=30, v=85)
+DEBUG: add_causal_relation start (u=49, v=85)
+DEBUG: add_causal_relation start (u=35, v=85)
+DEBUG: add_causal_relation start (u=29, v=85)
+DEBUG: add_causal_relation start (u=25, v=85)
+DEBUG: add_causal_relation start (u=81, v=85)
+DEBUG: add_causal_relation start (u=29, v=85)
+DEBUG: add_causal_relation start (u=49, v=85)
+DEBUG: add_causal_relation start (u=35, v=85)
+DEBUG: add_causal_relation start (u=4, v=85)
+DEBUG: add_causal_relation start (u=0, v=85)
+DEBUG: add_causal_relation start (u=55, v=85)
+DEBUG: add_causal_relation start (u=28, v=85)
+DEBUG: add_causal_relation start (u=10, v=85)
+DEBUG: add_causal_relation start (u=30, v=85)
+DEBUG: add_causal_relation start (u=5, v=85)
+DEBUG: add_causal_relation start (u=56, v=85)
+DEBUG: Step 625 end
+DEBUG: Step 626 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=77, v=1)
+DEBUG: add_causal_relation start (u=41, v=86)
+DEBUG: add_causal_relation start (u=34, v=86)
+DEBUG: add_causal_relation start (u=44, v=86)
+DEBUG: add_causal_relation start (u=0, v=86)
+DEBUG: add_causal_relation start (u=10, v=86)
+DEBUG: add_causal_relation start (u=16, v=86)
+DEBUG: add_causal_relation start (u=6, v=86)
+DEBUG: add_causal_relation start (u=29, v=86)
+DEBUG: add_causal_relation start (u=37, v=86)
+DEBUG: add_causal_relation start (u=23, v=86)
+DEBUG: add_causal_relation start (u=52, v=86)
+DEBUG: add_causal_relation start (u=68, v=86)
+DEBUG: add_causal_relation start (u=25, v=86)
+DEBUG: add_causal_relation start (u=14, v=86)
+DEBUG: add_causal_relation start (u=53, v=86)
+DEBUG: add_causal_relation start (u=12, v=86)
+DEBUG: add_causal_relation start (u=19, v=86)
+DEBUG: add_causal_relation start (u=16, v=86)
+DEBUG: add_causal_relation start (u=41, v=86)
+DEBUG: add_causal_relation start (u=10, v=86)
+DEBUG: add_causal_relation start (u=34, v=86)
+DEBUG: add_causal_relation start (u=49, v=86)
+DEBUG: add_causal_relation start (u=0, v=86)
+DEBUG: add_causal_relation start (u=55, v=86)
+DEBUG: add_causal_relation start (u=57, v=86)
+DEBUG: add_causal_relation start (u=58, v=86)
+DEBUG: add_causal_relation start (u=9, v=86)
+DEBUG: add_causal_relation start (u=11, v=86)
+DEBUG: add_causal_relation start (u=3, v=86)
+DEBUG: add_causal_relation start (u=25, v=86)
+DEBUG: add_causal_relation start (u=30, v=86)
+DEBUG: add_causal_relation start (u=7, v=86)
+DEBUG: add_causal_relation start (u=32, v=86)
+DEBUG: add_causal_relation start (u=44, v=86)
+DEBUG: add_causal_relation start (u=58, v=86)
+DEBUG: add_causal_relation start (u=59, v=86)
+DEBUG: add_causal_relation start (u=68, v=86)
+DEBUG: add_causal_relation start (u=3, v=86)
+DEBUG: add_causal_relation start (u=0, v=86)
+DEBUG: add_causal_relation start (u=4, v=86)
+DEBUG: add_causal_relation start (u=2, v=86)
+DEBUG: Step 626 end
+DEBUG: Step 627 start
+DEBUG: propose_rewrite start
+DEBUG: Step 627 end
+DEBUG: Step 628 start
+DEBUG: propose_rewrite start
+DEBUG: Step 628 end
+DEBUG: Step 629 start
+DEBUG: propose_rewrite start
+DEBUG: Step 629 end
+DEBUG: Step 630 start
+DEBUG: propose_rewrite start
+DEBUG: Step 630 end
+DEBUG: Step 631 start
+DEBUG: propose_rewrite start
+DEBUG: Step 631 end
+DEBUG: Step 632 start
+DEBUG: propose_rewrite start
+DEBUG: Step 632 end
+DEBUG: Step 633 start
+DEBUG: propose_rewrite start
+DEBUG: Step 633 end
+DEBUG: Step 634 start
+DEBUG: propose_rewrite start
+DEBUG: Step 634 end
+DEBUG: Step 635 start
+DEBUG: propose_rewrite start
+DEBUG: Step 635 end
+DEBUG: Step 636 start
+DEBUG: propose_rewrite start
+DEBUG: Step 636 end
+DEBUG: Step 637 start
+DEBUG: propose_rewrite start
+DEBUG: Step 637 end
+DEBUG: Step 638 start
+DEBUG: propose_rewrite start
+DEBUG: Step 638 end
+DEBUG: Step 639 start
+DEBUG: propose_rewrite start
+DEBUG: Step 639 end
+DEBUG: Step 640 start
+DEBUG: propose_rewrite start
+DEBUG: Step 640 end
+DEBUG: Step 641 start
+DEBUG: propose_rewrite start
+DEBUG: Step 641 end
+DEBUG: Step 642 start
+DEBUG: propose_rewrite start
+DEBUG: Step 642 end
+DEBUG: Step 643 start
+DEBUG: propose_rewrite start
+DEBUG: Step 643 end
+DEBUG: Step 644 start
+DEBUG: propose_rewrite start
+DEBUG: Step 644 end
+DEBUG: Step 645 start
+DEBUG: propose_rewrite start
+DEBUG: Step 645 end
+DEBUG: Step 646 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=16, v=87)
+DEBUG: add_causal_relation start (u=8, v=87)
+DEBUG: add_causal_relation start (u=47, v=87)
+DEBUG: add_causal_relation start (u=11, v=87)
+DEBUG: add_causal_relation start (u=24, v=87)
+DEBUG: add_causal_relation start (u=58, v=87)
+DEBUG: add_causal_relation start (u=31, v=87)
+DEBUG: add_causal_relation start (u=10, v=87)
+DEBUG: add_causal_relation start (u=3, v=87)
+DEBUG: add_causal_relation start (u=53, v=87)
+DEBUG: add_causal_relation start (u=52, v=87)
+DEBUG: add_causal_relation start (u=26, v=87)
+DEBUG: add_causal_relation start (u=35, v=87)
+DEBUG: add_causal_relation start (u=48, v=87)
+DEBUG: add_causal_relation start (u=49, v=87)
+DEBUG: add_causal_relation start (u=55, v=87)
+DEBUG: add_causal_relation start (u=2, v=87)
+DEBUG: add_causal_relation start (u=3, v=87)
+DEBUG: add_causal_relation start (u=48, v=87)
+DEBUG: add_causal_relation start (u=4, v=87)
+DEBUG: add_causal_relation start (u=10, v=87)
+DEBUG: add_causal_relation start (u=28, v=87)
+DEBUG: add_causal_relation start (u=30, v=87)
+DEBUG: add_causal_relation start (u=17, v=87)
+DEBUG: add_causal_relation start (u=55, v=87)
+DEBUG: add_causal_relation start (u=3, v=87)
+DEBUG: add_causal_relation start (u=35, v=87)
+DEBUG: add_causal_relation start (u=5, v=87)
+DEBUG: add_causal_relation start (u=29, v=87)
+DEBUG: add_causal_relation start (u=53, v=87)
+DEBUG: add_causal_relation start (u=47, v=87)
+DEBUG: add_causal_relation start (u=17, v=87)
+DEBUG: add_causal_relation start (u=25, v=87)
+DEBUG: add_causal_relation start (u=49, v=87)
+DEBUG: add_causal_relation start (u=28, v=87)
+DEBUG: add_causal_relation start (u=7, v=87)
+DEBUG: Step 646 end
+DEBUG: Step 647 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=43, v=88)
+DEBUG: add_causal_relation start (u=36, v=88)
+DEBUG: add_causal_relation start (u=2, v=88)
+DEBUG: add_causal_relation start (u=35, v=88)
+DEBUG: add_causal_relation start (u=37, v=88)
+DEBUG: add_causal_relation start (u=58, v=88)
+DEBUG: add_causal_relation start (u=59, v=88)
+DEBUG: add_causal_relation start (u=5, v=88)
+DEBUG: add_causal_relation start (u=14, v=88)
+DEBUG: add_causal_relation start (u=32, v=88)
+DEBUG: add_causal_relation start (u=0, v=88)
+DEBUG: add_causal_relation start (u=53, v=88)
+DEBUG: add_causal_relation start (u=4, v=88)
+DEBUG: add_causal_relation start (u=31, v=88)
+DEBUG: add_causal_relation start (u=29, v=88)
+DEBUG: add_causal_relation start (u=3, v=88)
+DEBUG: add_causal_relation start (u=68, v=88)
+DEBUG: add_causal_relation start (u=9, v=88)
+DEBUG: add_causal_relation start (u=68, v=88)
+DEBUG: add_causal_relation start (u=19, v=88)
+DEBUG: add_causal_relation start (u=12, v=88)
+DEBUG: add_causal_relation start (u=26, v=88)
+DEBUG: add_causal_relation start (u=33, v=88)
+DEBUG: add_causal_relation start (u=59, v=88)
+DEBUG: add_causal_relation start (u=31, v=88)
+DEBUG: add_causal_relation start (u=34, v=88)
+DEBUG: add_causal_relation start (u=5, v=88)
+DEBUG: add_causal_relation start (u=10, v=88)
+DEBUG: Step 647 end
+DEBUG: Step 648 start
+DEBUG: propose_rewrite start
+DEBUG: Step 648 end
+DEBUG: Step 649 start
+DEBUG: propose_rewrite start
+DEBUG: Step 649 end
+DEBUG: Step 650 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=20, v=89)
+DEBUG: add_causal_relation start (u=11, v=89)
+DEBUG: add_causal_relation start (u=42, v=89)
+DEBUG: add_causal_relation start (u=62, v=89)
+DEBUG: add_causal_relation start (u=31, v=89)
+DEBUG: add_causal_relation start (u=1, v=89)
+DEBUG: add_causal_relation start (u=3, v=89)
+DEBUG: add_causal_relation start (u=11, v=89)
+DEBUG: add_causal_relation start (u=30, v=89)
+DEBUG: add_causal_relation start (u=5, v=89)
+DEBUG: add_causal_relation start (u=23, v=89)
+DEBUG: add_causal_relation start (u=25, v=89)
+DEBUG: add_causal_relation start (u=0, v=89)
+DEBUG: add_causal_relation start (u=10, v=89)
+DEBUG: add_causal_relation start (u=2, v=89)
+DEBUG: add_causal_relation start (u=0, v=89)
+DEBUG: add_causal_relation start (u=13, v=89)
+DEBUG: add_causal_relation start (u=52, v=89)
+DEBUG: add_causal_relation start (u=10, v=89)
+DEBUG: add_causal_relation start (u=12, v=89)
+DEBUG: add_causal_relation start (u=30, v=89)
+DEBUG: add_causal_relation start (u=14, v=89)
+DEBUG: add_causal_relation start (u=1, v=89)
+DEBUG: add_causal_relation start (u=3, v=89)
+DEBUG: add_causal_relation start (u=28, v=89)
+DEBUG: add_causal_relation start (u=13, v=89)
+DEBUG: add_causal_relation start (u=20, v=89)
+DEBUG: add_causal_relation start (u=53, v=89)
+DEBUG: add_causal_relation start (u=37, v=89)
+DEBUG: add_causal_relation start (u=10, v=89)
+DEBUG: add_causal_relation start (u=2, v=89)
+DEBUG: add_causal_relation start (u=7, v=89)
+DEBUG: add_causal_relation start (u=6, v=89)
+DEBUG: add_causal_relation start (u=31, v=89)
+DEBUG: add_causal_relation start (u=32, v=89)
+DEBUG: add_causal_relation start (u=16, v=89)
+DEBUG: add_causal_relation start (u=52, v=89)
+DEBUG: add_causal_relation start (u=68, v=89)
+DEBUG: add_causal_relation start (u=37, v=89)
+DEBUG: add_causal_relation start (u=12, v=89)
+DEBUG: add_causal_relation start (u=32, v=89)
+DEBUG: add_causal_relation start (u=7, v=89)
+DEBUG: add_causal_relation start (u=3, v=89)
+DEBUG: add_causal_relation start (u=0, v=89)
+DEBUG: add_causal_relation start (u=49, v=89)
+DEBUG: add_causal_relation start (u=4, v=89)
+DEBUG: add_causal_relation start (u=11, v=89)
+DEBUG: add_causal_relation start (u=29, v=89)
+DEBUG: add_causal_relation start (u=52, v=89)
+DEBUG: add_causal_relation start (u=55, v=89)
+DEBUG: add_causal_relation start (u=13, v=89)
+DEBUG: add_causal_relation start (u=53, v=89)
+DEBUG: add_causal_relation start (u=31, v=89)
+DEBUG: add_causal_relation start (u=58, v=89)
+DEBUG: Step 650 end
+DEBUG: Step 651 start
+DEBUG: propose_rewrite start
+DEBUG: Step 651 end
+DEBUG: Step 652 start
+DEBUG: propose_rewrite start
+DEBUG: Step 652 end
+DEBUG: Step 653 start
+DEBUG: propose_rewrite start
+DEBUG: Step 653 end
+DEBUG: Step 654 start
+DEBUG: propose_rewrite start
+DEBUG: Step 654 end
+DEBUG: Step 655 start
+DEBUG: propose_rewrite start
+DEBUG: Step 655 end
+DEBUG: Step 656 start
+DEBUG: propose_rewrite start
+DEBUG: Step 656 end
+DEBUG: Step 657 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=4, v=90)
+DEBUG: add_causal_relation start (u=17, v=90)
+DEBUG: add_causal_relation start (u=25, v=90)
+DEBUG: add_causal_relation start (u=28, v=90)
+DEBUG: add_causal_relation start (u=31, v=90)
+DEBUG: add_causal_relation start (u=37, v=90)
+DEBUG: add_causal_relation start (u=52, v=90)
+DEBUG: add_causal_relation start (u=55, v=90)
+DEBUG: add_causal_relation start (u=60, v=90)
+DEBUG: add_causal_relation start (u=55, v=90)
+DEBUG: add_causal_relation start (u=6, v=90)
+DEBUG: add_causal_relation start (u=9, v=90)
+DEBUG: add_causal_relation start (u=29, v=90)
+DEBUG: add_causal_relation start (u=23, v=90)
+DEBUG: add_causal_relation start (u=1, v=90)
+DEBUG: add_causal_relation start (u=53, v=90)
+DEBUG: add_causal_relation start (u=31, v=90)
+DEBUG: add_causal_relation start (u=37, v=90)
+DEBUG: add_causal_relation start (u=2, v=90)
+DEBUG: add_causal_relation start (u=17, v=90)
+DEBUG: add_causal_relation start (u=28, v=90)
+DEBUG: add_causal_relation start (u=30, v=90)
+DEBUG: add_causal_relation start (u=68, v=90)
+DEBUG: add_causal_relation start (u=7, v=90)
+DEBUG: add_causal_relation start (u=16, v=90)
+DEBUG: add_causal_relation start (u=77, v=90)
+DEBUG: add_causal_relation start (u=3, v=90)
+DEBUG: add_causal_relation start (u=4, v=90)
+DEBUG: add_causal_relation start (u=49, v=90)
+DEBUG: add_causal_relation start (u=5, v=90)
+DEBUG: add_causal_relation start (u=35, v=90)
+DEBUG: add_causal_relation start (u=49, v=90)
+DEBUG: add_causal_relation start (u=14, v=90)
+DEBUG: add_causal_relation start (u=30, v=90)
+DEBUG: add_causal_relation start (u=4, v=90)
+DEBUG: add_causal_relation start (u=55, v=90)
+DEBUG: add_causal_relation start (u=2, v=90)
+DEBUG: add_causal_relation start (u=35, v=90)
+DEBUG: add_causal_relation start (u=31, v=90)
+DEBUG: add_causal_relation start (u=5, v=90)
+DEBUG: add_causal_relation start (u=1, v=90)
+DEBUG: add_causal_relation start (u=49, v=90)
+DEBUG: add_causal_relation start (u=23, v=90)
+DEBUG: add_causal_relation start (u=48, v=90)
+DEBUG: add_causal_relation start (u=3, v=90)
+DEBUG: add_causal_relation start (u=4, v=90)
+DEBUG: add_causal_relation start (u=58, v=90)
+DEBUG: add_causal_relation start (u=12, v=90)
+DEBUG: add_causal_relation start (u=28, v=90)
+DEBUG: add_causal_relation start (u=53, v=90)
+DEBUG: add_causal_relation start (u=10, v=90)
+DEBUG: add_causal_relation start (u=35, v=90)
+DEBUG: add_causal_relation start (u=52, v=90)
+DEBUG: add_causal_relation start (u=4, v=90)
+DEBUG: add_causal_relation start (u=68, v=90)
+DEBUG: add_causal_relation start (u=55, v=90)
+DEBUG: add_causal_relation start (u=25, v=90)
+DEBUG: add_causal_relation start (u=31, v=90)
+DEBUG: add_causal_relation start (u=2, v=90)
+DEBUG: add_causal_relation start (u=7, v=90)
+DEBUG: add_causal_relation start (u=28, v=90)
+DEBUG: add_causal_relation start (u=1, v=90)
+DEBUG: add_causal_relation start (u=4, v=90)
+DEBUG: add_causal_relation start (u=9, v=90)
+DEBUG: add_causal_relation start (u=17, v=90)
+DEBUG: add_causal_relation start (u=25, v=90)
+DEBUG: add_causal_relation start (u=16, v=90)
+DEBUG: add_causal_relation start (u=29, v=90)
+DEBUG: add_causal_relation start (u=28, v=90)
+DEBUG: add_causal_relation start (u=29, v=90)
+DEBUG: add_causal_relation start (u=25, v=90)
+DEBUG: add_causal_relation start (u=49, v=90)
+DEBUG: add_causal_relation start (u=10, v=90)
+DEBUG: add_causal_relation start (u=9, v=90)
+DEBUG: add_causal_relation start (u=37, v=90)
+DEBUG: add_causal_relation start (u=25, v=90)
+DEBUG: add_causal_relation start (u=12, v=90)
+DEBUG: add_causal_relation start (u=68, v=90)
+DEBUG: add_causal_relation start (u=2, v=90)
+DEBUG: add_causal_relation start (u=58, v=90)
+DEBUG: add_causal_relation start (u=5, v=90)
+DEBUG: add_causal_relation start (u=23, v=90)
+DEBUG: add_causal_relation start (u=30, v=90)
+DEBUG: add_causal_relation start (u=49, v=90)
+DEBUG: add_causal_relation start (u=0, v=90)
+DEBUG: add_causal_relation start (u=37, v=90)
+DEBUG: add_causal_relation start (u=3, v=90)
+DEBUG: add_causal_relation start (u=49, v=90)
+DEBUG: add_causal_relation start (u=53, v=90)
+DEBUG: add_causal_relation start (u=12, v=90)
+DEBUG: add_causal_relation start (u=16, v=90)
+DEBUG: add_causal_relation start (u=30, v=90)
+DEBUG: add_causal_relation start (u=17, v=90)
+DEBUG: add_causal_relation start (u=12, v=90)
+DEBUG: add_causal_relation start (u=48, v=90)
+DEBUG: add_causal_relation start (u=58, v=90)
+DEBUG: add_causal_relation start (u=25, v=90)
+DEBUG: add_causal_relation start (u=60, v=90)
+DEBUG: add_causal_relation start (u=68, v=90)
+DEBUG: add_causal_relation start (u=0, v=90)
+DEBUG: Step 657 end
+DEBUG: Step 658 start
+DEBUG: propose_rewrite start
+DEBUG: Step 658 end
+DEBUG: Step 659 start
+DEBUG: propose_rewrite start
+DEBUG: Step 659 end
+DEBUG: Step 660 start
+DEBUG: propose_rewrite start
+DEBUG: Step 660 end
+DEBUG: Step 661 start
+DEBUG: propose_rewrite start
+DEBUG: Step 661 end
+DEBUG: Step 662 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=0, v=91)
+DEBUG: add_causal_relation start (u=1, v=91)
+DEBUG: add_causal_relation start (u=2, v=91)
+DEBUG: add_causal_relation start (u=5, v=91)
+DEBUG: add_causal_relation start (u=6, v=91)
+DEBUG: add_causal_relation start (u=13, v=91)
+DEBUG: add_causal_relation start (u=24, v=91)
+DEBUG: add_causal_relation start (u=46, v=91)
+DEBUG: add_causal_relation start (u=31, v=91)
+DEBUG: add_causal_relation start (u=53, v=91)
+DEBUG: add_causal_relation start (u=35, v=91)
+DEBUG: add_causal_relation start (u=26, v=91)
+DEBUG: add_causal_relation start (u=3, v=91)
+DEBUG: add_causal_relation start (u=4, v=91)
+DEBUG: add_causal_relation start (u=58, v=91)
+DEBUG: add_causal_relation start (u=68, v=91)
+DEBUG: add_causal_relation start (u=23, v=91)
+DEBUG: add_causal_relation start (u=24, v=91)
+DEBUG: add_causal_relation start (u=12, v=91)
+DEBUG: add_causal_relation start (u=33, v=91)
+DEBUG: add_causal_relation start (u=48, v=91)
+DEBUG: add_causal_relation start (u=6, v=91)
+DEBUG: add_causal_relation start (u=30, v=91)
+DEBUG: add_causal_relation start (u=2, v=91)
+DEBUG: add_causal_relation start (u=25, v=91)
+DEBUG: add_causal_relation start (u=52, v=91)
+DEBUG: add_causal_relation start (u=77, v=91)
+DEBUG: add_causal_relation start (u=33, v=91)
+DEBUG: add_causal_relation start (u=23, v=91)
+DEBUG: add_causal_relation start (u=17, v=91)
+DEBUG: add_causal_relation start (u=24, v=91)
+DEBUG: add_causal_relation start (u=77, v=91)
+DEBUG: add_causal_relation start (u=58, v=91)
+DEBUG: add_causal_relation start (u=9, v=91)
+DEBUG: add_causal_relation start (u=11, v=91)
+DEBUG: add_causal_relation start (u=14, v=91)
+DEBUG: add_causal_relation start (u=48, v=91)
+DEBUG: add_causal_relation start (u=68, v=91)
+DEBUG: add_causal_relation start (u=11, v=91)
+DEBUG: add_causal_relation start (u=35, v=91)
+DEBUG: add_causal_relation start (u=20, v=91)
+DEBUG: add_causal_relation start (u=3, v=91)
+DEBUG: add_causal_relation start (u=24, v=91)
+DEBUG: add_causal_relation start (u=12, v=91)
+DEBUG: add_causal_relation start (u=48, v=91)
+DEBUG: add_causal_relation start (u=16, v=91)
+DEBUG: add_causal_relation start (u=20, v=91)
+DEBUG: add_causal_relation start (u=24, v=91)
+DEBUG: add_causal_relation start (u=31, v=91)
+DEBUG: add_causal_relation start (u=12, v=91)
+DEBUG: add_causal_relation start (u=49, v=91)
+DEBUG: add_causal_relation start (u=28, v=91)
+DEBUG: add_causal_relation start (u=33, v=91)
+DEBUG: add_causal_relation start (u=77, v=91)
+DEBUG: add_causal_relation start (u=68, v=91)
+DEBUG: add_causal_relation start (u=10, v=91)
+DEBUG: add_causal_relation start (u=20, v=91)
+DEBUG: add_causal_relation start (u=55, v=91)
+DEBUG: add_causal_relation start (u=31, v=91)
+DEBUG: add_causal_relation start (u=30, v=91)
+DEBUG: add_causal_relation start (u=9, v=91)
+DEBUG: add_causal_relation start (u=5, v=91)
+DEBUG: add_causal_relation start (u=35, v=91)
+DEBUG: add_causal_relation start (u=11, v=91)
+DEBUG: add_causal_relation start (u=4, v=91)
+DEBUG: add_causal_relation start (u=23, v=91)
+DEBUG: add_causal_relation start (u=7, v=91)
+DEBUG: add_causal_relation start (u=12, v=91)
+DEBUG: add_causal_relation start (u=17, v=91)
+DEBUG: add_causal_relation start (u=1, v=91)
+DEBUG: add_causal_relation start (u=53, v=91)
+DEBUG: add_causal_relation start (u=5, v=91)
+DEBUG: add_causal_relation start (u=35, v=91)
+DEBUG: add_causal_relation start (u=4, v=91)
+DEBUG: add_causal_relation start (u=3, v=91)
+DEBUG: add_causal_relation start (u=58, v=91)
+DEBUG: add_causal_relation start (u=20, v=91)
+DEBUG: add_causal_relation start (u=30, v=91)
+DEBUG: add_causal_relation start (u=68, v=91)
+DEBUG: add_causal_relation start (u=68, v=91)
+DEBUG: add_causal_relation start (u=23, v=91)
+DEBUG: add_causal_relation start (u=55, v=91)
+DEBUG: add_causal_relation start (u=0, v=91)
+DEBUG: add_causal_relation start (u=16, v=91)
+DEBUG: add_causal_relation start (u=7, v=91)
+DEBUG: add_causal_relation start (u=4, v=91)
+DEBUG: add_causal_relation start (u=29, v=91)
+DEBUG: add_causal_relation start (u=58, v=91)
+DEBUG: add_causal_relation start (u=17, v=91)
+DEBUG: Step 662 end
+DEBUG: Step 663 start
+DEBUG: propose_rewrite start
+DEBUG: Step 663 end
+DEBUG: Step 664 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=56, v=18)
+DEBUG: add_causal_relation start (u=20, v=92)
+DEBUG: add_causal_relation start (u=11, v=92)
+DEBUG: add_causal_relation start (u=42, v=92)
+DEBUG: add_causal_relation start (u=73, v=92)
+DEBUG: add_causal_relation start (u=74, v=92)
+DEBUG: add_causal_relation start (u=76, v=92)
+DEBUG: add_causal_relation start (u=78, v=92)
+DEBUG: add_causal_relation start (u=83, v=92)
+DEBUG: add_causal_relation start (u=17, v=92)
+DEBUG: add_causal_relation start (u=11, v=92)
+DEBUG: add_causal_relation start (u=12, v=92)
+DEBUG: add_causal_relation start (u=23, v=92)
+DEBUG: add_causal_relation start (u=31, v=92)
+DEBUG: add_causal_relation start (u=4, v=92)
+DEBUG: add_causal_relation start (u=6, v=92)
+DEBUG: add_causal_relation start (u=2, v=92)
+DEBUG: add_causal_relation start (u=28, v=92)
+DEBUG: add_causal_relation start (u=35, v=92)
+DEBUG: add_causal_relation start (u=0, v=92)
+DEBUG: add_causal_relation start (u=58, v=92)
+DEBUG: add_causal_relation start (u=52, v=92)
+DEBUG: add_causal_relation start (u=3, v=92)
+DEBUG: add_causal_relation start (u=17, v=92)
+DEBUG: add_causal_relation start (u=13, v=92)
+DEBUG: add_causal_relation start (u=68, v=92)
+DEBUG: add_causal_relation start (u=9, v=92)
+DEBUG: add_causal_relation start (u=20, v=92)
+DEBUG: add_causal_relation start (u=23, v=92)
+DEBUG: add_causal_relation start (u=55, v=92)
+DEBUG: add_causal_relation start (u=2, v=92)
+DEBUG: add_causal_relation start (u=9, v=92)
+DEBUG: add_causal_relation start (u=28, v=92)
+DEBUG: add_causal_relation start (u=25, v=92)
+DEBUG: add_causal_relation start (u=52, v=92)
+DEBUG: add_causal_relation start (u=49, v=92)
+DEBUG: add_causal_relation start (u=32, v=92)
+DEBUG: add_causal_relation start (u=25, v=92)
+DEBUG: add_causal_relation start (u=68, v=92)
+DEBUG: add_causal_relation start (u=7, v=92)
+DEBUG: add_causal_relation start (u=3, v=92)
+DEBUG: add_causal_relation start (u=29, v=92)
+DEBUG: add_causal_relation start (u=73, v=92)
+DEBUG: add_causal_relation start (u=14, v=92)
+DEBUG: add_causal_relation start (u=20, v=92)
+DEBUG: add_causal_relation start (u=28, v=92)
+DEBUG: add_causal_relation start (u=48, v=92)
+DEBUG: add_causal_relation start (u=1, v=92)
+DEBUG: add_causal_relation start (u=2, v=92)
+DEBUG: add_causal_relation start (u=11, v=92)
+DEBUG: add_causal_relation start (u=5, v=92)
+DEBUG: add_causal_relation start (u=12, v=92)
+DEBUG: add_causal_relation start (u=52, v=92)
+DEBUG: add_causal_relation start (u=2, v=92)
+DEBUG: add_causal_relation start (u=53, v=92)
+DEBUG: add_causal_relation start (u=31, v=92)
+DEBUG: add_causal_relation start (u=14, v=92)
+DEBUG: add_causal_relation start (u=20, v=92)
+DEBUG: add_causal_relation start (u=0, v=92)
+DEBUG: add_causal_relation start (u=4, v=92)
+DEBUG: add_causal_relation start (u=17, v=92)
+DEBUG: add_causal_relation start (u=29, v=92)
+DEBUG: add_causal_relation start (u=25, v=92)
+DEBUG: add_causal_relation start (u=0, v=92)
+DEBUG: add_causal_relation start (u=2, v=92)
+DEBUG: add_causal_relation start (u=31, v=92)
+DEBUG: add_causal_relation start (u=28, v=92)
+DEBUG: add_causal_relation start (u=35, v=92)
+DEBUG: add_causal_relation start (u=73, v=92)
+DEBUG: add_causal_relation start (u=78, v=92)
+DEBUG: add_causal_relation start (u=74, v=92)
+DEBUG: add_causal_relation start (u=17, v=92)
+DEBUG: add_causal_relation start (u=7, v=92)
+DEBUG: add_causal_relation start (u=53, v=92)
+DEBUG: add_causal_relation start (u=3, v=92)
+DEBUG: add_causal_relation start (u=3, v=92)
+DEBUG: add_causal_relation start (u=76, v=92)
+DEBUG: add_causal_relation start (u=2, v=92)
+DEBUG: add_causal_relation start (u=31, v=92)
+DEBUG: add_causal_relation start (u=73, v=92)
+DEBUG: add_causal_relation start (u=9, v=92)
+DEBUG: add_causal_relation start (u=32, v=92)
+DEBUG: add_causal_relation start (u=20, v=92)
+DEBUG: add_causal_relation start (u=0, v=92)
+DEBUG: add_causal_relation start (u=24, v=92)
+DEBUG: add_causal_relation start (u=68, v=92)
+DEBUG: Step 664 end
+DEBUG: Step 665 start
+DEBUG: propose_rewrite start
+DEBUG: edge_creation_rule start
+DEBUG: add_causal_relation start (u=20, v=93)
+DEBUG: add_causal_relation start (u=11, v=93)
+DEBUG: add_causal_relation start (u=42, v=93)
+DEBUG: add_causal_relation start (u=73, v=93)
+DEBUG: add_causal_relation start (u=74, v=93)
+DEBUG: add_causal_relation start (u=76, v=93)
+DEBUG: add_causal_relation start (u=78, v=93)
+DEBUG: add_causal_relation start (u=79, v=93)
+DEBUG: add_causal_relation start (u=80, v=93)

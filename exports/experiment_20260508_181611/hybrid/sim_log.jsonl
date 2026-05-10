@@ -1,0 +1,16 @@
+{"acc_pct":1.6,"chain_length":11,"coordination":5.388888888888889,"knots":1,"max_coh":10.0,"omega":0.8294665846136433,"pid":22072,"step_ms":6,"time":1000,"total_knots":1,"vertices":18}
+{"acc_pct":1.3,"chain_length":15,"coordination":6.357142857142857,"knots":1,"max_coh":10.0,"omega":0.852953851356107,"pid":22072,"step_ms":28,"time":2000,"total_knots":1,"vertices":28}
+{"acc_pct":1.1333333333333333,"chain_length":20,"coordination":6.555555555555555,"knots":1,"max_coh":10.0,"omega":0.8495800771420907,"pid":22072,"step_ms":39,"time":3000,"total_knots":1,"vertices":36}
+{"acc_pct":0.95,"chain_length":20,"coordination":6.675,"knots":1,"max_coh":10.0,"omega":0.8381758998851392,"pid":22072,"step_ms":36,"time":4000,"total_knots":1,"vertices":40}
+{"acc_pct":0.86,"chain_length":23,"coordination":6.777777777777778,"knots":1,"max_coh":119.5,"omega":0.8281626946038712,"pid":22072,"step_ms":43,"time":5000,"total_knots":1,"vertices":45}
+{"acc_pct":0.8166666666666665,"chain_length":26,"coordination":6.8431372549019605,"knots":1,"max_coh":10.0,"omega":0.823579198065693,"pid":22072,"step_ms":51,"time":6000,"total_knots":1,"vertices":51}
+{"acc_pct":0.7285714285714286,"chain_length":27,"coordination":6.90566037735849,"knots":1,"max_coh":10.0,"omega":0.8281906017787604,"pid":22072,"step_ms":43,"time":7000,"total_knots":1,"vertices":53}
+{"acc_pct":0.65,"chain_length":27,"coordination":6.888888888888889,"knots":1,"max_coh":10.0,"omega":0.824234569281335,"pid":22072,"step_ms":38,"time":8000,"total_knots":1,"vertices":54}
+{"acc_pct":0.6,"chain_length":27,"coordination":7.071428571428571,"knots":1,"max_coh":10.0,"omega":0.8150545125999508,"pid":22072,"step_ms":43,"time":9000,"total_knots":1,"vertices":56}
+{"acc_pct":0.84,"chain_length":33,"coordination":6.965116279069767,"knots":2,"max_coh":15.928571428571429,"omega":0.80268927208353,"pid":22072,"step_ms":400,"time":10000,"total_knots":2,"vertices":86}
+{"acc_pct":1.6454545454545455,"chain_length":42,"coordination":7.218579234972678,"knots":8,"max_coh":3.216417910447761,"omega":0.7930154025380748,"pid":22072,"step_ms":4073,"time":11000,"total_knots":8,"vertices":183}
+{"acc_pct":2.1,"chain_length":51,"coordination":7.055555555555555,"knots":17,"max_coh":3.4,"omega":0.7944487591036172,"pid":22072,"step_ms":8238,"time":12000,"total_knots":17,"vertices":252}
+{"acc_pct":2.9615384615384617,"chain_length":55,"coordination":5.205804749340369,"knots":14,"max_coh":10.0,"omega":0.7886560798695339,"pid":22072,"step_ms":5101,"time":13000,"total_knots":14,"vertices":379}
+{"acc_pct":3.9714285714285715,"chain_length":61,"coordination":5.334545454545455,"knots":26,"max_coh":5.0,"omega":0.7738541157519101,"pid":22072,"step_ms":8136,"time":14000,"total_knots":27,"vertices":550}
+{"acc_pct":4.766666666666667,"chain_length":66,"coordination":5.574047954866009,"knots":37,"max_coh":5.0,"omega":0.776198716494047,"pid":22072,"step_ms":14018,"time":15000,"total_knots":38,"vertices":709}
+{"acc_pct":5.4125,"chain_length":69,"coordination":5.631395348837209,"knots":40,"max_coh":13.0,"omega":0.7783092589420099,"pid":22072,"step_ms":14539,"time":16000,"total_knots":41,"vertices":860}

@@ -1,0 +1,4692 @@
+[
+  {
+    "age": 24580,
+    "coherence": 1.6842105263157894,
+    "damping": 0.26353625745034476,
+    "knot_id": 682,
+    "memory": 24580.0,
+    "stability": 40.006929631038155,
+    "suppression": 0.000011862774393122802,
+    "survived": true
+  },
+  {
+    "age": 16860,
+    "coherence": 1.5384615384615385,
+    "damping": 0.25495539602658646,
+    "knot_id": 790,
+    "memory": 16860.0,
+    "stability": 40.999999999991005,
+    "suppression": 0.000012759547166058538,
+    "survived": true
+  },
+  {
+    "age": 65670,
+    "coherence": 2.076388888888889,
+    "damping": 0.19402176291494677,
+    "knot_id": 189,
+    "memory": 65670.0,
+    "stability": 49.193548387096776,
+    "suppression": 9.750476089596496e-6,
+    "survived": true
+  },
+  {
+    "age": 1200,
+    "coherence": 1.5833333333333333,
+    "damping": 0.2741001980954039,
+    "knot_id": 987,
+    "memory": 1200.0,
+    "stability": 38.82784658884485,
+    "suppression": 0.000012476462775262095,
+    "survived": true
+  },
+  {
+    "age": 4060,
+    "coherence": 1.5070422535211268,
+    "damping": 0.2743662989668777,
+    "knot_id": 951,
+    "memory": 4060.0,
+    "stability": 38.79873623547467,
+    "suppression": 0.000012961577850065381,
+    "survived": true
+  },
+  {
+    "age": 37130,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 513,
+    "memory": 37130.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 73640,
+    "coherence": 1.2235915492957747,
+    "damping": 0.2573946517373612,
+    "knot_id": 83,
+    "memory": 73640.0,
+    "stability": 40.7143428617132,
+    "suppression": 0.000014935109498568958,
+    "survived": true
+  },
+  {
+    "age": 73240,
+    "coherence": 1.7307692307692308,
+    "damping": 0.26216218187192597,
+    "knot_id": 86,
+    "memory": 73240.0,
+    "stability": 40.163758558599504,
+    "suppression": 0.000011589806277411525,
+    "survived": true
+  },
+  {
+    "age": 66080,
+    "coherence": 1.3461538461538463,
+    "damping": 0.24069073562274126,
+    "knot_id": 184,
+    "memory": 66080.0,
+    "stability": 42.72727272735789,
+    "suppression": 0.000014047348159751464,
+    "survived": true
+  },
+  {
+    "age": 8150,
+    "coherence": 1.7169811320754718,
+    "damping": 0.2548524580208991,
+    "knot_id": 899,
+    "memory": 8150.0,
+    "stability": 41.01211491814328,
+    "suppression": 0.000011669983027491966,
+    "survived": true
+  },
+  {
+    "age": 5110,
+    "coherence": 1.6083916083916083,
+    "damping": 0.2567089988972705,
+    "knot_id": 939,
+    "memory": 5110.0,
+    "stability": 40.79436406900544,
+    "suppression": 0.000012321118653353025,
+    "survived": true
+  },
+  {
+    "age": 2210,
+    "coherence": 1.75,
+    "damping": 0.2649062465309494,
+    "knot_id": 977,
+    "memory": 2210.0,
+    "stability": 39.85137906806544,
+    "suppression": 0.00001147889989071055,
+    "survived": true
+  },
+  {
+    "age": 29840,
+    "coherence": 2.108695652173913,
+    "damping": 0.18887560283756183,
+    "knot_id": 601,
+    "memory": 29840.0,
+    "stability": 50.0,
+    "suppression": 9.594238210439914e-6,
+    "survived": true
+  },
+  {
+    "age": 9330,
+    "coherence": 1.5148514851485149,
+    "damping": 0.18887560283756183,
+    "knot_id": 885,
+    "memory": 9330.0,
+    "stability": 50.0,
+    "suppression": 0.000012911066546014578,
+    "survived": true
+  },
+  {
+    "age": 13180,
+    "coherence": 1.5972222222222223,
+    "damping": 0.25089618046842077,
+    "knot_id": 834,
+    "memory": 13180.0,
+    "stability": 41.481481471439785,
+    "suppression": 0.000012390120818107133,
+    "survived": true
+  },
+  {
+    "age": 19190,
+    "coherence": 1.5379746835443038,
+    "damping": 0.2452676037662657,
+    "knot_id": 758,
+    "memory": 19190.0,
+    "stability": 42.162162127475256,
+    "suppression": 0.000012762653568274735,
+    "survived": true
+  },
+  {
+    "age": 10150,
+    "coherence": 1.4838709677419355,
+    "damping": 0.2569241538222554,
+    "knot_id": 874,
+    "memory": 10150.0,
+    "stability": 40.76923076873891,
+    "suppression": 0.000013112619329156272,
+    "survived": true
+  },
+  {
+    "age": 32940,
+    "coherence": 2.0,
+    "damping": 0.26359713811572827,
+    "knot_id": 566,
+    "memory": 32940.0,
+    "stability": 39.99999999999983,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 2870,
+    "coherence": 1.5333333333333334,
+    "damping": 0.2513404395656861,
+    "knot_id": 968,
+    "memory": 2870.0,
+    "stability": 41.42840777723901,
+    "suppression": 0.00001279230593413641,
+    "survived": true
+  },
+  {
+    "age": 1780,
+    "coherence": 1.6923076923076923,
+    "damping": 0.2583591469476245,
+    "knot_id": 981,
+    "memory": 1780.0,
+    "stability": 40.60213858862139,
+    "suppression": 0.000011814844056871072,
+    "survived": true
+  },
+  {
+    "age": 10780,
+    "coherence": 1.7674418604651163,
+    "damping": 0.2578041898976116,
+    "knot_id": 865,
+    "memory": 10780.0,
+    "stability": 40.66664808291153,
+    "suppression": 0.00001137922845115776,
+    "survived": true
+  },
+  {
+    "age": 23730,
+    "coherence": 1.7647058823529411,
+    "damping": 0.2558185868702791,
+    "knot_id": 688,
+    "memory": 23730.0,
+    "stability": 40.89860192244381,
+    "suppression": 0.000011394805763512795,
+    "survived": true
+  },
+  {
+    "age": 70010,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 120,
+    "memory": 70010.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 26180,
+    "coherence": 1.6363636363636365,
+    "damping": 0.24935220877729738,
+    "knot_id": 655,
+    "memory": 26180.0,
+    "stability": 41.66666666666652,
+    "suppression": 0.000012149994775451288,
+    "survived": true
+  },
+  {
+    "age": 32610,
+    "coherence": 1.4656964656964657,
+    "damping": 0.1949678443236038,
+    "knot_id": 573,
+    "memory": 32610.0,
+    "stability": 49.04761904761905,
+    "suppression": 0.000013232320044067226,
+    "survived": true
+  },
+  {
+    "age": 27450,
+    "coherence": 1.4342105263157894,
+    "damping": 0.1934933609775041,
+    "knot_id": 637,
+    "memory": 27450.0,
+    "stability": 49.27536231884058,
+    "suppression": 0.000013442284452647862,
+    "survived": true
+  },
+  {
+    "age": 16900,
+    "coherence": 1.9265734265734267,
+    "damping": 0.1922543257474158,
+    "knot_id": 789,
+    "memory": 16900.0,
+    "stability": 49.46808510638298,
+    "suppression": 0.000010508913950496506,
+    "survived": true
+  },
+  {
+    "age": 63310,
+    "coherence": 0.9299191374663073,
+    "damping": 0.19865976995847076,
+    "knot_id": 215,
+    "memory": 63310.0,
+    "stability": 48.484848484848484,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 9370,
+    "coherence": 1.6923076923076923,
+    "damping": 0.26359713697814124,
+    "knot_id": 884,
+    "memory": 9370.0,
+    "stability": 40.00000012946865,
+    "suppression": 0.000011814844056871072,
+    "survived": true
+  },
+  {
+    "age": 13760,
+    "coherence": 1.6363636363636365,
+    "damping": 0.2396510364417378,
+    "knot_id": 821,
+    "memory": 13760.0,
+    "stability": 42.857142857147615,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 5430,
+    "coherence": 1.54,
+    "damping": 0.2635975142873749,
+    "knot_id": 938,
+    "memory": 5430.0,
+    "stability": 39.99995718792142,
+    "suppression": 0.000012749735903823159,
+    "survived": true
+  },
+  {
+    "age": 67350,
+    "coherence": 2.893617021276596,
+    "damping": 0.2592887511252559,
+    "knot_id": 166,
+    "memory": 67350.0,
+    "stability": 40.49438907234832,
+    "suppression": 6.47988036061687e-6,
+    "survived": true
+  },
+  {
+    "age": 2860,
+    "coherence": 2.4,
+    "damping": 0.3097926212445321,
+    "knot_id": 969,
+    "memory": 2860.0,
+    "stability": 35.15556507259005,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 9090,
+    "coherence": 1.5277777777777777,
+    "damping": 0.28810091977920194,
+    "knot_id": 889,
+    "memory": 9090.0,
+    "stability": 37.33333332982491,
+    "suppression": 0.00001282788951604793,
+    "survived": true
+  },
+  {
+    "age": 50600,
+    "coherence": 2.1818181818181817,
+    "damping": 0.26359713811572827,
+    "knot_id": 358,
+    "memory": 50600.0,
+    "stability": 39.99999999999983,
+    "suppression": 9.249795720916071e-6,
+    "survived": true
+  },
+  {
+    "age": 57740,
+    "coherence": 1.8307692307692307,
+    "damping": 0.2528395958047476,
+    "knot_id": 273,
+    "memory": 57740.0,
+    "stability": 41.249999999999865,
+    "suppression": 0.000011024564755336919,
+    "survived": true
+  },
+  {
+    "age": 3160,
+    "coherence": 1.4431818181818181,
+    "damping": 0.2669227395621792,
+    "knot_id": 961,
+    "memory": 3160.0,
+    "stability": 39.62388082174971,
+    "suppression": 0.000013382122158315032,
+    "survived": true
+  },
+  {
+    "age": 19860,
+    "coherence": 2.0,
+    "damping": 0.24935220877729738,
+    "knot_id": 746,
+    "memory": 19860.0,
+    "stability": 41.66666666666652,
+    "suppression": 0.00001013009359863071,
+    "survived": true
+  },
+  {
+    "age": 5730,
+    "coherence": 1.6206896551724137,
+    "damping": 0.2563759109387984,
+    "knot_id": 933,
+    "memory": 5730.0,
+    "stability": 40.83331528338099,
+    "suppression": 0.000012245588263610825,
+    "survived": true
+  },
+  {
+    "age": 500,
+    "coherence": 1.5833333333333333,
+    "damping": 0.35993471787100806,
+    "knot_id": 995,
+    "memory": 500.0,
+    "stability": 30.65497809669391,
+    "suppression": 0.000012476462775262095,
+    "survived": true
+  },
+  {
+    "age": 51900,
+    "coherence": 0.9299191374663073,
+    "damping": 0.19865976995847076,
+    "knot_id": 338,
+    "memory": 51900.0,
+    "stability": 48.484848484848484,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 2770,
+    "coherence": 1.5714285714285714,
+    "damping": 0.2515977431554848,
+    "knot_id": 974,
+    "memory": 2770.0,
+    "stability": 41.39771172499,
+    "suppression": 0.000012550948899607185,
+    "survived": true
+  },
+  {
+    "age": 24810,
+    "coherence": 1.725,
+    "damping": 0.2578038518039415,
+    "knot_id": 677,
+    "memory": 24810.0,
+    "stability": 40.666687426014356,
+    "suppression": 0.000011623286676725638,
+    "survived": true
+  },
+  {
+    "age": 12800,
+    "coherence": 2.235294117647059,
+    "damping": 0.26359713811484065,
+    "knot_id": 841,
+    "memory": 12800.0,
+    "stability": 40.00000000010085,
+    "suppression": 9.005752133626852e-6,
+    "survived": true
+  },
+  {
+    "age": 8500,
+    "coherence": 1.6451612903225807,
+    "damping": 0.25516425127439024,
+    "knot_id": 895,
+    "memory": 8500.0,
+    "stability": 40.97543455610989,
+    "suppression": 0.000012096666427710504,
+    "survived": true
+  },
+  {
+    "age": 1840,
+    "coherence": 1.5853658536585367,
+    "damping": 0.24959716777161023,
+    "knot_id": 980,
+    "memory": 1840.0,
+    "stability": 41.63720968860336,
+    "suppression": 0.0000124637898837415,
+    "survived": true
+  },
+  {
+    "age": 70000,
+    "coherence": 2.1926605504587156,
+    "damping": 0.26463308670310853,
+    "knot_id": 125,
+    "memory": 70000.0,
+    "stability": 39.88232972667674,
+    "suppression": 9.199786550331447e-6,
+    "survived": true
+  },
+  {
+    "age": 21410,
+    "coherence": 1.8837209302325582,
+    "damping": 0.2560663110624413,
+    "knot_id": 719,
+    "memory": 21410.0,
+    "stability": 40.869565213703005,
+    "suppression": 0.000010736510107592219,
+    "survived": true
+  },
+  {
+    "age": 13340,
+    "coherence": 1.5068493150684932,
+    "damping": 0.18887560283756183,
+    "knot_id": 828,
+    "memory": 13340.0,
+    "stability": 50.0,
+    "suppression": 0.000012962828303766612,
+    "survived": true
+  },
+  {
+    "age": 5830,
+    "coherence": 1.8888888888888888,
+    "damping": 0.2465970749942932,
+    "knot_id": 931,
+    "memory": 5830.0,
+    "stability": 41.9999864897775,
+    "suppression": 0.000010708803000130588,
+    "survived": true
+  },
+  {
+    "age": 3520,
+    "coherence": 1.6111111111111112,
+    "damping": 0.25287935620505625,
+    "knot_id": 957,
+    "memory": 3520.0,
+    "stability": 41.24528270788741,
+    "suppression": 0.000012304376380754025,
+    "survived": true
+  },
+  {
+    "age": 8440,
+    "coherence": 1.5789473684210527,
+    "damping": 0.25283959595391603,
+    "knot_id": 897,
+    "memory": 8440.0,
+    "stability": 41.24999998230069,
+    "suppression": 0.000012503853461913347,
+    "survived": true
+  },
+  {
+    "age": 6100,
+    "coherence": 1.5714285714285714,
+    "damping": 0.2563758181818302,
+    "knot_id": 926,
+    "memory": 6100.0,
+    "stability": 40.833326137402096,
+    "suppression": 0.000012550948899607185,
+    "survived": true
+  },
+  {
+    "age": 17420,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 787,
+    "memory": 17420.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 7400,
+    "coherence": 1.6666666666666667,
+    "damping": 0.256372682781044,
+    "knot_id": 906,
+    "memory": 7400.0,
+    "stability": 40.8336930308144,
+    "suppression": 0.000011967291556046007,
+    "survived": true
+  },
+  {
+    "age": 10800,
+    "coherence": 1.6153846153846154,
+    "damping": 0.2493522087776174,
+    "knot_id": 864,
+    "memory": 10800.0,
+    "stability": 41.666666666628025,
+    "suppression": 0.000012278113047340515,
+    "survived": true
+  },
+  {
+    "age": 10450,
+    "coherence": 1.5975609756097562,
+    "damping": 0.25330131108615395,
+    "knot_id": 871,
+    "memory": 10450.0,
+    "stability": 41.19526637900299,
+    "suppression": 0.000012388022398124319,
+    "survived": true
+  },
+  {
+    "age": 20780,
+    "coherence": 1.8333333333333333,
+    "damping": 0.25876063034855945,
+    "knot_id": 730,
+    "memory": 20780.0,
+    "stability": 40.555555553213026,
+    "suppression": 0.000011010439754380804,
+    "survived": true
+  },
+  {
+    "age": 45230,
+    "coherence": 2.2142857142857144,
+    "damping": 0.26359713721926803,
+    "knot_id": 420,
+    "memory": 45230.0,
+    "stability": 40.00000010202601,
+    "suppression": 9.100848954015068e-6,
+    "survived": true
+  },
+  {
+    "age": 70040,
+    "coherence": 2.3636363636363638,
+    "damping": 0.19363292629241433,
+    "knot_id": 114,
+    "memory": 70040.0,
+    "stability": 49.25373134328358,
+    "suppression": 8.445995098233064e-6,
+    "survived": true
+  },
+  {
+    "age": 14540,
+    "coherence": 2.625,
+    "damping": 0.26359847687539817,
+    "knot_id": 811,
+    "memory": 14540.0,
+    "stability": 39.99984763609939,
+    "suppression": 7.411334799450557e-6,
+    "survived": true
+  },
+  {
+    "age": 16030,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 796,
+    "memory": 16030.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 3050,
+    "coherence": 1.54,
+    "damping": 0.2529656740684137,
+    "knot_id": 964,
+    "memory": 3050.0,
+    "stability": 41.235044252349134,
+    "suppression": 0.000012749735903823159,
+    "survived": true
+  },
+  {
+    "age": 49290,
+    "coherence": 1.9598262757871878,
+    "damping": 0.25890745005593985,
+    "knot_id": 374,
+    "memory": 49290.0,
+    "stability": 40.53853850500688,
+    "suppression": 0.000010335632799765369,
+    "survived": true
+  },
+  {
+    "age": 26590,
+    "coherence": 1.564102564102564,
+    "damping": 0.25263795353687746,
+    "knot_id": 649,
+    "memory": 26590.0,
+    "stability": 41.27393486462387,
+    "suppression": 0.000012597007376085153,
+    "survived": true
+  },
+  {
+    "age": 5580,
+    "coherence": 1.6875,
+    "damping": 0.2635973953142142,
+    "knot_id": 935,
+    "memory": 5580.0,
+    "stability": 39.99997072824495,
+    "suppression": 0.00001184327928758278,
+    "survived": true
+  },
+  {
+    "age": 38510,
+    "coherence": 2.3636363636363638,
+    "damping": 0.19363292629241433,
+    "knot_id": 497,
+    "memory": 38510.0,
+    "stability": 49.25373134328358,
+    "suppression": 8.445995098233064e-6,
+    "survived": true
+  },
+  {
+    "age": 3830,
+    "coherence": 1.7195121951219512,
+    "damping": 0.2907847502553461,
+    "knot_id": 955,
+    "memory": 3830.0,
+    "stability": 37.05515926080986,
+    "suppression": 0.000011655223637301626,
+    "survived": true
+  },
+  {
+    "age": 90,
+    "coherence": 1.5209302325581395,
+    "damping": 0.7191141276807614,
+    "knot_id": 1001,
+    "memory": 90.0,
+    "stability": 9.892056081897575,
+    "suppression": 0.04763122147850245,
+    "survived": true
+  },
+  {
+    "age": 76330,
+    "coherence": 2.84,
+    "damping": 0.2587606303283556,
+    "knot_id": 61,
+    "memory": 76330.0,
+    "stability": 40.5555555555554,
+    "suppression": 6.6559457834091735e-6,
+    "survived": true
+  },
+  {
+    "age": 79630,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 38,
+    "memory": 79630.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 17710,
+    "coherence": 1.8235294117647058,
+    "damping": 0.2528395958037594,
+    "knot_id": 782,
+    "memory": 17710.0,
+    "stability": 41.25000000011712,
+    "suppression": 0.000011064545000830785,
+    "survived": true
+  },
+  {
+    "age": 35160,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 539,
+    "memory": 35160.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 9580,
+    "coherence": 1.6818181818181819,
+    "damping": 0.24809602903669278,
+    "knot_id": 879,
+    "memory": 9580.0,
+    "stability": 41.81818181722385,
+    "suppression": 0.000011876972804825746,
+    "survived": true
+  },
+  {
+    "age": 16090,
+    "coherence": 2.108695652173913,
+    "damping": 0.18887560283756183,
+    "knot_id": 795,
+    "memory": 16090.0,
+    "stability": 50.0,
+    "suppression": 9.594238210439914e-6,
+    "survived": true
+  },
+  {
+    "age": 3490,
+    "coherence": 1.6153846153846154,
+    "damping": 0.23968422825396035,
+    "knot_id": 959,
+    "memory": 3490.0,
+    "stability": 42.852988126871715,
+    "suppression": 0.000012278113047340515,
+    "survived": true
+  },
+  {
+    "age": 17180,
+    "coherence": 1.4342105263157894,
+    "damping": 0.1934933609775041,
+    "knot_id": 788,
+    "memory": 17180.0,
+    "stability": 49.27536231884058,
+    "suppression": 0.000013442284452647862,
+    "survived": true
+  },
+  {
+    "age": 21450,
+    "coherence": 2.3333333333333335,
+    "damping": 0.25133906849495463,
+    "knot_id": 718,
+    "memory": 21450.0,
+    "stability": 41.42857142871588,
+    "suppression": 8.574939102672282e-6,
+    "survived": true
+  },
+  {
+    "age": 21620,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 713,
+    "memory": 21620.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 6710,
+    "coherence": 1.6164383561643836,
+    "damping": 0.25692423223890476,
+    "knot_id": 916,
+    "memory": 6710.0,
+    "stability": 40.76922161234358,
+    "suppression": 0.000012271645776988438,
+    "survived": true
+  },
+  {
+    "age": 11030,
+    "coherence": 1.5454545454545454,
+    "damping": 0.2490338249181295,
+    "knot_id": 862,
+    "memory": 11030.0,
+    "stability": 41.704996460956906,
+    "suppression": 0.000012715011270109494,
+    "survived": true
+  },
+  {
+    "age": 59910,
+    "coherence": 2.2857142857142856,
+    "damping": 0.26360092537264807,
+    "knot_id": 254,
+    "memory": 59910.0,
+    "stability": 39.999568975246646,
+    "suppression": 8.781554263053754e-6,
+    "survived": true
+  },
+  {
+    "age": 20510,
+    "coherence": 2.4285714285714284,
+    "damping": 0.2655339146231686,
+    "knot_id": 735,
+    "memory": 20510.0,
+    "stability": 39.780381232931056,
+    "suppression": 8.176178322280527e-6,
+    "survived": true
+  },
+  {
+    "age": 14360,
+    "coherence": 1.826086956521739,
+    "damping": 0.25589759017267044,
+    "knot_id": 814,
+    "memory": 14360.0,
+    "stability": 40.88933858781848,
+    "suppression": 0.000011050405009145156,
+    "survived": true
+  },
+  {
+    "age": 1450,
+    "coherence": 1.6,
+    "damping": 0.28143608100544487,
+    "knot_id": 984,
+    "memory": 1450.0,
+    "stability": 38.03549768657188,
+    "suppression": 0.000012372924261788221,
+    "survived": true
+  },
+  {
+    "age": 4760,
+    "coherence": 1.734375,
+    "damping": 0.2554646743166273,
+    "knot_id": 944,
+    "memory": 4760.0,
+    "stability": 40.94013419666952,
+    "suppression": 0.000011568930018376477,
+    "survived": true
+  },
+  {
+    "age": 12890,
+    "coherence": 1.5084745762711864,
+    "damping": 0.19402176291494677,
+    "knot_id": 839,
+    "memory": 12890.0,
+    "stability": 49.193548387096776,
+    "suppression": 0.000012952298591769519,
+    "survived": true
+  },
+  {
+    "age": 6170,
+    "coherence": 1.8333333333333333,
+    "damping": 0.24659740170793917,
+    "knot_id": 923,
+    "memory": 6170.0,
+    "stability": 41.99994674314674,
+    "suppression": 0.000011010439754380804,
+    "survived": true
+  },
+  {
+    "age": 14960,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 806,
+    "memory": 14960.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 54050,
+    "coherence": 2.7142857142857144,
+    "damping": 0.26359713811572827,
+    "knot_id": 319,
+    "memory": 54050.0,
+    "stability": 39.99999999999983,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 20300,
+    "coherence": 1.5384615384615385,
+    "damping": 0.2635971381157279,
+    "knot_id": 738,
+    "memory": 20300.0,
+    "stability": 39.99999999999987,
+    "suppression": 0.000012759547166058538,
+    "survived": true
+  },
+  {
+    "age": 36360,
+    "coherence": 1.5769230769230769,
+    "damping": 0.2557291599131019,
+    "knot_id": 521,
+    "memory": 36360.0,
+    "stability": 40.90909090909076,
+    "suppression": 0.000012516515590919863,
+    "survived": true
+  },
+  {
+    "age": 18720,
+    "coherence": 1.5454545454545454,
+    "damping": 0.2358770829857009,
+    "knot_id": 767,
+    "memory": 18720.0,
+    "stability": 43.33333333333322,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 74840,
+    "coherence": 2.0793650793650795,
+    "damping": 0.24646054181615387,
+    "knot_id": 72,
+    "memory": 74840.0,
+    "stability": 42.01660116242111,
+    "suppression": 9.735977243066203e-6,
+    "survived": true
+  },
+  {
+    "age": 4240,
+    "coherence": 2.5714285714285716,
+    "damping": 0.26360351576293384,
+    "knot_id": 950,
+    "memory": 4240.0,
+    "stability": 39.999274168517,
+    "suppression": 7.612535316098297e-6,
+    "survived": true
+  },
+  {
+    "age": 3940,
+    "coherence": 1.6944444444444444,
+    "damping": 0.25036162381495486,
+    "knot_id": 953,
+    "memory": 3940.0,
+    "stability": 41.54546733079726,
+    "suppression": 0.000011802228100721964,
+    "survived": true
+  },
+  {
+    "age": 27210,
+    "coherence": 2.0,
+    "damping": 0.2630676431943159,
+    "knot_id": 640,
+    "memory": 27210.0,
+    "stability": 40.06032244250252,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 64040,
+    "coherence": 1.5714285714285714,
+    "damping": 0.2494050414668237,
+    "knot_id": 206,
+    "memory": 64040.0,
+    "stability": 41.66031094676093,
+    "suppression": 0.000012550948899607185,
+    "survived": true
+  },
+  {
+    "age": 42950,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 441,
+    "memory": 42950.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 17620,
+    "coherence": 1.6666666666666667,
+    "damping": 0.25133906849616605,
+    "knot_id": 784,
+    "memory": 17620.0,
+    "stability": 41.42857142857128,
+    "suppression": 0.000011967291556046007,
+    "survived": true
+  },
+  {
+    "age": 14140,
+    "coherence": 1.507936507936508,
+    "damping": 0.2465950486568884,
+    "knot_id": 819,
+    "memory": 14140.0,
+    "stability": 42.000233006780626,
+    "suppression": 0.000012955783671418029,
+    "survived": true
+  },
+  {
+    "age": 56840,
+    "coherence": 1.8831168831168832,
+    "damping": 0.18887560283756183,
+    "knot_id": 279,
+    "memory": 56840.0,
+    "stability": 50.0,
+    "suppression": 0.000010739753276305683,
+    "survived": true
+  },
+  {
+    "age": 2990,
+    "coherence": 1.6388888888888888,
+    "damping": 0.25224727547252823,
+    "knot_id": 965,
+    "memory": 2990.0,
+    "stability": 41.320362621255605,
+    "suppression": 0.000012134663553795365,
+    "survived": true
+  },
+  {
+    "age": 35600,
+    "coherence": 1.8181818181818181,
+    "damping": 0.25627706719628546,
+    "knot_id": 533,
+    "memory": 35600.0,
+    "stability": 40.84488378074121,
+    "suppression": 0.000011094168932290307,
+    "survived": true
+  },
+  {
+    "age": 62350,
+    "coherence": 2.5,
+    "damping": 0.25807282849466606,
+    "knot_id": 228,
+    "memory": 62350.0,
+    "stability": 40.63540358721671,
+    "suppression": 7.889324827200223e-6,
+    "survived": true
+  },
+  {
+    "age": 9090,
+    "coherence": 1.927710843373494,
+    "damping": 0.26598261641361765,
+    "knot_id": 890,
+    "memory": 9090.0,
+    "stability": 39.729729724934,
+    "suppression": 0.000010502939141980565,
+    "survived": true
+  },
+  {
+    "age": 7050,
+    "coherence": 1.565217391304348,
+    "damping": 0.2549554014452653,
+    "knot_id": 911,
+    "memory": 7050.0,
+    "stability": 40.999999362387854,
+    "suppression": 0.000012589987589487198,
+    "survived": true
+  },
+  {
+    "age": 2190,
+    "coherence": 1.5962962962962963,
+    "damping": 0.3608884352823813,
+    "knot_id": 978,
+    "memory": 2190.0,
+    "stability": 30.575592358564847,
+    "suppression": 0.000012395858313173937,
+    "survived": true
+  },
+  {
+    "age": 56160,
+    "coherence": 2.260869565217391,
+    "damping": 0.2573951420651095,
+    "knot_id": 292,
+    "memory": 56160.0,
+    "stability": 40.71428571282398,
+    "suppression": 8.8913222709521e-6,
+    "survived": true
+  },
+  {
+    "age": 70040,
+    "coherence": 2.4285714285714284,
+    "damping": 0.2594460885523002,
+    "knot_id": 119,
+    "memory": 70040.0,
+    "stability": 40.476190476090515,
+    "suppression": 8.176178322280527e-6,
+    "survived": true
+  },
+  {
+    "age": 310,
+    "coherence": 1.6,
+    "damping": 0.48428401061649223,
+    "knot_id": 998,
+    "memory": 310.0,
+    "stability": 21.752512367105723,
+    "suppression": 0.001601087705316818,
+    "survived": true
+  },
+  {
+    "age": 53850,
+    "coherence": 1.9166666666666667,
+    "damping": 0.26362569385503326,
+    "knot_id": 321,
+    "memory": 53850.0,
+    "stability": 39.996750246278864,
+    "suppression": 0.000010561097730537384,
+    "survived": true
+  },
+  {
+    "age": 8090,
+    "coherence": 1.5714285714285714,
+    "damping": 0.19808726381359862,
+    "knot_id": 900,
+    "memory": 8090.0,
+    "stability": 48.57142857142857,
+    "suppression": 0.000012550948899607185,
+    "survived": true
+  },
+  {
+    "age": 9520,
+    "coherence": 1.5148514851485149,
+    "damping": 0.18887560283756183,
+    "knot_id": 881,
+    "memory": 9520.0,
+    "stability": 50.0,
+    "suppression": 0.000012911066546014578,
+    "survived": true
+  },
+  {
+    "age": 2830,
+    "coherence": 1.625,
+    "damping": 0.2638690355409583,
+    "knot_id": 970,
+    "memory": 2830.0,
+    "stability": 39.969071292580225,
+    "suppression": 0.000012219225328134202,
+    "survived": true
+  },
+  {
+    "age": 4580,
+    "coherence": 1.5333333333333334,
+    "damping": 0.25959107439879586,
+    "knot_id": 946,
+    "memory": 4580.0,
+    "stability": 40.459430306228036,
+    "suppression": 0.00001279230593413641,
+    "survived": true
+  },
+  {
+    "age": 2370,
+    "coherence": 1.5555555555555556,
+    "damping": 0.2535390266474741,
+    "knot_id": 976,
+    "memory": 2370.0,
+    "stability": 41.1671254958428,
+    "suppression": 0.000012650955933531133,
+    "survived": true
+  },
+  {
+    "age": 56770,
+    "coherence": 1.6875,
+    "damping": 0.2528395958047477,
+    "knot_id": 281,
+    "memory": 56770.0,
+    "stability": 41.24999999999985,
+    "suppression": 0.00001184327928758278,
+    "survived": true
+  },
+  {
+    "age": 38500,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 498,
+    "memory": 38500.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 10630,
+    "coherence": 1.5555555555555556,
+    "damping": 0.25179595535295596,
+    "knot_id": 867,
+    "memory": 10630.0,
+    "stability": 41.37408661307833,
+    "suppression": 0.000012650955933531133,
+    "survived": true
+  },
+  {
+    "age": 13430,
+    "coherence": 1.5161290322580645,
+    "damping": 0.2465969639674648,
+    "knot_id": 827,
+    "memory": 13430.0,
+    "stability": 41.99999999685418,
+    "suppression": 0.000012902821931642205,
+    "survived": true
+  },
+  {
+    "age": 6370,
+    "coherence": 2.037037037037037,
+    "damping": 0.2612036085252445,
+    "knot_id": 920,
+    "memory": 6370.0,
+    "stability": 40.27365199483245,
+    "suppression": 9.944225584558869e-6,
+    "survived": true
+  },
+  {
+    "age": 4010,
+    "coherence": 1.6666666666666667,
+    "damping": 0.2636108387795063,
+    "knot_id": 952,
+    "memory": 4010.0,
+    "stability": 39.998440767471315,
+    "suppression": 0.000011967291556046007,
+    "survived": true
+  },
+  {
+    "age": 69890,
+    "coherence": 1.8831168831168832,
+    "damping": 0.18887560283756183,
+    "knot_id": 132,
+    "memory": 69890.0,
+    "stability": 50.0,
+    "suppression": 0.000010739753276305683,
+    "survived": true
+  },
+  {
+    "age": 10540,
+    "coherence": 1.608695652173913,
+    "damping": 0.23586150678420856,
+    "knot_id": 868,
+    "memory": 10540.0,
+    "stability": 43.335314456163,
+    "suppression": 0.000012319245715961562,
+    "survived": true
+  },
+  {
+    "age": 100,
+    "coherence": 1.631578947368421,
+    "damping": 0.6494949606843687,
+    "knot_id": 1000,
+    "memory": 100.0,
+    "stability": 12.946806049894175,
+    "suppression": 0.023928834626449746,
+    "survived": true
+  },
+  {
+    "age": 4240,
+    "coherence": 1.7777777777777777,
+    "damping": 0.2557359096849122,
+    "knot_id": 949,
+    "memory": 4240.0,
+    "stability": 40.908299092928296,
+    "suppression": 0.000011320572764609702,
+    "survived": true
+  },
+  {
+    "age": 56580,
+    "coherence": 1.0408163265306123,
+    "damping": 0.20339760045860628,
+    "knot_id": 285,
+    "memory": 56580.0,
+    "stability": 47.77777777777778,
+    "suppression": 0.00001636430428538408,
+    "survived": true
+  },
+  {
+    "age": 1150,
+    "coherence": 1.5384615384615385,
+    "damping": 0.33180429712721543,
+    "knot_id": 988,
+    "memory": 1150.0,
+    "stability": 33.09629851060835,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 74260,
+    "coherence": 1.5416666666666667,
+    "damping": 0.18887560283756183,
+    "knot_id": 78,
+    "memory": 74260.0,
+    "stability": 50.0,
+    "suppression": 0.000012739115549665462,
+    "survived": true
+  },
+  {
+    "age": 42450,
+    "coherence": 1.9,
+    "damping": 0.2513390684993971,
+    "knot_id": 447,
+    "memory": 42450.0,
+    "stability": 41.42857142818563,
+    "suppression": 0.000010649474603824258,
+    "survived": true
+  },
+  {
+    "age": 40000,
+    "coherence": 1.7692307692307692,
+    "damping": 0.24659696394171118,
+    "knot_id": 474,
+    "memory": 40000.0,
+    "stability": 41.99999999998726,
+    "suppression": 0.0000113690548010077,
+    "survived": true
+  },
+  {
+    "age": 32800,
+    "coherence": 1.6,
+    "damping": 0.2635971381157279,
+    "knot_id": 570,
+    "memory": 32800.0,
+    "stability": 39.99999999999987,
+    "suppression": 0.000012372924261788221,
+    "survived": true
+  },
+  {
+    "age": 33130,
+    "coherence": 2.3636363636363638,
+    "damping": 0.19363292629241433,
+    "knot_id": 563,
+    "memory": 33130.0,
+    "stability": 49.25373134328358,
+    "suppression": 8.445995098233064e-6,
+    "survived": true
+  },
+  {
+    "age": 14560,
+    "coherence": 1.736842105263158,
+    "damping": 0.2540412351200148,
+    "knot_id": 810,
+    "memory": 14560.0,
+    "stability": 41.10776046442841,
+    "suppression": 0.000011554667932632953,
+    "survived": true
+  },
+  {
+    "age": 49520,
+    "coherence": 1.3,
+    "damping": 0.2635971381112047,
+    "knot_id": 371,
+    "memory": 49520.0,
+    "stability": 40.00000000051465,
+    "suppression": 0.000014375287090029125,
+    "survived": true
+  },
+  {
+    "age": 70000,
+    "coherence": 1.1603053435114503,
+    "damping": 0.2608656306156896,
+    "knot_id": 123,
+    "memory": 70000.0,
+    "stability": 40.31249488364086,
+    "suppression": 0.000015415259357559586,
+    "survived": true
+  },
+  {
+    "age": 9090,
+    "coherence": 2.1666666666666665,
+    "damping": 0.2549553960557528,
+    "knot_id": 888,
+    "memory": 9090.0,
+    "stability": 40.99999999655907,
+    "suppression": 9.320136035092457e-6,
+    "survived": true
+  },
+  {
+    "age": 8820,
+    "coherence": 1.6616161616161615,
+    "damping": 0.25756537661900264,
+    "knot_id": 891,
+    "memory": 8820.0,
+    "stability": 40.694451039611046,
+    "suppression": 0.00001199755017852007,
+    "survived": true
+  },
+  {
+    "age": 7300,
+    "coherence": 1.606060606060606,
+    "damping": 0.2504200993370689,
+    "knot_id": 909,
+    "memory": 7300.0,
+    "stability": 41.538461221786925,
+    "suppression": 0.000012335487303216337,
+    "survived": true
+  },
+  {
+    "age": 2810,
+    "coherence": 2.0588235294117645,
+    "damping": 0.25489319042588643,
+    "knot_id": 972,
+    "memory": 2810.0,
+    "stability": 41.00732047936409,
+    "suppression": 9.836488555477036e-6,
+    "survived": true
+  },
+  {
+    "age": 13310,
+    "coherence": 1.8823529411764706,
+    "damping": 0.24659696394161684,
+    "knot_id": 830,
+    "memory": 13310.0,
+    "stability": 41.999999999998735,
+    "suppression": 0.00001074385633385896,
+    "survived": true
+  },
+  {
+    "age": 30850,
+    "coherence": 1.6923076923076923,
+    "damping": 0.25495539602651135,
+    "knot_id": 593,
+    "memory": 30850.0,
+    "stability": 40.999999999999844,
+    "suppression": 0.000011814844056871072,
+    "survived": true
+  },
+  {
+    "age": 46140,
+    "coherence": 1.5106382978723405,
+    "damping": 0.25133906849616605,
+    "knot_id": 408,
+    "memory": 46140.0,
+    "stability": 41.42857142857128,
+    "suppression": 0.000012938293584745755,
+    "survived": true
+  },
+  {
+    "age": 13340,
+    "coherence": 1.7826086956521738,
+    "damping": 0.2465969639416076,
+    "knot_id": 829,
+    "memory": 13340.0,
+    "stability": 41.999999999999865,
+    "suppression": 0.00001129326138398933,
+    "survived": true
+  },
+  {
+    "age": 25840,
+    "coherence": 1.91875,
+    "damping": 0.26983510046589587,
+    "knot_id": 660,
+    "memory": 25840.0,
+    "stability": 39.298327367280166,
+    "suppression": 0.000010550102314841325,
+    "survived": true
+  },
+  {
+    "age": 480,
+    "coherence": 1.5849056603773586,
+    "damping": 0.3745955964073805,
+    "knot_id": 996,
+    "memory": 480.0,
+    "stability": 29.457247334821393,
+    "suppression": 0.00001776785155270365,
+    "survived": true
+  },
+  {
+    "age": 21060,
+    "coherence": 1.5357142857142858,
+    "damping": 0.18887560283756183,
+    "knot_id": 724,
+    "memory": 21060.0,
+    "stability": 50.0,
+    "suppression": 0.000012777086059747078,
+    "survived": true
+  },
+  {
+    "age": 1600,
+    "coherence": 1.5223880597014925,
+    "damping": 0.26246477255442047,
+    "knot_id": 982,
+    "memory": 1600.0,
+    "stability": 40.12915217246221,
+    "suppression": 0.000012862505491688771,
+    "survived": true
+  },
+  {
+    "age": 7200,
+    "coherence": 1.5128205128205128,
+    "damping": 0.25283959937826084,
+    "knot_id": 910,
+    "memory": 7200.0,
+    "stability": 41.249999575994295,
+    "suppression": 0.00001292418421473285,
+    "survived": true
+  },
+  {
+    "age": 13660,
+    "coherence": 1.8387096774193548,
+    "damping": 0.25692415381738176,
+    "knot_id": 825,
+    "memory": 13660.0,
+    "stability": 40.76923076930798,
+    "suppression": 0.00001098088154462799,
+    "survived": true
+  },
+  {
+    "age": 12050,
+    "coherence": 1.6842105263157894,
+    "damping": 0.2563758388169892,
+    "knot_id": 851,
+    "memory": 12050.0,
+    "stability": 40.833323722764284,
+    "suppression": 0.000011862774393122802,
+    "survived": true
+  },
+  {
+    "age": 60480,
+    "coherence": 3.0,
+    "damping": 0.2635971381177751,
+    "knot_id": 249,
+    "memory": 60480.0,
+    "stability": 39.999999999766885,
+    "suppression": 6.14421235332821e-6,
+    "survived": true
+  },
+  {
+    "age": 22100,
+    "coherence": 1.8333333333333333,
+    "damping": 0.25283959608993034,
+    "knot_id": 708,
+    "memory": 22100.0,
+    "stability": 41.24999996616228,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 11710,
+    "coherence": 1.6428571428571428,
+    "damping": 0.2513390684962034,
+    "knot_id": 855,
+    "memory": 11710.0,
+    "stability": 41.428571428566826,
+    "suppression": 0.000012110610710233817,
+    "survived": true
+  },
+  {
+    "age": 44460,
+    "coherence": 1.9285714285714286,
+    "damping": 0.25401286329038775,
+    "knot_id": 430,
+    "memory": 44460.0,
+    "stability": 41.11111111111096,
+    "suppression": 0.000010498420777179533,
+    "survived": true
+  },
+  {
+    "age": 51310,
+    "coherence": 1.8235294117647058,
+    "damping": 0.244777068439391,
+    "knot_id": 343,
+    "memory": 51310.0,
+    "stability": 42.222222222222086,
+    "suppression": 0.000011064545000830785,
+    "survived": true
+  },
+  {
+    "age": 44300,
+    "coherence": 1.6153846153846154,
+    "damping": 0.29457482831010867,
+    "knot_id": 432,
+    "memory": 44300.0,
+    "stability": 36.666666666666536,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 31920,
+    "coherence": 2.5714285714285716,
+    "damping": 0.23587708298571228,
+    "knot_id": 579,
+    "memory": 31920.0,
+    "stability": 43.33333333333177,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 49620,
+    "coherence": 2.3636363636363638,
+    "damping": 0.19363292629241433,
+    "knot_id": 369,
+    "memory": 49620.0,
+    "stability": 49.25373134328358,
+    "suppression": 8.445995098233064e-6,
+    "survived": true
+  },
+  {
+    "age": 730,
+    "coherence": 1.7083333333333333,
+    "damping": 0.30887538174989543,
+    "knot_id": 992,
+    "memory": 730.0,
+    "stability": 35.24452136212793,
+    "suppression": 0.000011720552108787284,
+    "survived": true
+  },
+  {
+    "age": 6550,
+    "coherence": 1.5844155844155845,
+    "damping": 0.2764798064943237,
+    "knot_id": 918,
+    "memory": 6550.0,
+    "stability": 38.5685247977104,
+    "suppression": 0.000012469713268921325,
+    "survived": true
+  },
+  {
+    "age": 18680,
+    "coherence": 1.9265734265734267,
+    "damping": 0.1922543257474158,
+    "knot_id": 768,
+    "memory": 18680.0,
+    "stability": 49.46808510638298,
+    "suppression": 0.000010508913950496506,
+    "survived": true
+  },
+  {
+    "age": 71550,
+    "coherence": 1.558139534883721,
+    "damping": 0.251339067888106,
+    "knot_id": 103,
+    "memory": 71550.0,
+    "stability": 41.42857150114974,
+    "suppression": 0.000012634621583402176,
+    "survived": true
+  },
+  {
+    "age": 9980,
+    "coherence": 1.5714285714285714,
+    "damping": 0.19808726381359862,
+    "knot_id": 876,
+    "memory": 9980.0,
+    "stability": 48.57142857142857,
+    "suppression": 0.000012550948899607185,
+    "survived": true
+  },
+  {
+    "age": 5530,
+    "coherence": 1.525,
+    "damping": 0.255651887208589,
+    "knot_id": 937,
+    "memory": 5530.0,
+    "stability": 40.91815726446736,
+    "suppression": 0.000012845718407573334,
+    "survived": true
+  },
+  {
+    "age": 170,
+    "coherence": 1.8,
+    "damping": 0.5489647631974209,
+    "knot_id": 999,
+    "memory": 170.0,
+    "stability": 17.99163069431153,
+    "suppression": 0.004881312548643759,
+    "survived": true
+  },
+  {
+    "age": 4440,
+    "coherence": 2.6601307189542482,
+    "damping": 0.18887560283756183,
+    "knot_id": 947,
+    "memory": 4440.0,
+    "stability": 50.0,
+    "suppression": 7.282288727804123e-6,
+    "survived": true
+  },
+  {
+    "age": 14470,
+    "coherence": 1.8571428571428572,
+    "damping": 0.2540902622825748,
+    "knot_id": 812,
+    "memory": 14470.0,
+    "stability": 41.101971353188965,
+    "suppression": 0.000010880140221963316,
+    "survived": true
+  },
+  {
+    "age": 49200,
+    "coherence": 0.9299191374663073,
+    "damping": 0.19865976995847076,
+    "knot_id": 376,
+    "memory": 49200.0,
+    "stability": 48.484848484848484,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 65110,
+    "coherence": 1.641025641025641,
+    "damping": 0.2465969639413163,
+    "knot_id": 196,
+    "memory": 65110.0,
+    "stability": 42.0000000000353,
+    "suppression": 0.00001212170609260991,
+    "survived": true
+  },
+  {
+    "age": 70040,
+    "coherence": 1.8235294117647058,
+    "damping": 0.26359713811572827,
+    "knot_id": 118,
+    "memory": 70040.0,
+    "stability": 39.99999999999983,
+    "suppression": 0.000011064545000830785,
+    "survived": true
+  },
+  {
+    "age": 31160,
+    "coherence": 2.5714285714285716,
+    "damping": 0.26449711239892,
+    "knot_id": 588,
+    "memory": 31160.0,
+    "stability": 39.89774834849183,
+    "suppression": 7.612535316098297e-6,
+    "survived": true
+  },
+  {
+    "age": 520,
+    "coherence": 1.5555555555555556,
+    "damping": 0.23195515784039727,
+    "knot_id": 994,
+    "memory": 520.0,
+    "stability": 43.836336335055435,
+    "suppression": 0.000012650955933531133,
+    "survived": true
+  },
+  {
+    "age": 7840,
+    "coherence": 1.9090909090909092,
+    "damping": 0.2513391078543383,
+    "knot_id": 901,
+    "memory": 7840.0,
+    "stability": 41.428566730753786,
+    "suppression": 0.000010601177749812601,
+    "survived": true
+  },
+  {
+    "age": 14240,
+    "coherence": 1.8888888888888888,
+    "damping": 0.24935220867867816,
+    "knot_id": 816,
+    "memory": 14240.0,
+    "stability": 41.66666667853158,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 12430,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 846,
+    "memory": 12430.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 11680,
+    "coherence": 1.8,
+    "damping": 0.25481627735860357,
+    "knot_id": 856,
+    "memory": 11680.0,
+    "stability": 41.01637423324481,
+    "suppression": 0.00001119548484259094,
+    "survived": true
+  },
+  {
+    "age": 68570,
+    "coherence": 3.6666666666666665,
+    "damping": 0.25739514205258396,
+    "knot_id": 150,
+    "memory": 68570.0,
+    "stability": 40.71428571428386,
+    "suppression": 4.402520529973933e-6,
+    "survived": true
+  },
+  {
+    "age": 30950,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 590,
+    "memory": 30950.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 40220,
+    "coherence": 2.0,
+    "damping": 0.26359713811572827,
+    "knot_id": 471,
+    "memory": 40220.0,
+    "stability": 39.99999999999983,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 6420,
+    "coherence": 1.5357142857142858,
+    "damping": 0.18887560283756183,
+    "knot_id": 919,
+    "memory": 6420.0,
+    "stability": 50.0,
+    "suppression": 0.000012777086059747078,
+    "survived": true
+  },
+  {
+    "age": 63440,
+    "coherence": 1.8831168831168832,
+    "damping": 0.18887560283756183,
+    "knot_id": 213,
+    "memory": 63440.0,
+    "stability": 50.0,
+    "suppression": 0.000010739753276305683,
+    "survived": true
+  },
+  {
+    "age": 14720,
+    "coherence": 1.7741935483870968,
+    "damping": 0.2563757566901226,
+    "knot_id": 809,
+    "memory": 14720.0,
+    "stability": 40.83333333289917,
+    "suppression": 0.00001134087871928605,
+    "survived": true
+  },
+  {
+    "age": 9270,
+    "coherence": 1.6,
+    "damping": 0.252845590335686,
+    "knot_id": 886,
+    "memory": 9270.0,
+    "stability": 41.24928874353799,
+    "suppression": 0.000012372924261788221,
+    "survived": true
+  },
+  {
+    "age": 11520,
+    "coherence": 1.5357142857142858,
+    "damping": 0.18887560283756183,
+    "knot_id": 860,
+    "memory": 11520.0,
+    "stability": 50.0,
+    "suppression": 0.000012777086059747078,
+    "survived": true
+  },
+  {
+    "age": 4720,
+    "coherence": 1.8333333333333333,
+    "damping": 0.25134092347063985,
+    "knot_id": 945,
+    "memory": 4720.0,
+    "stability": 41.428350018389445,
+    "suppression": 0.000011010439754380804,
+    "survived": true
+  },
+  {
+    "age": 2810,
+    "coherence": 1.6428571428571428,
+    "damping": 0.23983675497653265,
+    "knot_id": 971,
+    "memory": 2810.0,
+    "stability": 42.83390324011384,
+    "suppression": 0.000012110610710233817,
+    "survived": true
+  },
+  {
+    "age": 9810,
+    "coherence": 1.8235294117647058,
+    "damping": 0.26359739682957345,
+    "knot_id": 878,
+    "memory": 9810.0,
+    "stability": 39.99997055578203,
+    "suppression": 0.000011064545000830785,
+    "survived": true
+  },
+  {
+    "age": 12980,
+    "coherence": 1.5555555555555556,
+    "damping": 0.2447770684393915,
+    "knot_id": 836,
+    "memory": 12980.0,
+    "stability": 42.22222222222202,
+    "suppression": 0.000012650955933531133,
+    "survived": true
+  },
+  {
+    "age": 940,
+    "coherence": 1.6,
+    "damping": 0.2660411128733835,
+    "knot_id": 989,
+    "memory": 940.0,
+    "stability": 39.723132674075394,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 7510,
+    "coherence": 1.6,
+    "damping": 0.31890655933825973,
+    "knot_id": 905,
+    "memory": 7510.0,
+    "stability": 34.28571409622718,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 5770,
+    "coherence": 1.5121951219512195,
+    "damping": 0.25133919848777336,
+    "knot_id": 932,
+    "memory": 5770.0,
+    "stability": 41.42855591268975,
+    "suppression": 0.000012928226180052439,
+    "survived": true
+  },
+  {
+    "age": 50750,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 353,
+    "memory": 50750.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 8580,
+    "coherence": 1.7692307692307692,
+    "damping": 0.2528395959133274,
+    "knot_id": 894,
+    "memory": 8580.0,
+    "stability": 41.249999987116624,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 77700,
+    "coherence": 2.057142857142857,
+    "damping": 0.2524705199844609,
+    "knot_id": 47,
+    "memory": 77700.0,
+    "stability": 41.293823688588574,
+    "suppression": 9.844757986310482e-6,
+    "survived": true
+  },
+  {
+    "age": 24990,
+    "coherence": 1.8421052631578947,
+    "damping": 0.27785128125255104,
+    "knot_id": 675,
+    "memory": 24990.0,
+    "stability": 38.42007803869787,
+    "suppression": 0.000010962254099489465,
+    "survived": true
+  },
+  {
+    "age": 21900,
+    "coherence": 1.9265734265734267,
+    "damping": 0.1922543257474158,
+    "knot_id": 711,
+    "memory": 21900.0,
+    "stability": 49.46808510638298,
+    "suppression": 0.000010508913950496506,
+    "survived": true
+  },
+  {
+    "age": 900,
+    "coherence": 1.6046511627906976,
+    "damping": 0.2913621571171877,
+    "knot_id": 990,
+    "memory": 900.0,
+    "stability": 36.995647782465475,
+    "suppression": 0.000012344183451818736,
+    "survived": true
+  },
+  {
+    "age": 19170,
+    "coherence": 1.8831168831168832,
+    "damping": 0.18887560283756183,
+    "knot_id": 759,
+    "memory": 19170.0,
+    "stability": 50.0,
+    "suppression": 0.000010739753276305683,
+    "survived": true
+  },
+  {
+    "age": 28500,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 617,
+    "memory": 28500.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 63070,
+    "coherence": 1.8831168831168832,
+    "damping": 0.18887560283756183,
+    "knot_id": 220,
+    "memory": 63070.0,
+    "stability": 50.0,
+    "suppression": 0.000010739753276305683,
+    "survived": true
+  },
+  {
+    "age": 71500,
+    "coherence": 1.9253731343283582,
+    "damping": 0.2553529960714421,
+    "knot_id": 104,
+    "memory": 71500.0,
+    "stability": 40.95325178285792,
+    "suppression": 0.000010515222727360562,
+    "survived": true
+  },
+  {
+    "age": 21480,
+    "coherence": 1.6511627906976745,
+    "damping": 0.2545084979884912,
+    "knot_id": 716,
+    "memory": 21480.0,
+    "stability": 41.0526315789472,
+    "suppression": 0.000012060421761450481,
+    "survived": true
+  },
+  {
+    "age": 38750,
+    "coherence": 1.6458333333333333,
+    "damping": 0.24853655741188646,
+    "knot_id": 493,
+    "memory": 38750.0,
+    "stability": 41.76495995831806,
+    "suppression": 0.000012092602370490985,
+    "survived": true
+  },
+  {
+    "age": 76780,
+    "coherence": 1.0408163265306123,
+    "damping": 0.20339760045860628,
+    "knot_id": 57,
+    "memory": 76780.0,
+    "stability": 47.77777777777778,
+    "suppression": 0.00001636430428538408,
+    "survived": true
+  },
+  {
+    "age": 15420,
+    "coherence": 1.5084745762711864,
+    "damping": 0.19402176291494677,
+    "knot_id": 800,
+    "memory": 15420.0,
+    "stability": 49.193548387096776,
+    "suppression": 0.000012952298591769519,
+    "survived": true
+  },
+  {
+    "age": 360,
+    "coherence": 1.6363636363636365,
+    "damping": 0.40072437301905933,
+    "knot_id": 997,
+    "memory": 360.0,
+    "stability": 27.43444311263702,
+    "suppression": 0.000060595273107453284,
+    "survived": true
+  },
+  {
+    "age": 22140,
+    "coherence": 2.3636363636363638,
+    "damping": 0.19363292629241433,
+    "knot_id": 706,
+    "memory": 22140.0,
+    "stability": 49.25373134328358,
+    "suppression": 8.445995098233064e-6,
+    "survived": true
+  },
+  {
+    "age": 22970,
+    "coherence": 1.1595092024539877,
+    "damping": 0.25856147387230877,
+    "knot_id": 696,
+    "memory": 22970.0,
+    "stability": 40.57865410065159,
+    "suppression": 0.00001542139693951676,
+    "survived": true
+  },
+  {
+    "age": 46070,
+    "coherence": 1.5416666666666667,
+    "damping": 0.18887560283756183,
+    "knot_id": 412,
+    "memory": 46070.0,
+    "stability": 50.0,
+    "suppression": 0.000012739115549665462,
+    "survived": true
+  },
+  {
+    "age": 11270,
+    "coherence": 2.3636363636363638,
+    "damping": 0.25711052767146375,
+    "knot_id": 861,
+    "memory": 11270.0,
+    "stability": 40.747476533382624,
+    "suppression": 8.445995098233064e-6,
+    "survived": true
+  },
+  {
+    "age": 8690,
+    "coherence": 1.5357142857142858,
+    "damping": 0.18887560283756183,
+    "knot_id": 892,
+    "memory": 8690.0,
+    "stability": 50.0,
+    "suppression": 0.000012777086059747078,
+    "survived": true
+  },
+  {
+    "age": 48550,
+    "coherence": 1.6538461538461537,
+    "damping": 0.24252107463564976,
+    "knot_id": 385,
+    "memory": 48550.0,
+    "stability": 42.49999999999987,
+    "suppression": 0.000012044251365982123,
+    "survived": true
+  },
+  {
+    "age": 740,
+    "coherence": 1.5353535353535352,
+    "damping": 0.3002521776443171,
+    "knot_id": 991,
+    "memory": 740.0,
+    "stability": 36.09397695833791,
+    "suppression": 0.00001277939093681482,
+    "survived": true
+  },
+  {
+    "age": 28200,
+    "coherence": 1.875,
+    "damping": 0.25143674264508414,
+    "knot_id": 626,
+    "memory": 28200.0,
+    "stability": 41.41691524130263,
+    "suppression": 0.000010783428504061669,
+    "survived": true
+  },
+  {
+    "age": 24960,
+    "coherence": 2.4482758620689653,
+    "damping": 0.25876064165178436,
+    "knot_id": 676,
+    "memory": 24960.0,
+    "stability": 40.55555424274806,
+    "suppression": 8.096020356483978e-6,
+    "survived": true
+  },
+  {
+    "age": 21560,
+    "coherence": 1.5357142857142858,
+    "damping": 0.18887560283756183,
+    "knot_id": 715,
+    "memory": 21560.0,
+    "stability": 50.0,
+    "suppression": 0.000012777086059747078,
+    "survived": true
+  },
+  {
+    "age": 2090,
+    "coherence": 2.0,
+    "damping": 0.2653725641700087,
+    "knot_id": 979,
+    "memory": 2090.0,
+    "stability": 39.79861613469692,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 59480,
+    "coherence": 1.5735294117647058,
+    "damping": 0.249857178393748,
+    "knot_id": 255,
+    "memory": 59480.0,
+    "stability": 41.60597432373495,
+    "suppression": 0.00001253777205157969,
+    "survived": true
+  },
+  {
+    "age": 53280,
+    "coherence": 2.8333333333333335,
+    "damping": 0.24935220877729738,
+    "knot_id": 330,
+    "memory": 53280.0,
+    "stability": 41.66666666666652,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 35790,
+    "coherence": 2.0,
+    "damping": 0.2635971381157278,
+    "knot_id": 527,
+    "memory": 35790.0,
+    "stability": 39.99999999999988,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 39640,
+    "coherence": 2.076388888888889,
+    "damping": 0.19402176291494677,
+    "knot_id": 480,
+    "memory": 39640.0,
+    "stability": 49.193548387096776,
+    "suppression": 9.750476089596496e-6,
+    "survived": true
+  },
+  {
+    "age": 24290,
+    "coherence": 1.5208333333333333,
+    "damping": 0.2528395958044185,
+    "knot_id": 685,
+    "memory": 24290.0,
+    "stability": 41.250000000038916,
+    "suppression": 0.000012872508217284626,
+    "survived": true
+  },
+  {
+    "age": 51130,
+    "coherence": 1.8831168831168832,
+    "damping": 0.18887560283756183,
+    "knot_id": 345,
+    "memory": 51130.0,
+    "stability": 50.0,
+    "suppression": 0.000010739753276305683,
+    "survived": true
+  },
+  {
+    "age": 74120,
+    "coherence": 1.775,
+    "damping": 0.2513499560840545,
+    "knot_id": 79,
+    "memory": 74120.0,
+    "stability": 41.42727190691581,
+    "suppression": 0.000011336306706157389,
+    "survived": true
+  },
+  {
+    "age": 12470,
+    "coherence": 2.3372093023255816,
+    "damping": 0.27111332961820483,
+    "knot_id": 845,
+    "memory": 12470.0,
+    "stability": 39.15655065139863,
+    "suppression": 8.55833709604795e-6,
+    "survived": true
+  },
+  {
+    "age": 29560,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 606,
+    "memory": 29560.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 38770,
+    "coherence": 1.5416666666666667,
+    "damping": 0.18887560283756183,
+    "knot_id": 492,
+    "memory": 38770.0,
+    "stability": 50.0,
+    "suppression": 0.000012739115549665462,
+    "survived": true
+  },
+  {
+    "age": 4240,
+    "coherence": 1.96875,
+    "damping": 0.2636038701260763,
+    "knot_id": 948,
+    "memory": 4240.0,
+    "stability": 39.999233839437565,
+    "suppression": 0.000010289619360577798,
+    "survived": true
+  },
+  {
+    "age": 10210,
+    "coherence": 2.6666666666666665,
+    "damping": 0.26359713821835096,
+    "knot_id": 873,
+    "memory": 10210.0,
+    "stability": 39.99999998832034,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 2660,
+    "coherence": 1.6571428571428573,
+    "damping": 0.25882217039429234,
+    "knot_id": 975,
+    "memory": 2660.0,
+    "stability": 40.548421616853325,
+    "suppression": 0.000012024414557898974,
+    "survived": true
+  },
+  {
+    "age": 67820,
+    "coherence": 1.6666666666666667,
+    "damping": 0.24809602902877168,
+    "knot_id": 161,
+    "memory": 67820.0,
+    "stability": 41.81818181818168,
+    "suppression": 0.000011967291556046007,
+    "survived": true
+  },
+  {
+    "age": 28470,
+    "coherence": 1.6,
+    "damping": 0.26359713811572827,
+    "knot_id": 618,
+    "memory": 28470.0,
+    "stability": 39.99999999999983,
+    "suppression": 0.000012372924261788221,
+    "survived": true
+  },
+  {
+    "age": 3390,
+    "coherence": 1.6,
+    "damping": 0.2588216724043808,
+    "knot_id": 960,
+    "memory": 3390.0,
+    "stability": 40.548479338769866,
+    "suppression": 0.000012372924261788221,
+    "survived": true
+  },
+  {
+    "age": 44850,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 426,
+    "memory": 44850.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 6690,
+    "coherence": 1.6808510638297873,
+    "damping": 0.2615590744744854,
+    "knot_id": 917,
+    "memory": 6690.0,
+    "stability": 40.23285344333833,
+    "suppression": 0.000011882717410665312,
+    "survived": true
+  },
+  {
+    "age": 20910,
+    "coherence": 1.6744186046511629,
+    "damping": 0.26719484893887824,
+    "knot_id": 727,
+    "memory": 20910.0,
+    "stability": 39.593313462864835,
+    "suppression": 0.000011920996482147138,
+    "survived": true
+  },
+  {
+    "age": 26740,
+    "coherence": 1.4656964656964657,
+    "damping": 0.1949678443236038,
+    "knot_id": 645,
+    "memory": 26740.0,
+    "stability": 49.04761904761905,
+    "suppression": 0.000013232320044067226,
+    "survived": true
+  },
+  {
+    "age": 28670,
+    "coherence": 1.4656964656964657,
+    "damping": 0.1949678443236038,
+    "knot_id": 612,
+    "memory": 28670.0,
+    "stability": 49.04761904761905,
+    "suppression": 0.000013232320044067226,
+    "survived": true
+  },
+  {
+    "age": 40770,
+    "coherence": 1.8831168831168832,
+    "damping": 0.18887560283756183,
+    "knot_id": 465,
+    "memory": 40770.0,
+    "stability": 50.0,
+    "suppression": 0.000010739753276305683,
+    "survived": true
+  },
+  {
+    "age": 1340,
+    "coherence": 1.5767441860465117,
+    "damping": 0.2742426500395055,
+    "knot_id": 986,
+    "memory": 1340.0,
+    "stability": 38.81225941219534,
+    "suppression": 0.000012517635186213266,
+    "survived": true
+  },
+  {
+    "age": 25390,
+    "coherence": 1.6785714285714286,
+    "damping": 0.27435474139675886,
+    "knot_id": 669,
+    "memory": 25390.0,
+    "stability": 38.800000000040306,
+    "suppression": 0.000011896269263305616,
+    "survived": true
+  },
+  {
+    "age": 50640,
+    "coherence": 1.901639344262295,
+    "damping": 0.2749052901234112,
+    "knot_id": 356,
+    "memory": 50640.0,
+    "stability": 38.7398592055783,
+    "suppression": 0.000010640749102793684,
+    "survived": true
+  },
+  {
+    "age": 39590,
+    "coherence": 2.1666666666666665,
+    "damping": 0.26205345615179,
+    "knot_id": 481,
+    "memory": 39590.0,
+    "stability": 40.17620294756564,
+    "suppression": 9.320136035092457e-6,
+    "survived": true
+  },
+  {
+    "age": 49050,
+    "coherence": 1.3630136986301369,
+    "damping": 0.2567698760603127,
+    "knot_id": 380,
+    "memory": 49050.0,
+    "stability": 40.787250573245856,
+    "suppression": 0.000013929427779298099,
+    "survived": true
+  },
+  {
+    "age": 42860,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 442,
+    "memory": 42860.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 3080,
+    "coherence": 1.5789473684210527,
+    "damping": 0.2529607441642753,
+    "knot_id": 963,
+    "memory": 3080.0,
+    "stability": 41.23562891098259,
+    "suppression": 0.000012503853461913347,
+    "survived": true
+  },
+  {
+    "age": 13930,
+    "coherence": 2.0,
+    "damping": 0.26359713811572827,
+    "knot_id": 820,
+    "memory": 13930.0,
+    "stability": 39.99999999999983,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 5960,
+    "coherence": 2.6601307189542482,
+    "damping": 0.18887560283756183,
+    "knot_id": 927,
+    "memory": 5960.0,
+    "stability": 50.0,
+    "suppression": 7.282288727804123e-6,
+    "survived": true
+  },
+  {
+    "age": 39430,
+    "coherence": 1.7777777777777777,
+    "damping": 0.274831884067704,
+    "knot_id": 484,
+    "memory": 39430.0,
+    "stability": 38.747870967517244,
+    "suppression": 0.000011320572764609702,
+    "survived": true
+  },
+  {
+    "age": 72050,
+    "coherence": 3.5714285714285716,
+    "damping": 0.26359713812017427,
+    "knot_id": 97,
+    "memory": 72050.0,
+    "stability": 39.99999999949383,
+    "suppression": 4.61723606735882e-6,
+    "survived": true
+  },
+  {
+    "age": 8670,
+    "coherence": 1.6551724137931034,
+    "damping": 0.28993595136383715,
+    "knot_id": 893,
+    "memory": 8670.0,
+    "stability": 37.142857132808274,
+    "suppression": 0.000012036267109485758,
+    "survived": true
+  },
+  {
+    "age": 26200,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 654,
+    "memory": 26200.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 30570,
+    "coherence": 1.5121951219512195,
+    "damping": 0.2504201107040677,
+    "knot_id": 596,
+    "memory": 30570.0,
+    "stability": 41.53845986003538,
+    "suppression": 0.000012928226180052439,
+    "survived": true
+  },
+  {
+    "age": 15150,
+    "coherence": 1.46875,
+    "damping": 0.252491146289449,
+    "knot_id": 802,
+    "memory": 15150.0,
+    "stability": 41.291372852450635,
+    "suppression": 0.000013212132787024159,
+    "survived": true
+  },
+  {
+    "age": 54450,
+    "coherence": 2.3636363636363638,
+    "damping": 0.19363292629241433,
+    "knot_id": 311,
+    "memory": 54450.0,
+    "stability": 49.25373134328358,
+    "suppression": 8.445995098233064e-6,
+    "survived": true
+  },
+  {
+    "age": 10670,
+    "coherence": 1.536231884057971,
+    "damping": 0.2598043531990245,
+    "knot_id": 866,
+    "memory": 10670.0,
+    "stability": 40.43479256770933,
+    "suppression": 0.00001277377978830487,
+    "survived": true
+  },
+  {
+    "age": 72710,
+    "coherence": 1.974025974025974,
+    "damping": 0.25337385772194015,
+    "knot_id": 92,
+    "memory": 72710.0,
+    "stability": 41.186675474129636,
+    "suppression": 0.000010262511249478917,
+    "survived": true
+  },
+  {
+    "age": 74830,
+    "coherence": 0.9427609427609428,
+    "damping": 0.281047545416621,
+    "knot_id": 73,
+    "memory": 74830.0,
+    "stability": 38.07694269571002,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 82100,
+    "coherence": 1.554421768707483,
+    "damping": 0.26015147366833374,
+    "knot_id": 15,
+    "memory": 82100.0,
+    "stability": 40.39473679724483,
+    "suppression": 0.000012658129710448985,
+    "survived": true
+  },
+  {
+    "age": 25410,
+    "coherence": 2.125,
+    "damping": 0.2635971381157279,
+    "knot_id": 668,
+    "memory": 25410.0,
+    "stability": 39.99999999999987,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 2880,
+    "coherence": 2.6601307189542482,
+    "damping": 0.18887560283756183,
+    "knot_id": 967,
+    "memory": 2880.0,
+    "stability": 50.0,
+    "suppression": 7.282288727804123e-6,
+    "survived": true
+  },
+  {
+    "age": 16110,
+    "coherence": 1.5357142857142858,
+    "damping": 0.18887560283756183,
+    "knot_id": 794,
+    "memory": 16110.0,
+    "stability": 50.0,
+    "suppression": 0.000012777086059747078,
+    "survived": true
+  },
+  {
+    "age": 21050,
+    "coherence": 1.8181818181818181,
+    "damping": 0.25495539607202344,
+    "knot_id": 725,
+    "memory": 21050.0,
+    "stability": 40.99999999464454,
+    "suppression": 0.000011094168932290307,
+    "survived": true
+  },
+  {
+    "age": 3630,
+    "coherence": 1.6842105263157894,
+    "damping": 0.25494759315751436,
+    "knot_id": 956,
+    "memory": 3630.0,
+    "stability": 41.00091815923755,
+    "suppression": 0.000011862774393122802,
+    "survived": true
+  },
+  {
+    "age": 43270,
+    "coherence": 5.666666666666667,
+    "damping": 0.24935220877729738,
+    "knot_id": 438,
+    "memory": 43270.0,
+    "stability": 41.66666666666652,
+    "suppression": 0.00001670170079024566,
+    "survived": true
+  },
+  {
+    "age": 48550,
+    "coherence": 1.9760479041916168,
+    "damping": 0.20025031209602479,
+    "knot_id": 386,
+    "memory": 48550.0,
+    "stability": 48.24561403508772,
+    "suppression": 0.00001025214145157863,
+    "survived": true
+  },
+  {
+    "age": 15290,
+    "coherence": 1.5068493150684932,
+    "damping": 0.18887560283756183,
+    "knot_id": 801,
+    "memory": 15290.0,
+    "stability": 50.0,
+    "suppression": 0.000012962828303766612,
+    "survived": true
+  },
+  {
+    "age": 7670,
+    "coherence": 1.510204081632653,
+    "damping": 0.7709296643142806,
+    "knot_id": 635,
+    "memory": 7670.0,
+    "stability": 7.804744084515835,
+    "suppression": 0.06584603440504778,
+    "survived": false
+  },
+  {
+    "age": 750,
+    "coherence": 1.5384615384615385,
+    "damping": 0.8222328799061531,
+    "knot_id": 733,
+    "memory": 750.0,
+    "stability": 5.871948454862336,
+    "suppression": 0.08061606844942913,
+    "survived": false
+  },
+  {
+    "age": 1660,
+    "coherence": 1.504201680672269,
+    "damping": 0.25527268857511676,
+    "knot_id": 717,
+    "memory": 1660.0,
+    "stability": 40.96268814684063,
+    "suppression": 0.000012980000082451513,
+    "survived": false
+  },
+  {
+    "age": 520,
+    "coherence": 1.542857142857143,
+    "damping": 0.8371284322622148,
+    "knot_id": 739,
+    "memory": 520.0,
+    "stability": 5.333333301028215,
+    "suppression": 0.0843493267290526,
+    "survived": false
+  },
+  {
+    "age": 10750,
+    "coherence": 1.5042735042735043,
+    "damping": 0.24177370673915724,
+    "knot_id": 597,
+    "memory": 10750.0,
+    "stability": 42.59259259259262,
+    "suppression": 0.000012979533955646287,
+    "survived": false
+  },
+  {
+    "age": 2640,
+    "coherence": 1.5319148936170213,
+    "damping": 0.2521382381524373,
+    "knot_id": 705,
+    "memory": 2640.0,
+    "stability": 41.33333333340067,
+    "suppression": 0.00001280138170951614,
+    "survived": false
+  },
+  {
+    "age": 7280,
+    "coherence": 1.6,
+    "damping": 0.26359714005815904,
+    "knot_id": 647,
+    "memory": 7280.0,
+    "stability": 39.999999778931716,
+    "suppression": 0.000012372924261788221,
+    "survived": false
+  },
+  {
+    "age": 8040,
+    "coherence": 1.6363636363636365,
+    "damping": 0.24935220877729738,
+    "knot_id": 638,
+    "memory": 8040.0,
+    "stability": 41.66666666666652,
+    "suppression": 0.000012149994775451288,
+    "survived": false
+  },
+  {
+    "age": 16090,
+    "coherence": 1.5294117647058822,
+    "damping": 0.25283965369527284,
+    "knot_id": 534,
+    "memory": 16090.0,
+    "stability": 41.249993131156586,
+    "suppression": 0.000012817413494159143,
+    "survived": false
+  },
+  {
+    "age": 6510,
+    "coherence": 1.5128205128205128,
+    "damping": 0.2952261721887627,
+    "knot_id": 661,
+    "memory": 6510.0,
+    "stability": 36.600405930293604,
+    "suppression": 0.00001292418421473285,
+    "survived": false
+  },
+  {
+    "age": 940,
+    "coherence": 1.5078125,
+    "damping": 0.2774675667538579,
+    "knot_id": 741,
+    "memory": 940.0,
+    "stability": 38.46153687566759,
+    "suppression": 0.000012956587006322203,
+    "survived": false
+  },
+  {
+    "age": 50900,
+    "coherence": 1.5128205128205128,
+    "damping": 0.232623657613305,
+    "knot_id": 127,
+    "memory": 50900.0,
+    "stability": 43.750000039203364,
+    "suppression": 0.00001292418421473285,
+    "survived": false
+  },
+  {
+    "age": 10500,
+    "coherence": 1.5357142857142858,
+    "damping": 0.9999999999398587,
+    "knot_id": 605,
+    "memory": 10500.0,
+    "stability": 1.8042389140983963e-9,
+    "suppression": 0.103533800691984,
+    "survived": false
+  },
+  {
+    "age": 2520,
+    "coherence": 1.5365853658536586,
+    "damping": 0.7946252611619291,
+    "knot_id": 721,
+    "memory": 2520.0,
+    "stability": 6.896539351950554,
+    "suppression": 0.07260290129877976,
+    "survived": false
+  },
+  {
+    "age": 1160,
+    "coherence": 1.5087719298245614,
+    "damping": 0.5597861222302059,
+    "knot_id": 745,
+    "memory": 1160.0,
+    "stability": 17.40601478380894,
+    "suppression": 0.006932461405661932,
+    "survived": false
+  },
+  {
+    "age": 47810,
+    "coherence": 1.7,
+    "damping": 0.2635971381164478,
+    "knot_id": 181,
+    "memory": 47810.0,
+    "stability": 39.99999999991794,
+    "suppression": 0.000011769489624931745,
+    "survived": false
+  },
+  {
+    "age": 480,
+    "coherence": 1.5075757575757576,
+    "damping": 0.2771120670791541,
+    "knot_id": 760,
+    "memory": 480.0,
+    "stability": 38.49999840959807,
+    "suppression": 0.000012958120784006866,
+    "survived": false
+  },
+  {
+    "age": 9750,
+    "coherence": 1.8333333333333333,
+    "damping": 0.7659283383646481,
+    "knot_id": 623,
+    "memory": 9750.0,
+    "stability": 8.00000000000002,
+    "suppression": 0.08279972858660524,
+    "survived": false
+  },
+  {
+    "age": 8470,
+    "coherence": 1.7142857142857142,
+    "damping": 0.7165313105737893,
+    "knot_id": 643,
+    "memory": 8470.0,
+    "stability": 10.0,
+    "suppression": 0.04243064497759624,
+    "survived": false
+  },
+  {
+    "age": 420,
+    "coherence": 1.5062240663900415,
+    "damping": 0.2553849381053126,
+    "knot_id": 762,
+    "memory": 420.0,
+    "stability": 40.949499326056724,
+    "suppression": 0.000012966881432919987,
+    "survived": false
+  },
+  {
+    "age": 9380,
+    "coherence": 1.65,
+    "damping": 0.244777068439391,
+    "knot_id": 629,
+    "memory": 9380.0,
+    "stability": 42.222222222222086,
+    "suppression": 0.00001206743567329791,
+    "survived": false
+  },
+  {
+    "age": 15270,
+    "coherence": 1.6,
+    "damping": 0.606548826221492,
+    "knot_id": 556,
+    "memory": 15270.0,
+    "stability": 14.999101468169039,
+    "suppression": 0.014143775510084033,
+    "survived": false
+  },
+  {
+    "age": 170,
+    "coherence": 1.5172413793103448,
+    "damping": 0.23028577195962854,
+    "knot_id": 770,
+    "memory": 170.0,
+    "stability": 44.05302763577613,
+    "suppression": 0.000012895647718909848,
+    "survived": false
+  },
+  {
+    "age": 1760,
+    "coherence": 1.5333333333333334,
+    "damping": 0.999999999646629,
+    "knot_id": 743,
+    "memory": 1760.0,
+    "stability": 1.060113034980833e-8,
+    "suppression": 0.10365712861152786,
+    "survived": false
+  },
+  {
+    "age": 140,
+    "coherence": 1.5053763440860215,
+    "damping": 0.18887560283756183,
+    "knot_id": 774,
+    "memory": 140.0,
+    "stability": 50.0,
+    "suppression": 0.000012972378755190467,
+    "survived": false
+  },
+  {
+    "age": 38180,
+    "coherence": 1.5172413793103448,
+    "damping": 0.24944412583059666,
+    "knot_id": 289,
+    "memory": 38180.0,
+    "stability": 41.655610003099184,
+    "suppression": 0.000012895647718909848,
+    "survived": false
+  },
+  {
+    "age": 8340,
+    "coherence": 1.5116279069767442,
+    "damping": 0.3710831055118066,
+    "knot_id": 653,
+    "memory": 8340.0,
+    "stability": 29.739877121547547,
+    "suppression": 0.000015340326160561418,
+    "survived": false
+  },
+  {
+    "age": 1980,
+    "coherence": 1.6666666666666667,
+    "damping": 0.25531946454391385,
+    "knot_id": 744,
+    "memory": 1980.0,
+    "stability": 40.957191473774785,
+    "suppression": 0.000011967291556046007,
+    "survived": false
+  },
+  {
+    "age": 5480,
+    "coherence": 1.5060240963855422,
+    "damping": 0.18887560283756183,
+    "knot_id": 692,
+    "memory": 5480.0,
+    "stability": 50.0,
+    "suppression": 0.000012968177991406343,
+    "survived": false
+  },
+  {
+    "age": 26800,
+    "coherence": 1.7142857142857142,
+    "damping": 0.2465969645720342,
+    "knot_id": 427,
+    "memory": 26800.0,
+    "stability": 41.999999923304685,
+    "suppression": 0.000011685721370391394,
+    "survived": false
+  },
+  {
+    "age": 6850,
+    "coherence": 1.5045871559633028,
+    "damping": 0.2208072283097864,
+    "knot_id": 681,
+    "memory": 6850.0,
+    "stability": 45.3139568461432,
+    "suppression": 0.00001297749858887053,
+    "survived": false
+  },
+  {
+    "age": 1100,
+    "coherence": 1.5185185185185186,
+    "damping": 0.2963976153752053,
+    "knot_id": 763,
+    "memory": 1100.0,
+    "stability": 36.48160292656195,
+    "suppression": 0.00001288741557892846,
+    "survived": false
+  },
+  {
+    "age": 780,
+    "coherence": 1.5145631067961165,
+    "damping": 0.25365127923317454,
+    "knot_id": 771,
+    "memory": 780.0,
+    "stability": 41.15384615044935,
+    "suppression": 0.00001291292831628403,
+    "survived": false
+  },
+  {
+    "age": 2210,
+    "coherence": 1.5416666666666667,
+    "damping": 0.24408069033666696,
+    "knot_id": 750,
+    "memory": 2210.0,
+    "stability": 42.30769230769218,
+    "suppression": 0.000012739115549665462,
+    "survived": false
+  },
+  {
+    "age": 610,
+    "coherence": 1.5294117647058822,
+    "damping": 0.2584789095047425,
+    "knot_id": 778,
+    "memory": 610.0,
+    "stability": 40.58823529054575,
+    "suppression": 0.000012817413494159143,
+    "survived": false
+  },
+  {
+    "age": 2470,
+    "coherence": 1.6111111111111112,
+    "damping": 0.2447770684468201,
+    "knot_id": 748,
+    "memory": 2470.0,
+    "stability": 42.22222222131157,
+    "suppression": 0.000012304376380754025,
+    "survived": false
+  },
+  {
+    "age": 10070,
+    "coherence": 1.52,
+    "damping": 0.24371059507508389,
+    "knot_id": 642,
+    "memory": 10070.0,
+    "stability": 42.35321530209573,
+    "suppression": 0.000012877872879935594,
+    "survived": false
+  },
+  {
+    "age": 42220,
+    "coherence": 1.5714285714285714,
+    "damping": 0.7659283383646481,
+    "knot_id": 260,
+    "memory": 42220.0,
+    "stability": 8.00000000000002,
+    "suppression": 0.08279972858660524,
+    "survived": false
+  },
+  {
+    "age": 3360,
+    "coherence": 1.5087719298245614,
+    "damping": 0.2615246006926902,
+    "knot_id": 740,
+    "memory": 3360.0,
+    "stability": 40.23680773785927,
+    "suppression": 0.000012950373028910988,
+    "survived": false
+  },
+  {
+    "age": 1700,
+    "coherence": 1.5454545454545454,
+    "damping": 0.25133906849620646,
+    "knot_id": 773,
+    "memory": 1700.0,
+    "stability": 41.42857142856646,
+    "suppression": 0.000012715011270109494,
+    "survived": false
+  },
+  {
+    "age": 2790,
+    "coherence": 1.5223880597014925,
+    "damping": 0.9441490207156028,
+    "knot_id": 755,
+    "memory": 2790.0,
+    "stability": 1.7241379310344827,
+    "suppression": 0.10249068211884149,
+    "survived": false
+  },
+  {
+    "age": 4940,
+    "coherence": 1.5128205128205128,
+    "damping": 0.2505405095274022,
+    "knot_id": 720,
+    "memory": 4940.0,
+    "stability": 41.524039705541355,
+    "suppression": 0.00001292418421473285,
+    "survived": false
+  },
+  {
+    "age": 2880,
+    "coherence": 1.52,
+    "damping": 0.24659696640275355,
+    "knot_id": 756,
+    "memory": 2880.0,
+    "stability": 41.9999997005867,
+    "suppression": 0.000012877872879935594,
+    "survived": false
+  },
+  {
+    "age": 10240,
+    "coherence": 1.7142857142857142,
+    "damping": 0.7862117418414503,
+    "knot_id": 650,
+    "memory": 10240.0,
+    "stability": 7.21587393529674,
+    "suppression": 0.09148577317431086,
+    "survived": false
+  },
+  {
+    "age": 3400,
+    "coherence": 1.5263157894736843,
+    "damping": 0.8751733190424908,
+    "knot_id": 749,
+    "memory": 3400.0,
+    "stability": 4.000000000015652,
+    "suppression": 0.09347232230376305,
+    "survived": false
+  },
+  {
+    "age": 10430,
+    "coherence": 1.6153846153846154,
+    "damping": 0.25128066504583435,
+    "knot_id": 648,
+    "memory": 10430.0,
+    "stability": 41.43554331368009,
+    "suppression": 0.000012278113047340515,
+    "survived": false
+  },
+  {
+    "age": 47220,
+    "coherence": 1.6111111111111112,
+    "damping": 0.25401273008329334,
+    "knot_id": 214,
+    "memory": 47220.0,
+    "stability": 41.11112684343974,
+    "suppression": 0.000012304376380754025,
+    "survived": false
+  },
+  {
+    "age": 1280,
+    "coherence": 1.5052631578947369,
+    "damping": 0.26317332776977087,
+    "knot_id": 785,
+    "memory": 1280.0,
+    "stability": 40.04827268780377,
+    "suppression": 0.000012973112923036291,
+    "survived": false
+  },
+  {
+    "age": 1660,
+    "coherence": 1.5483870967741935,
+    "damping": 0.2505185547243057,
+    "knot_id": 781,
+    "memory": 1660.0,
+    "stability": 41.52666871333828,
+    "suppression": 0.000012696381220301876,
+    "survived": false
+  },
+  {
+    "age": 22670,
+    "coherence": 1.6,
+    "damping": 0.24252107463564976,
+    "knot_id": 499,
+    "memory": 22670.0,
+    "stability": 42.49999999999987,
+    "suppression": 0.000012372924261788221,
+    "survived": false
+  },
+  {
+    "age": 2250,
+    "coherence": 1.5238095238095237,
+    "damping": 0.3576212033852834,
+    "knot_id": 779,
+    "memory": 2250.0,
+    "stability": 30.84842831572697,
+    "suppression": 0.000012853366944654697,
+    "survived": false
+  },
+  {
+    "age": 3170,
+    "coherence": 1.5135135135135136,
+    "damping": 0.2636038297058058,
+    "knot_id": 765,
+    "memory": 3170.0,
+    "stability": 39.9992384395529,
+    "suppression": 0.000012919706756189452,
+    "survived": false
+  },
+  {
+    "age": 9830,
+    "coherence": 1.5151515151515151,
+    "damping": 0.3458439440238063,
+    "knot_id": 670,
+    "memory": 9830.0,
+    "stability": 31.853029035043228,
+    "suppression": 0.000012909129837618597,
+    "survived": false
+  },
+  {
+    "age": 160,
+    "coherence": 1.5020408163265306,
+    "damping": 0.255494200709736,
+    "knot_id": 799,
+    "memory": 160.0,
+    "stability": 40.93666702215689,
+    "suppression": 0.000012994031670869243,
+    "survived": false
+  },
+  {
+    "age": 5560,
+    "coherence": 1.6363636363636365,
+    "damping": 0.2493522087773334,
+    "knot_id": 728,
+    "memory": 5560.0,
+    "stability": 41.66666666666219,
+    "suppression": 0.000012149994775451288,
+    "survived": false
+  },
+  {
+    "age": 11520,
+    "coherence": 1.5454545454545454,
+    "damping": 0.26359713678562585,
+    "knot_id": 646,
+    "memory": 11520.0,
+    "stability": 40.000000151378835,
+    "suppression": 0.000012715011270109494,
+    "survived": false
+  },
+  {
+    "age": 5260,
+    "coherence": 1.509090909090909,
+    "damping": 0.8539395969325329,
+    "knot_id": 737,
+    "memory": 5260.0,
+    "stability": 4.736844518466614,
+    "suppression": 0.08984585910788012,
+    "survived": false
+  },
+  {
+    "age": 22610,
+    "coherence": 1.5217391304347827,
+    "damping": 0.18887560283756183,
+    "knot_id": 508,
+    "memory": 22610.0,
+    "stability": 50.0,
+    "suppression": 0.000012866679596955305,
+    "survived": false
+  },
+  {
+    "age": 8930,
+    "coherence": 1.6,
+    "damping": 0.8265654376242376,
+    "knot_id": 686,
+    "memory": 8930.0,
+    "stability": 5.714285714285729,
+    "suppression": 0.07931209694948375,
+    "survived": false
+  },
+  {
+    "age": 4530,
+    "coherence": 1.5084745762711864,
+    "damping": 0.2557291725321702,
+    "knot_id": 752,
+    "memory": 4530.0,
+    "stability": 40.90908942872755,
+    "suppression": 0.000012952298591769519,
+    "survived": false
+  },
+  {
+    "age": 16700,
+    "coherence": 1.7142857142857142,
+    "damping": 0.23069318225496357,
+    "knot_id": 581,
+    "memory": 16700.0,
+    "stability": 43.9999999999999,
+    "suppression": 0.000011685721370391394,
+    "survived": false
+  },
+  {
+    "age": 80,
+    "coherence": 1.5185185185185186,
+    "damping": 0.25674863793272407,
+    "knot_id": 804,
+    "memory": 80.0,
+    "stability": 40.789732056622455,
+    "suppression": 0.00001288741557892846,
+    "survived": false
+  },
+  {
+    "age": 28840,
+    "coherence": 1.6363636363636365,
+    "damping": 0.249352208777298,
+    "knot_id": 434,
+    "memory": 28840.0,
+    "stability": 41.66666666666645,
+    "suppression": 0.000012149994775451288,
+    "survived": false
+  },
+  {
+    "age": 8910,
+    "coherence": 1.5333333333333334,
+    "damping": 0.7470636436969209,
+    "knot_id": 689,
+    "memory": 8910.0,
+    "stability": 8.748146952592712,
+    "suppression": 0.056995070777947326,
+    "survived": false
+  },
+  {
+    "age": 5460,
+    "coherence": 1.5223880597014925,
+    "damping": 0.2518836851632564,
+    "knot_id": 742,
+    "memory": 5460.0,
+    "stability": 41.36363594513817,
+    "suppression": 0.000012862505491688771,
+    "survived": false
+  },
+  {
+    "age": 8180,
+    "coherence": 1.5405405405405406,
+    "damping": 0.8535493042767165,
+    "knot_id": 698,
+    "memory": 8180.0,
+    "stability": 4.750559137484186,
+    "suppression": 0.08835660586784018,
+    "survived": false
+  },
+  {
+    "age": 12560,
+    "coherence": 1.5092592592592593,
+    "damping": 0.2590414124985662,
+    "knot_id": 641,
+    "memory": 12560.0,
+    "stability": 40.52302008742186,
+    "suppression": 0.000012947217864344087,
+    "survived": false
+  },
+  {
+    "age": 25260,
+    "coherence": 1.5046728971962617,
+    "damping": 0.25884486660297773,
+    "knot_id": 479,
+    "memory": 25260.0,
+    "stability": 40.545791021461554,
+    "suppression": 0.000012976942247431105,
+    "survived": false
+  },
+  {
+    "age": 3810,
+    "coherence": 1.55,
+    "damping": 0.2540128632905088,
+    "knot_id": 776,
+    "memory": 3810.0,
+    "stability": 41.11111111109666,
+    "suppression": 0.000012686146330715025,
+    "survived": false
+  },
+  {
+    "age": 3250,
+    "coherence": 1.5161290322580645,
+    "damping": 0.8543163401765433,
+    "knot_id": 786,
+    "memory": 3250.0,
+    "stability": 4.723611960911232,
+    "suppression": 0.08961548828793768,
+    "survived": false
+  },
+  {
+    "age": 43550,
+    "coherence": 1.5352112676056338,
+    "damping": 0.25401286329040357,
+    "knot_id": 271,
+    "memory": 43550.0,
+    "stability": 41.11111111110909,
+    "suppression": 0.00001278030001673171,
+    "survived": false
+  },
+  {
+    "age": 4160,
+    "coherence": 1.6666666666666667,
+    "damping": 0.6514557817094182,
+    "knot_id": 777,
+    "memory": 4160.0,
+    "stability": 12.856372687002036,
+    "suppression": 0.02402806047736439,
+    "survived": false
+  },
+  {
+    "age": 260,
+    "coherence": 1.5135135135135136,
+    "damping": 0.2592067797934306,
+    "knot_id": 815,
+    "memory": 260.0,
+    "stability": 40.50387474706914,
+    "suppression": 0.000012919706756189452,
+    "survived": false
+  },
+  {
+    "age": 17530,
+    "coherence": 1.5434782608695652,
+    "damping": 0.25356006878100484,
+    "knot_id": 585,
+    "memory": 17530.0,
+    "stability": 41.16463578914847,
+    "suppression": 0.000012727581720168807,
+    "survived": false
+  },
+  {
+    "age": 920,
+    "coherence": 1.5245901639344261,
+    "damping": 0.8807476526072129,
+    "knot_id": 808,
+    "memory": 920.0,
+    "stability": 3.809523809539521,
+    "suppression": 0.09457673782748699,
+    "survived": false
+  },
+  {
+    "age": 10950,
+    "coherence": 1.5185185185185186,
+    "damping": 0.2540128632903879,
+    "knot_id": 678,
+    "memory": 10950.0,
+    "stability": 41.111111111110944,
+    "suppression": 0.00001288741557892846,
+    "survived": false
+  },
+  {
+    "age": 34740,
+    "coherence": 1.5217391304347827,
+    "damping": 0.24252116892019612,
+    "knot_id": 387,
+    "memory": 34740.0,
+    "stability": 42.49998833694813,
+    "suppression": 0.000012866679596955305,
+    "survived": false
+  },
+  {
+    "age": 1560,
+    "coherence": 1.5272727272727273,
+    "damping": 0.7821529992459386,
+    "knot_id": 803,
+    "memory": 1560.0,
+    "stability": 7.371147190931627,
+    "suppression": 0.06897680835873332,
+    "survived": false
+  },
+  {
+    "age": 2700,
+    "coherence": 1.5161290322580645,
+    "damping": 0.6744959258760292,
+    "knot_id": 792,
+    "memory": 2700.0,
+    "stability": 11.813689306980503,
+    "suppression": 0.03283132369823151,
+    "survived": false
+  },
+  {
+    "age": 6180,
+    "coherence": 1.507936507936508,
+    "damping": 0.2884969615764825,
+    "knot_id": 751,
+    "memory": 6180.0,
+    "stability": 37.2921217466019,
+    "suppression": 0.000012955783671418029,
+    "survived": false
+  },
+  {
+    "age": 7750,
+    "coherence": 1.5454545454545454,
+    "damping": 0.24935233415897376,
+    "knot_id": 723,
+    "memory": 7750.0,
+    "stability": 41.666651581781714,
+    "suppression": 0.000012715011270109494,
+    "survived": false
+  },
+  {
+    "age": 4650,
+    "coherence": 1.5238095238095237,
+    "damping": 0.25401292237270734,
+    "knot_id": 780,
+    "memory": 4650.0,
+    "stability": 41.11110413323843,
+    "suppression": 0.000012853366944654697,
+    "survived": false
+  },
+  {
+    "age": 420,
+    "coherence": 1.507936507936508,
+    "damping": 0.2309062911448912,
+    "knot_id": 826,
+    "memory": 420.0,
+    "stability": 43.97229950413509,
+    "suppression": 0.000012955783671418029,
+    "survived": false
+  },
+  {
+    "age": 15290,
+    "coherence": 1.5166666666666666,
+    "damping": 0.258179865086158,
+    "knot_id": 620,
+    "memory": 15290.0,
+    "stability": 40.62296356383011,
+    "suppression": 0.000012899353897277485,
+    "survived": false
+  },
+  {
+    "age": 10330,
+    "coherence": 1.55,
+    "damping": 0.9849949714856697,
+    "knot_id": 693,
+    "memory": 10330.0,
+    "stability": 0.45356228741309523,
+    "suppression": 0.10270550470673728,
+    "survived": false
+  },
+  {
+    "age": 7540,
+    "coherence": 1.558139534883721,
+    "damping": 0.26359751428737477,
+    "knot_id": 734,
+    "memory": 7540.0,
+    "stability": 39.99995718792143,
+    "suppression": 0.000012634621583402176,
+    "survived": false
+  },
+  {
+    "age": 10880,
+    "coherence": 1.5060240963855422,
+    "damping": 0.25042009700257617,
+    "knot_id": 691,
+    "memory": 10880.0,
+    "stability": 41.53846150145609,
+    "suppression": 0.000012968177991406343,
+    "survived": false
+  },
+  {
+    "age": 69180,
+    "coherence": 1.5044247787610618,
+    "damping": 0.18887560283756183,
+    "knot_id": 19,
+    "memory": 69180.0,
+    "stability": 50.0,
+    "suppression": 0.000012978552256599326,
+    "survived": false
+  },
+  {
+    "age": 20130,
+    "coherence": 1.5044247787610618,
+    "damping": 0.18887560283756183,
+    "knot_id": 571,
+    "memory": 20130.0,
+    "stability": 50.0,
+    "suppression": 0.000012978552256599326,
+    "survived": false
+  },
+  {
+    "age": 9460,
+    "coherence": 1.5142857142857142,
+    "damping": 0.2563757566861394,
+    "knot_id": 709,
+    "memory": 9460.0,
+    "stability": 40.83333333336527,
+    "suppression": 0.00001291471941529169,
+    "survived": false
+  },
+  {
+    "age": 2490,
+    "coherence": 1.50625,
+    "damping": 0.2532297840857833,
+    "knot_id": 807,
+    "memory": 2490.0,
+    "stability": 41.20373894878532,
+    "suppression": 0.000012966713294987343,
+    "survived": false
+  },
+  {
+    "age": 6000,
+    "coherence": 1.530612244897959,
+    "damping": 0.7714611225163843,
+    "knot_id": 772,
+    "memory": 6000.0,
+    "stability": 7.78407001562197,
+    "suppression": 0.06535425807903124,
+    "survived": false
+  },
+  {
+    "age": 13560,
+    "coherence": 1.5161290322580645,
+    "damping": 0.2520177001805634,
+    "knot_id": 662,
+    "memory": 13560.0,
+    "stability": 41.34767865376752,
+    "suppression": 0.000012902821931642205,
+    "survived": false
+  },
+  {
+    "age": 8430,
+    "coherence": 1.5384615384615385,
+    "damping": 0.26359713812145286,
+    "knot_id": 736,
+    "memory": 8430.0,
+    "stability": 39.99999999934831,
+    "suppression": 0.000012759547166058538,
+    "survived": false
+  },
+  {
+    "age": 10230,
+    "coherence": 1.6363636363636365,
+    "damping": 0.9999999999606753,
+    "knot_id": 702,
+    "memory": 10230.0,
+    "stability": 1.1797400023352005e-9,
+    "suppression": 0.09845242738508421,
+    "survived": false
+  },
+  {
+    "age": 16890,
+    "coherence": 1.565217391304348,
+    "damping": 0.248096029029079,
+    "knot_id": 619,
+    "memory": 16890.0,
+    "stability": 41.81818181814452,
+    "suppression": 0.000012589987589487198,
+    "survived": false
+  },
+  {
+    "age": 1110,
+    "coherence": 1.5223880597014925,
+    "damping": 0.8858460329272413,
+    "knot_id": 848,
+    "memory": 1110.0,
+    "stability": 3.636363636379403,
+    "suppression": 0.09556974671379871,
+    "survived": false
+  },
+  {
+    "age": 1620,
+    "coherence": 1.523076923076923,
+    "damping": 0.861068649426812,
+    "knot_id": 842,
+    "memory": 1620.0,
+    "stability": 4.4874313658944684,
+    "suppression": 0.09078599939125293,
+    "survived": false
+  },
+  {
+    "age": 2090,
+    "coherence": 1.5138888888888888,
+    "damping": 0.2523819712469717,
+    "knot_id": 833,
+    "memory": 2090.0,
+    "stability": 41.30434740471578,
+    "suppression": 0.000012917282113847667,
+    "survived": false
+  },
+  {
+    "age": 3100,
+    "coherence": 1.525,
+    "damping": 0.862549628799396,
+    "knot_id": 818,
+    "memory": 3100.0,
+    "stability": 4.435877732851209,
+    "suppression": 0.09101280197556605,
+    "survived": false
+  },
+  {
+    "age": 3260,
+    "coherence": 1.5172413793103448,
+    "damping": 0.29747552118742854,
+    "knot_id": 817,
+    "memory": 3260.0,
+    "stability": 36.372700173141254,
+    "suppression": 0.000012895647718909848,
+    "survived": false
+  },
+  {
+    "age": 14790,
+    "coherence": 2.0,
+    "damping": 0.9999999999986197,
+    "knot_id": 664,
+    "memory": 14790.0,
+    "stability": 4.140865293841967e-11,
+    "suppression": 0.1353352832366127,
+    "survived": false
+  },
+  {
+    "age": 11390,
+    "coherence": 1.5078534031413613,
+    "damping": 0.27280261974891423,
+    "knot_id": 703,
+    "memory": 11390.0,
+    "stability": 38.97020249621312,
+    "suppression": 0.000012956322026476902,
+    "survived": false
+  },
+  {
+    "age": 1500,
+    "coherence": 1.515625,
+    "damping": 0.256066323721604,
+    "knot_id": 849,
+    "memory": 1500.0,
+    "stability": 40.86956373059158,
+    "suppression": 0.000012906074060656277,
+    "survived": false
+  },
+  {
+    "age": 56510,
+    "coherence": 1.3650793650793651,
+    "damping": 0.800951071798766,
+    "knot_id": 172,
+    "memory": 56510.0,
+    "stability": 6.658662530284399,
+    "suppression": 0.0812149858076442,
+    "survived": false
+  },
+  {
+    "age": 53930,
+    "coherence": 1.3650793650793651,
+    "damping": 0.800951071798766,
+    "knot_id": 201,
+    "memory": 53930.0,
+    "stability": 6.658662530284399,
+    "suppression": 0.0812149858076442,
+    "survived": false
+  },
+  {
+    "age": 8110,
+    "coherence": 1.5135135135135136,
+    "damping": 0.41084863031112884,
+    "knot_id": 766,
+    "memory": 8110.0,
+    "stability": 26.685912852106167,
+    "suppression": 0.0000997000039109399,
+    "survived": false
+  },
+  {
+    "age": 22420,
+    "coherence": 1.5384615384615385,
+    "damping": 0.9999999834590033,
+    "knot_id": 565,
+    "memory": 22420.0,
+    "stability": 4.962299060409632e-7,
+    "suppression": 0.10339168156442907,
+    "survived": false
+  },
+  {
+    "age": 2510,
+    "coherence": 1.504950495049505,
+    "damping": 0.26866615914898473,
+    "knot_id": 835,
+    "memory": 2510.0,
+    "stability": 39.428571425070984,
+    "suppression": 0.000012975141186771855,
+    "survived": false
+  },
+  {
+    "age": 8810,
+    "coherence": 1.5789473684210527,
+    "damping": 0.7847231940506812,
+    "knot_id": 757,
+    "memory": 8810.0,
+    "stability": 7.272727272844815,
+    "suppression": 0.06802602311055689,
+    "survived": false
+  },
+  {
+    "age": 59080,
+    "coherence": 1.625,
+    "damping": 0.9999999999847057,
+    "knot_id": 140,
+    "memory": 59080.0,
+    "stability": 4.588308509413563e-10,
+    "suppression": 0.0990134083638263,
+    "survived": false
+  },
+  {
+    "age": 8940,
+    "coherence": 1.5833333333333333,
+    "damping": 0.2513391157097715,
+    "knot_id": 764,
+    "memory": 8940.0,
+    "stability": 41.42856579312416,
+    "suppression": 0.000012476462775262095,
+    "survived": false
+  },
+  {
+    "age": 560,
+    "coherence": 1.5042735042735043,
+    "damping": 0.18887560283756183,
+    "knot_id": 870,
+    "memory": 560.0,
+    "stability": 50.0,
+    "suppression": 0.000012979533955646287,
+    "survived": false
+  },
+  {
+    "age": 3040,
+    "coherence": 1.5223880597014925,
+    "damping": 0.6760804196330392,
+    "knot_id": 838,
+    "memory": 3040.0,
+    "stability": 11.74329738181869,
+    "suppression": 0.03322767772266315,
+    "survived": false
+  },
+  {
+    "age": 2690,
+    "coherence": 1.5106382978723405,
+    "damping": 0.37240463381851,
+    "knot_id": 844,
+    "memory": 2690.0,
+    "stability": 29.63322871604909,
+    "suppression": 0.000016452644558853564,
+    "survived": false
+  },
+  {
+    "age": 3580,
+    "coherence": 1.5333333333333334,
+    "damping": 0.25133906864051386,
+    "knot_id": 831,
+    "memory": 3580.0,
+    "stability": 41.42857141134183,
+    "suppression": 0.00001279230593413641,
+    "survived": false
+  },
+  {
+    "age": 6740,
+    "coherence": 1.5172413793103448,
+    "damping": 0.24809603156115412,
+    "knot_id": 793,
+    "memory": 6740.0,
+    "stability": 41.81818151196367,
+    "suppression": 0.000012895647718909848,
+    "survived": false
+  },
+  {
+    "age": 820,
+    "coherence": 1.5272727272727273,
+    "damping": 0.2822092922670929,
+    "knot_id": 875,
+    "memory": 820.0,
+    "stability": 37.9531893647083,
+    "suppression": 0.000012831129291132633,
+    "survived": false
+  },
+  {
+    "age": 10220,
+    "coherence": 1.5172413793103448,
+    "damping": 0.2544738092183282,
+    "knot_id": 754,
+    "memory": 10220.0,
+    "stability": 41.05672077062151,
+    "suppression": 0.000012895647718909848,
+    "survived": false
+  },
+  {
+    "age": 300,
+    "coherence": 1.5151515151515151,
+    "damping": 0.9999999999398587,
+    "knot_id": 882,
+    "memory": 300.0,
+    "stability": 1.8042389140948996e-9,
+    "suppression": 0.10460376250619108,
+    "survived": false
+  },
+  {
+    "age": 9840,
+    "coherence": 1.5045871559633028,
+    "damping": 0.8914121103176468,
+    "knot_id": 761,
+    "memory": 9840.0,
+    "stability": 3.448452985028844,
+    "suppression": 0.09734966965427193,
+    "survived": false
+  },
+  {
+    "age": 3790,
+    "coherence": 1.5098039215686274,
+    "damping": 0.8309236654282243,
+    "knot_id": 843,
+    "memory": 3790.0,
+    "stability": 5.556520411092628,
+    "suppression": 0.08414054458867179,
+    "survived": false
+  },
+  {
+    "age": 1790,
+    "coherence": 1.6363636363636365,
+    "damping": 0.9850641101591062,
+    "knot_id": 869,
+    "memory": 1790.0,
+    "stability": 0.45145660416402617,
+    "suppression": 0.09836577785422736,
+    "survived": false
+  },
+  {
+    "age": 20400,
+    "coherence": 1.6153846153846154,
+    "damping": 0.2635973952984078,
+    "knot_id": 609,
+    "memory": 20400.0,
+    "stability": 39.99997073004387,
+    "suppression": 0.000012278113047340515,
+    "survived": false
+  },
+  {
+    "age": 3100,
+    "coherence": 1.5151515151515151,
+    "damping": 0.2584965194675487,
+    "knot_id": 857,
+    "memory": 3100.0,
+    "stability": 40.586191483994085,
+    "suppression": 0.000012909129837618597,
+    "survived": false
+  },
+  {
+    "age": 9220,
+    "coherence": 1.5384615384615385,
+    "damping": 0.7944317453157514,
+    "knot_id": 783,
+    "memory": 9220.0,
+    "stability": 6.903846170258974,
+    "suppression": 0.0724748839930333,
+    "survived": false
+  },
+  {
+    "age": 3120,
+    "coherence": 1.5081967213114753,
+    "damping": 0.9459594683127837,
+    "knot_id": 858,
+    "memory": 3120.0,
+    "stability": 1.6666666855041061,
+    "suppression": 0.10334513454718673,
+    "survived": false
+  },
+  {
+    "age": 10300,
+    "coherence": 1.5365853658536586,
+    "damping": 0.3760333505012266,
+    "knot_id": 769,
+    "memory": 10300.0,
+    "stability": 29.3423232415239,
+    "suppression": 0.000019601055285745692,
+    "survived": false
+  },
+  {
+    "age": 1430,
+    "coherence": 1.5223880597014925,
+    "damping": 0.25637576944283097,
+    "knot_id": 880,
+    "memory": 1430.0,
+    "stability": 40.833331840631544,
+    "suppression": 0.000012862505491688771,
+    "survived": false
+  },
+  {
+    "age": 2210,
+    "coherence": 1.5294117647058822,
+    "damping": 0.867223856653967,
+    "knot_id": 872,
+    "memory": 2210.0,
+    "stability": 4.2737441608782705,
+    "suppression": 0.09177626633677206,
+    "survived": false
+  },
+  {
+    "age": 11820,
+    "coherence": 1.5454545454545454,
+    "damping": 0.24935399789044863,
+    "knot_id": 747,
+    "memory": 11820.0,
+    "stability": 41.6664514161089,
+    "suppression": 0.000012715011270109494,
+    "survived": false
+  },
+  {
+    "age": 8370,
+    "coherence": 1.5054945054945055,
+    "damping": 0.8064983830337233,
+    "knot_id": 791,
+    "memory": 8370.0,
+    "stability": 6.45160159010314,
+    "suppression": 0.07739494062501465,
+    "survived": false
+  },
+  {
+    "age": 21120,
+    "coherence": 1.5434782608695652,
+    "damping": 0.2614237641701909,
+    "knot_id": 610,
+    "memory": 21120.0,
+    "stability": 40.248377123732624,
+    "suppression": 0.000012727581720168807,
+    "survived": false
+  },
+  {
+    "age": 4200,
+    "coherence": 1.5029239766081872,
+    "damping": 0.2537141033746407,
+    "knot_id": 854,
+    "memory": 4200.0,
+    "stability": 41.1464166949988,
+    "suppression": 0.000012988295031220385,
+    "survived": false
+  },
+  {
+    "age": 6200,
+    "coherence": 1.5041322314049588,
+    "damping": 0.2595094417644401,
+    "knot_id": 823,
+    "memory": 6200.0,
+    "stability": 40.46886577768147,
+    "suppression": 0.000012980450816024937,
+    "survived": false
+  },
+  {
+    "age": 15660,
+    "coherence": 1.509433962264151,
+    "damping": 0.3898469240267396,
+    "knot_id": 695,
+    "memory": 15660.0,
+    "stability": 28.260033582097527,
+    "suppression": 0.00003922698825828273,
+    "survived": false
+  },
+  {
+    "age": 210,
+    "coherence": 1.5017921146953406,
+    "damping": 0.1903691962074984,
+    "knot_id": 904,
+    "memory": 210.0,
+    "stability": 49.763698630136986,
+    "suppression": 0.000012995647589773715,
+    "survived": false
+  },
+  {
+    "age": 4560,
+    "coherence": 1.5333333333333334,
+    "damping": 0.2638690351914488,
+    "knot_id": 852,
+    "memory": 4560.0,
+    "stability": 39.969071332316936,
+    "suppression": 0.00001279230593413641,
+    "survived": false
+  },
+  {
+    "age": 2080,
+    "coherence": 1.5555555555555556,
+    "damping": 0.255729312241187,
+    "knot_id": 883,
+    "memory": 2080.0,
+    "stability": 40.909073039242855,
+    "suppression": 0.000012650955933531133,
+    "survived": false
+  },
+  {
+    "age": 8560,
+    "coherence": 1.542857142857143,
+    "damping": 0.25144317643606934,
+    "knot_id": 797,
+    "memory": 8560.0,
+    "stability": 41.41614760782894,
+    "suppression": 0.00001273153499913071,
+    "survived": false
+  },
+  {
+    "age": 1170,
+    "coherence": 1.5037313432835822,
+    "damping": 0.2559036523153383,
+    "knot_id": 898,
+    "memory": 1170.0,
+    "stability": 40.88862790458856,
+    "suppression": 0.000012983052931076605,
+    "survived": false
+  },
+  {
+    "age": 14700,
+    "coherence": 1.5087719298245614,
+    "damping": 0.7097786805132615,
+    "knot_id": 712,
+    "memory": 14700.0,
+    "stability": 10.284062253832715,
+    "suppression": 0.04468352360846646,
+    "survived": false
+  },
+  {
+    "age": 7280,
+    "coherence": 1.5625,
+    "damping": 0.846481709327873,
+    "knot_id": 813,
+    "memory": 7280.0,
+    "stability": 5.000000551556189,
+    "suppression": 0.08578107893062697,
+    "survived": false
+  },
+  {
+    "age": 11350,
+    "coherence": 1.510204081632653,
+    "damping": 0.2758553253173899,
+    "knot_id": 775,
+    "memory": 11350.0,
+    "stability": 38.63636202989704,
+    "suppression": 0.000012941102898291294,
+    "survived": false
+  },
+  {
+    "age": 6900,
+    "coherence": 1.5118110236220472,
+    "damping": 0.25936898980400536,
+    "knot_id": 822,
+    "memory": 6900.0,
+    "stability": 40.48510680316875,
+    "suppression": 0.00001293070927352027,
+    "survived": false
+  },
+  {
+    "age": 2490,
+    "coherence": 1.5147058823529411,
+    "damping": 0.8728557058528998,
+    "knot_id": 887,
+    "memory": 2490.0,
+    "stability": 4.079550665866138,
+    "suppression": 0.12103609244294923,
+    "survived": false
+  },
+  {
+    "age": 560,
+    "coherence": 1.5254237288135593,
+    "damping": 0.8607079068560023,
+    "knot_id": 912,
+    "memory": 560.0,
+    "stability": 4.500002424831425,
+    "suppression": 0.09060247458336246,
+    "survived": false
+  },
+  {
+    "age": 1450,
+    "coherence": 1.5052631578947369,
+    "damping": 0.8119366394168906,
+    "knot_id": 902,
+    "memory": 1450.0,
+    "stability": 6.249989164192338,
+    "suppression": 0.07901887835110916,
+    "survived": false
+  },
+  {
+    "age": 60,
+    "coherence": 1.5130434782608695,
+    "damping": 0.8942487533161384,
+    "knot_id": 921,
+    "memory": 60.0,
+    "stability": 3.353138848652802,
+    "suppression": 0.09738721568610659,
+    "survived": false
+  },
+  {
+    "age": 25150,
+    "coherence": 1.5316455696202531,
+    "damping": 0.8909654810244162,
+    "knot_id": 583,
+    "memory": 25150.0,
+    "stability": 3.4634878229245247,
+    "suppression": 0.09597024257676151,
+    "survived": false
+  },
+  {
+    "age": 1070,
+    "coherence": 1.5057471264367817,
+    "damping": 0.25393968370516085,
+    "knot_id": 908,
+    "memory": 1070.0,
+    "stability": 41.11975517672292,
+    "suppression": 0.000012969974013561414,
+    "survived": false
+  },
+  {
+    "age": 31580,
+    "coherence": 1.6,
+    "damping": 0.8597450128341884,
+    "knot_id": 509,
+    "memory": 31580.0,
+    "stability": 4.5335829120856195,
+    "suppression": 0.0870870691719282,
+    "survived": false
+  },
+  {
+    "age": 7560,
+    "coherence": 1.5365853658536586,
+    "damping": 0.2636038701260763,
+    "knot_id": 837,
+    "memory": 7560.0,
+    "stability": 39.999233839437565,
+    "suppression": 0.000012771522338493929,
+    "survived": false
+  },
+  {
+    "age": 1570,
+    "coherence": 1.5151515151515151,
+    "damping": 0.5620343293163544,
+    "knot_id": 913,
+    "memory": 1570.0,
+    "stability": 17.28577040283624,
+    "suppression": 0.007200493197671646,
+    "survived": false
+  },
+  {
+    "age": 750,
+    "coherence": 1.5789473684210527,
+    "damping": 0.9999975889904578,
+    "knot_id": 929,
+    "memory": 750.0,
+    "stability": 0.00007233037346212931,
+    "suppression": 0.10131977401958911,
+    "survived": false
+  },
+  {
+    "age": 7730,
+    "coherence": 1.5208333333333333,
+    "damping": 0.18887560283756183,
+    "knot_id": 840,
+    "memory": 7730.0,
+    "stability": 50.0,
+    "suppression": 0.000012872508217284626,
+    "survived": false
+  },
+  {
+    "age": 4840,
+    "coherence": 1.542857142857143,
+    "damping": 0.7391343613142982,
+    "knot_id": 877,
+    "memory": 4840.0,
+    "stability": 9.06826678561922,
+    "suppression": 0.05400040607761676,
+    "survived": false
+  },
+  {
+    "age": 880,
+    "coherence": 1.52,
+    "damping": 0.8594021906048918,
+    "knot_id": 928,
+    "memory": 880.0,
+    "stability": 4.545547759533994,
+    "suppression": 0.09056694853253708,
+    "survived": false
+  },
+  {
+    "age": 2370,
+    "coherence": 1.509090909090909,
+    "damping": 0.8295687174470281,
+    "knot_id": 907,
+    "memory": 2370.0,
+    "stability": 5.605479923195084,
+    "suppression": 0.08380986970706684,
+    "survived": false
+  },
+  {
+    "age": 10040,
+    "coherence": 1.5238095238095237,
+    "damping": 0.2621760607910776,
+    "knot_id": 805,
+    "memory": 10040.0,
+    "stability": 40.16217039454521,
+    "suppression": 0.000012853366944654697,
+    "survived": false
+  },
+  {
+    "age": 680,
+    "coherence": 1.5205479452054795,
+    "damping": 0.25877831606263224,
+    "knot_id": 936,
+    "memory": 680.0,
+    "stability": 40.55350518994638,
+    "suppression": 0.000012874345178853718,
+    "survived": false
+  },
+  {
+    "age": 250,
+    "coherence": 1.513157894736842,
+    "damping": 0.2867004593611351,
+    "knot_id": 942,
+    "memory": 250.0,
+    "stability": 37.47951911573516,
+    "suppression": 0.000012922004205593243,
+    "survived": false
+  },
+  {
+    "age": 8680,
+    "coherence": 1.6,
+    "damping": 0.9999870865974091,
+    "knot_id": 832,
+    "memory": 8680.0,
+    "stability": 0.0003874045790886149,
+    "suppression": 0.13533528321523558,
+    "survived": false
+  },
+  {
+    "age": 7790,
+    "coherence": 1.5454545454545454,
+    "damping": 0.7640826634065871,
+    "knot_id": 850,
+    "memory": 7790.0,
+    "stability": 8.072378924773677,
+    "suppression": 0.062418696177641515,
+    "survived": false
+  },
+  {
+    "age": 42450,
+    "coherence": 1.5263157894736843,
+    "damping": 0.5398877606159086,
+    "knot_id": 401,
+    "memory": 42450.0,
+    "stability": 18.4918203521715,
+    "suppression": 0.004667067398563483,
+    "survived": false
+  },
+  {
+    "age": 8000,
+    "coherence": 1.565217391304348,
+    "damping": 0.3072884149455471,
+    "knot_id": 847,
+    "memory": 8000.0,
+    "stability": 35.39905530150505,
+    "suppression": 0.000012589987589487198,
+    "survived": false
+  },
+  {
+    "age": 7410,
+    "coherence": 1.5106382978723405,
+    "damping": 0.2522624169942822,
+    "knot_id": 853,
+    "memory": 7410.0,
+    "stability": 41.31856188022114,
+    "suppression": 0.000012938293584745755,
+    "survived": false
+  },
+  {
+    "age": 3470,
+    "coherence": 1.5714285714285714,
+    "damping": 0.7659084579490545,
+    "knot_id": 903,
+    "memory": 3470.0,
+    "stability": 8.00077868930854,
+    "suppression": 0.08279101690379828,
+    "survived": false
+  },
+  {
+    "age": 17500,
+    "coherence": 1.5454545454545454,
+    "damping": 0.8007084080259658,
+    "knot_id": 714,
+    "memory": 17500.0,
+    "stability": 6.667752993433916,
+    "suppression": 0.0741378282386576,
+    "survived": false
+  },
+  {
+    "age": 61060,
+    "coherence": 1.6,
+    "damping": 0.8464408327230529,
+    "knot_id": 198,
+    "memory": 61060.0,
+    "stability": 5.001449286645222,
+    "suppression": 0.08417829187732918,
+    "survived": false
+  },
+  {
+    "age": 1710,
+    "coherence": 1.5301204819277108,
+    "damping": 0.894781023418756,
+    "knot_id": 934,
+    "memory": 1710.0,
+    "stability": 3.3352877164275765,
+    "suppression": 0.09664102254104218,
+    "survived": false
+  },
+  {
+    "age": 2590,
+    "coherence": 1.5151515151515151,
+    "damping": 0.2528266022910717,
+    "knot_id": 924,
+    "memory": 2590.0,
+    "stability": 41.25154174992039,
+    "suppression": 0.000012909129837618597,
+    "survived": false
+  },
+  {
+    "age": 3300,
+    "coherence": 1.5098039215686274,
+    "damping": 0.373564831170816,
+    "knot_id": 915,
+    "memory": 3300.0,
+    "stability": 29.539911361205426,
+    "suppression": 0.000017487315121572967,
+    "survived": false
+  },
+  {
+    "age": 37920,
+    "coherence": 1.5333333333333334,
+    "damping": 0.7163766201906928,
+    "knot_id": 460,
+    "memory": 37920.0,
+    "stability": 10.006477333834626,
+    "suppression": 0.04639551005280128,
+    "survived": false
+  },
+  {
+    "age": 7630,
+    "coherence": 1.5104166666666667,
+    "damping": 0.2993921980452623,
+    "knot_id": 863,
+    "memory": 7630.0,
+    "stability": 36.18002597907599,
+    "suppression": 0.00001293972742899371,
+    "survived": false
+  },
+  {
+    "age": 1920,
+    "coherence": 1.504201680672269,
+    "damping": 0.8969403723649017,
+    "knot_id": 940,
+    "memory": 1920.0,
+    "stability": 3.262976809273642,
+    "suppression": 0.09823256653129171,
+    "survived": false
+  },
+  {
+    "age": 17660,
+    "coherence": 1.5217391304347827,
+    "damping": 0.743182165151972,
+    "knot_id": 732,
+    "memory": 17660.0,
+    "stability": 8.904422674320227,
+    "suppression": 0.0559804806427925,
+    "survived": false
+  },
+  {
+    "age": 22950,
+    "coherence": 1.5208333333333333,
+    "damping": 0.4107567396925239,
+    "knot_id": 657,
+    "memory": 22950.0,
+    "stability": 26.692623418201006,
+    "suppression": 0.00009895415727729251,
+    "survived": false
+  },
+  {
+    "age": 31370,
+    "coherence": 1.5185185185185186,
+    "damping": 0.24892700364504525,
+    "knot_id": 549,
+    "memory": 31370.0,
+    "stability": 41.71786750646035,
+    "suppression": 0.00001288741557892846,
+    "survived": false
+  },
+  {
+    "age": 10970,
+    "coherence": 1.5142857142857142,
+    "damping": 0.8846641226275724,
+    "knot_id": 824,
+    "memory": 10970.0,
+    "stability": 3.6764168539740534,
+    "suppression": 0.09575497061019307,
+    "survived": false
+  },
+  {
+    "age": 4200,
+    "coherence": 1.5118110236220472,
+    "damping": 0.259779688191668,
+    "knot_id": 914,
+    "memory": 4200.0,
+    "stability": 40.43764080846465,
+    "suppression": 0.00001293070927352027,
+    "survived": false
+  },
+  {
+    "age": 33050,
+    "coherence": 1.5238095238095237,
+    "damping": 0.8450308587253682,
+    "knot_id": 531,
+    "memory": 33050.0,
+    "stability": 5.051463992704616,
+    "suppression": 0.08710926075139842,
+    "survived": false
+  },
+  {
+    "age": 2320,
+    "coherence": 1.5714285714285714,
+    "damping": 0.6523723705473224,
+    "knot_id": 943,
+    "memory": 2320.0,
+    "stability": 12.814192788340737,
+    "suppression": 0.02545448481103673,
+    "survived": false
+  },
+  {
+    "age": 3650,
+    "coherence": 1.5106382978723405,
+    "damping": 0.9128833640815861,
+    "knot_id": 925,
+    "memory": 3650.0,
+    "stability": 2.7344147019714153,
+    "suppression": 0.10009561230726344,
+    "survived": false
+  },
+  {
+    "age": 840,
+    "coherence": 1.52,
+    "damping": 0.2574619727388396,
+    "knot_id": 962,
+    "memory": 840.0,
+    "stability": 40.70649745404105,
+    "suppression": 0.000012877872879935594,
+    "survived": false
+  },
+  {
+    "age": 1380,
+    "coherence": 1.5238095238095237,
+    "damping": 0.29060508962750875,
+    "knot_id": 958,
+    "memory": 1380.0,
+    "stability": 37.07370041387772,
+    "suppression": 0.000012853366944654697,
+    "survived": false
+  },
+  {
+    "age": 54060,
+    "coherence": 1.8,
+    "damping": 0.991813791792997,
+    "knot_id": 293,
+    "memory": 54060.0,
+    "stability": 0.24659697609184916,
+    "suppression": 0.0906968382698373,
+    "survived": false
+  },
+  {
+    "age": 4080,
+    "coherence": 1.5769230769230769,
+    "damping": 0.9851217294568375,
+    "knot_id": 930,
+    "memory": 4080.0,
+    "stability": 0.44970186722736655,
+    "suppression": 0.10133387406712707,
+    "survived": false
+  },
+  {
+    "age": 4510,
+    "coherence": 1.5060975609756098,
+    "damping": 0.836850969775933,
+    "knot_id": 922,
+    "memory": 4510.0,
+    "stability": 5.343278315470503,
+    "suppression": 0.08584296608453887,
+    "survived": false
+  },
+  {
+    "age": 2250,
+    "coherence": 1.510204081632653,
+    "damping": 0.8771479656802089,
+    "knot_id": 954,
+    "memory": 2250.0,
+    "stability": 3.9323874854351164,
+    "suppression": 0.09459999404833844,
+    "survived": false
+  },
+  {
+    "age": 160,
+    "coherence": 1.5333333333333334,
+    "damping": 0.7600908329238996,
+    "knot_id": 985,
+    "memory": 160.0,
+    "stability": 8.229520075146526,
+    "suppression": 0.06144923923517963,
+    "survived": false
+  },
+  {
+    "age": 4030,
+    "coherence": 1.75,
+    "damping": 0.859745043385874,
+    "knot_id": 941,
+    "memory": 4030.0,
+    "stability": 4.5335818460130755,
+    "suppression": 0.08079446705473535,
+    "survived": false
+  },
+  {
+    "age": 7680,
+    "coherence": 1.509090909090909,
+    "damping": 0.7752397849766034,
+    "knot_id": 896,
+    "memory": 7680.0,
+    "stability": 7.637486925398384,
+    "suppression": 0.06732508747175707,
+    "survived": false
+  },
+  {
+    "age": 21510,
+    "coherence": 1.5208333333333333,
+    "damping": 0.6089453686086403,
+    "knot_id": 704,
+    "memory": 21510.0,
+    "stability": 14.880801660428661,
+    "suppression": 0.015221062519612761,
+    "survived": false
+  },
+  {
+    "age": 48600,
+    "coherence": 1.5096153846153846,
+    "damping": 0.6147476858390482,
+    "knot_id": 378,
+    "memory": 48600.0,
+    "stability": 14.596300868594945,
+    "suppression": 0.01658195073235137,
+    "survived": false
+  },
+  {
+    "age": 1070,
+    "coherence": 1.5211267605633803,
+    "damping": 0.6775303818869424,
+    "knot_id": 983,
+    "memory": 1070.0,
+    "stability": 11.679026493605406,
+    "suppression": 0.033707931735765605,
+    "survived": false
+  },
+  {
+    "age": 2580,
+    "coherence": 1.5135135135135136,
+    "damping": 0.5655118228021266,
+    "knot_id": 966,
+    "memory": 2580.0,
+    "stability": 17.100722304978337,
+    "suppression": 0.007672085777729467,
+    "survived": false
+  },
+  {
+    "age": 230,
+    "coherence": 1.5081967213114753,
+    "damping": 0.7123025264330153,
+    "knot_id": 993,
+    "memory": 230.0,
+    "stability": 10.177576834128262,
+    "suppression": 0.0455686600217067,
+    "survived": false
+  },
+  {
+    "age": 2570,
+    "coherence": 1.5294117647058822,
+    "damping": 0.4143010074808084,
+    "knot_id": 973,
+    "memory": 2570.0,
+    "stability": 26.434874944060937,
+    "suppression": 0.00011413430643459775,
+    "survived": false
+  },
+  {
+    "age": 11410,
+    "coherence": 1.55,
+    "damping": 0.35320434354326047,
+    "knot_id": 859,
+    "memory": 11410.0,
+    "stability": 31.221255379210433,
+    "suppression": 0.000012686146330715025,
+    "survived": false
+  }
+]

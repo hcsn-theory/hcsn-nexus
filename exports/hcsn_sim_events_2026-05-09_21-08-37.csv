@@ -1,0 +1,2 @@
+thread_id,v_rel_smoothed,initial_chi,final_chi,pre_p_mag,post_p_mag,pre_mass,post_mass,pre_s_sum,post_s_sum,pre_s_mean,post_s_mean,pre_age_a,pre_age_b,chi_max,duration,theta,stability_bin,pre_E_total,post_E_total
+0,0.000125,0.833333,0.857143,6.704545,0.000000,2491.000000,700.000000,23.377251,16.876849,11.688626,8.438425,460,10,0.857143,22.000000,0.000000,10.000000,0.476626,0.000000
